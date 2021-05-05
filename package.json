@@ -7,7 +7,7 @@
     "build": "concurrently \"npm:build:*\"",
     "build:default-gruvbox-dark": "npm run build --prefix examples/default-gruvbox-dark",
     "build:default-gruvbox-light": "npm run build --prefix examples/default-gruvbox-light",
-    "copy": "copyfiles examples/*/public/* dist"
+    "copy": "node copy.mjs"
   },
   "repository": {
     "type": "git",
@@ -25,7 +25,8 @@
   ],
   "devDependencies": {
     "@osmoscraft/osmosfeed": "^1.4.0",
+    "@types/fs-extra": "^9.0.11",
     "concurrently": "^6.0.2",
-    "copyfiles": "^2.4.1"
+    "fs-extra": "^9.1.0"
   }
 }
