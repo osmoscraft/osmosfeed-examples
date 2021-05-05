@@ -4,10 +4,10 @@
       "href": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "articles": [
         {
-          "description": "Added: Custom CSS and JavaScript via includes folder. See documentation.",
+          "description": "Added: Basic theme customization: Demo | Source. See documentation.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-05T05:27:20.000Z",
-          "wordCount": 285,
+          "publishedOn": "2021-05-05T07:20:50.000Z",
+          "wordCount": 284,
           "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
           "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.4.0"
