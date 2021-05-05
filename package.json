@@ -13,8 +13,8 @@
     "url": "git+https://github.com/osmoscraft/osmosfeed-examples.git"
   },
   "keywords": [],
-  "author": "Chuanqi Sun",
-  "license": "ISC",
+  "author": "osmoscraft",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/osmoscraft/osmosfeed-examples/issues"
   },
