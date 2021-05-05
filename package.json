@@ -1,0 +1,29 @@
+{
+  "name": "osmosfeed-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "concurrently \"npm:build:*\"",
+    "build:default-gruvbox-dark": "npm run build --prefix examples/default-gruvbox-dark",
+    "build:default-gruvbox-light": "npm run build --prefix examples/default-gruvbox-light"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osmoscraft/osmosfeed-examples.git"
+  },
+  "keywords": [],
+  "author": "Chuanqi Sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osmoscraft/osmosfeed-examples/issues"
+  },
+  "homepage": "https://github.com/osmoscraft/osmosfeed-examples#readme",
+  "workspaces": [
+    "./examples/*"
+  ],
+  "devDependencies": {
+    "@osmoscraft/osmosfeed": "^1.4.0",
+    "concurrently": "^6.0.2"
+  }
+}
