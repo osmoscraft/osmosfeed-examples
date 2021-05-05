@@ -1,3 +1,5 @@
+⚠ This repo is set up as a monorepo to build the examples efficiently. For personal setup, refer to [documentation](https://github.com/osmoscraft/osmosfeed)
+
 # Examples
 
 Naming convention
