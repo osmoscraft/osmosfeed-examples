@@ -19,10 +19,8 @@ jobs:
         run: npm i
       - name: Build the feed
         run: npm run build
-      - name: Copy the output
-        run: npm run copy
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./examples

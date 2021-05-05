@@ -5,11 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "concurrently \"npm:build:*\"",
-    "copy": "concurrently \"npm:copy:*\"",
     "build:default-gruvbox-dark": "npm run build --prefix examples/default-gruvbox-dark",
-    "build:default-gruvbox-light": "npm run build --prefix examples/default-gruvbox-light",
-    "copy:public": "copyfiles examples/*/public/* dist",
-    "copy:index": "copyfiles index.html dist"
+    "build:default-gruvbox-light": "npm run build --prefix examples/default-gruvbox-light"
   },
   "repository": {
     "type": "git",
