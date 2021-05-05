@@ -19,8 +19,8 @@ jobs:
         run: npm i
       - name: Build the feed
         run: npm run build
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./examples
+          branch: gh-pages # The branch the action should deploy to.
+          folder: examples # The folder the action should deploy.
