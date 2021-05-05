@@ -1,4 +1,4 @@
-⚠ This repo is set up as a monorepo to build the examples efficiently. If you haven't tried a basic setup, please consider using the official [template](https://github.com/osmoscraft/osmosfeed) instead.
+⚠ This repo has a non-standard setup to build multiple examples in parallel. Please use the official [template](https://github.com/osmoscraft/osmosfeed) to get started.
 
 # Examples
 
