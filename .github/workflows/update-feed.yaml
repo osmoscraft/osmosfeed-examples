@@ -17,8 +17,10 @@ jobs:
           node-version: "14"
       - name: Install dependencies
         run: npm i
-      - name: Build the feed
+      - name: Build examples
         run: npm run build
+      - name: Copy output
+        run: npm run copy
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
