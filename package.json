@@ -6,7 +6,8 @@
   "scripts": {
     "build": "concurrently \"npm:build:*\"",
     "build:default-gruvbox-dark": "npm run build --prefix examples/default-gruvbox-dark",
-    "build:default-gruvbox-light": "npm run build --prefix examples/default-gruvbox-light"
+    "build:default-gruvbox-light": "npm run build --prefix examples/default-gruvbox-light",
+    "copy": "copyfiles examples/*/public/* dist"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
   ],
   "devDependencies": {
     "@osmoscraft/osmosfeed": "^1.4.0",
-    "concurrently": "^6.0.2"
+    "concurrently": "^6.0.2",
+    "copyfiles": "^2.4.1"
   }
 }
