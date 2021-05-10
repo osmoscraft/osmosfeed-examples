@@ -1,91 +1,303 @@
 {
   "sources": [
     {
-      "href": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
       "articles": [
         {
-          "description": "Added: Basic theme customization: Demo | Source. See documentation.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-05T07:20:50.000Z",
-          "wordCount": 284,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.4.0"
+          "id": "https://css-tricks.com/?p=339781",
+          "author": "Chris Coyier",
+          "description": "I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;\nThe post Is CSS a Programming Language? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/is-css-a-programming-language/",
+          "publishedOn": "2021-05-07T13:56:17.000Z",
+          "wordCount": 3079,
+          "title": "Is CSS a Programming Language?"
         },
         {
-          "description": "Fixed: Avoid crwalers.\nFixed: Error logging from XML parser.\nFixed: Typo in docs.\nThank you: @dym-sh, @tabokie, @cheese1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "publishedOn": "2021-05-05T05:19:57.000Z",
-          "wordCount": 289,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.3.1"
+          "id": "https://css-tricks.com/?p=339574",
+          "author": "Chris Coyier",
+          "description": "These are a few great links about typography that have been burning a hole in my saved bookmarks folder that I'm just now getting around to sharing. There's good stuff in there, from how to choose typefaces for app design to ideas for how to fix the concept of font sizing in CSS.\nThe post Links on Typography appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-typography/",
+          "publishedOn": "2021-05-07T13:54:01.000Z",
+          "wordCount": 952,
+          "title": "Links on Typography"
         },
         {
-          "description": "Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.\nAdded: Documentation for osmosfeed.yaml.\nFixed: More intuitive logging during build.\nChore: Refactored parameter passing for enrich step.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
-          "publishedOn": "2021-05-05T05:19:26.000Z",
-          "wordCount": 297,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.3.0"
+          "id": "https://css-tricks.com/?p=339822",
+          "author": "Chris Coyier",
+          "description": "While I&#8217;m 85% certain you&#8217;ve seen and used Can I Use&#8230;, I bet there is only a 13% chance that you&#8217;ve seen and used Can I Email&#8230;. It&#8217;s the same vibe—detailed support information for web platform features—except instead &#8230;\nThe post Can I Email&#8230; appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.caniemail.com/",
+          "publishedOn": "2021-05-07T02:38:56.000Z",
+          "wordCount": 324,
+          "title": "Can I Email…"
         },
         {
-          "description": "Changed: favicon update.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
-          "publishedOn": "2021-05-05T05:19:03.000Z",
-          "wordCount": 274,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.2.3"
+          "id": "https://css-tricks.com/?p=340015",
+          "author": "Chris Coyier",
+          "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005",
+          "publishedOn": "2021-05-06T20:03:26.000Z",
+          "wordCount": 1547,
+          "title": "Apparently, You Can Use Route53 as a Blazingly Fast Database"
         },
         {
-          "description": "Added: Display CLI version in footer.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
-          "publishedOn": "2021-05-05T05:18:52.000Z",
-          "wordCount": 277,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.2.1"
+          "id": "https://css-tricks.com/?p=339936",
+          "author": "Geoff Graham",
+          "description": "It’s easy to forget that, as a search engine, Google doesn’t just compare keywords to generate search results. Google knows that if people don’t enjoy their experience on a web page, they won’t stay on the page long enough to &#8230;\nThe post What Google’s New Page Experience Update Means for Images on Your Website appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/",
+          "publishedOn": "2021-05-06T19:57:40.000Z",
+          "wordCount": 2518,
+          "title": "What Google’s New Page Experience Update Means for Images on Your Website"
         },
         {
-          "description": "Fixed: The output website didn't have favicon.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6",
-          "publishedOn": "2021-05-05T05:18:40.000Z",
-          "wordCount": 278,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.1.6"
+          "id": "https://css-tricks.com/?p=339586",
+          "author": "Šime Vidas",
+          "description": "There is an increasing number of “custom” features on the web platform. We have custom properties (--my-property), custom elements (&#60;my-element&#62;), and custom events (new CustomEvent('myEvent')). At one point, we might even get custom media &#8230;\nThe post Custom State Pseudo-Classes in Chrome appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/custom-state-pseudo-classes-in-chrome/",
+          "publishedOn": "2021-05-06T14:28:53.000Z",
+          "wordCount": 1025,
+          "title": "Custom State Pseudo-Classes in Chrome"
         },
         {
-          "description": "Fixed: Item description didn't use the description property from feed item.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1",
-          "publishedOn": "2021-05-05T05:18:27.000Z",
-          "wordCount": 282,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.1.1"
+          "id": "https://css-tricks.com/?p=339563",
+          "author": "Chris Coyier",
+          "description": "You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. \nI gotta admit: it looks awesome. I&#8217;m bullish &#8230;\nThe post Astro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/astro/",
+          "publishedOn": "2021-05-05T21:49:23.000Z",
+          "wordCount": 920,
+          "title": "Astro"
         },
         {
-          "description": "Added: MIT license\nAdded: cache.json is stamped with the version of the builder. This allows future builder with breaking change to ignore incompatible cache.\nAdded: Feed source retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Item enrichment retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Console log for cache restore and update behavior.\nAdded: npx command: npx osmosfeed\nChanged: Improved console log that breaks down rendered item count into \"new\" and \"cached\".\nFixed: Item…",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0",
-          "publishedOn": "2021-05-05T05:17:37.000Z",
-          "wordCount": 357,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.1.0"
+          "id": "https://css-tricks.com/?p=339954",
+          "author": "Chris Coyier",
+          "description": "The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;\nThe post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://infrequently.org/2021/04/progress-delayed/",
+          "publishedOn": "2021-05-05T16:51:23.000Z",
+          "wordCount": 6686,
+          "title": "Progress Delayed Is Progress Denied"
         },
         {
-          "description": "Changed: Runtime dependencies are moved out of devDependencies. This is not a breaking change, but to receive performance benefit, you need to make sure @osmoscraft/osmosfeed is listed as dependencies instead of devDependencies in the package.json of your rss reader site.\nChanged: Build target from node12 to node14.\nChanged: Switched to a more robust rss parser: rss-parser\nFixed: RSS 1.0 feed &lt;dc:date&gt; was not parsed as publish date.\nChore: npm dependencies version updates.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1",
-          "publishedOn": "2021-05-05T05:16:07.000Z",
-          "wordCount": 343,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.0.1"
+          "id": "https://css-tricks.com/?p=339518",
+          "author": "Rob O'Leary",
+          "description": "Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!\nIt‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;\nThe post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/is-vendor-prefixing-dead/",
+          "publishedOn": "2021-05-05T14:18:28.000Z",
+          "wordCount": 3101,
+          "title": "Is Vendor Prefixing Dead?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339455",
+          "author": "Chris Coyier",
+          "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
+          "publishedOn": "2021-05-04T21:16:04.000Z",
+          "wordCount": 676,
+          "title": "16px or Larger Text Prevents iOS Form Zoom"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339867",
+          "author": "Geoff Graham",
+          "description": "Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;\nThe post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/",
+          "publishedOn": "2021-05-04T21:15:57.000Z",
+          "wordCount": 450,
+          "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339449",
+          "author": "Chris Coyier",
+          "description": "I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;\nThe post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
+          "publishedOn": "2021-05-04T14:19:55.000Z",
+          "wordCount": 970,
+          "title": "Let’s use (X, X, X, X) for talking about specificity"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339742",
+          "author": "Chris Coyier",
+          "description": "A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;\nThe post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm",
+          "publishedOn": "2021-05-04T14:19:48.000Z",
+          "wordCount": 1276,
+          "title": "Creating Colorful, Smart Shadows"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339419",
+          "author": "Jay Hoffmann",
+          "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/chapter-8-css/",
+          "publishedOn": "2021-05-03T21:52:08.000Z",
+          "wordCount": 6672,
+          "title": "Chapter 8: CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339384",
+          "author": "Chris Coyier",
+          "description": "I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;\nThe post Swipey Image Grids appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.cassie.codes/posts/swipey-image-grids/",
+          "publishedOn": "2021-05-03T14:35:07.000Z",
+          "wordCount": 908,
+          "title": "Swipey Image Grids"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news",
+      "articles": [
+        {
+          "id": "609558382cd0545b5e943c6f",
+          "author": "",
+          "description": "“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses",
+          "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
+          "publishedOn": "2021-05-07T21:07:57.000Z",
+          "wordCount": 1065,
+          "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
+        },
+        {
+          "id": "609551f02cd0545b5e943bc0",
+          "author": "",
+          "description": "Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:",
+          "link": "https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/",
+          "publishedOn": "2021-05-07T16:59:53.000Z",
+          "wordCount": 1278,
+          "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
+        },
+        {
+          "id": "609409c201fc34080ef81f97",
+          "author": "",
+          "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
+          "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
+          "publishedOn": "2021-05-06T21:41:34.000Z",
+          "wordCount": 1349,
+          "title": "What Is &quot;Lifting State Up&quot; in React?"
+        },
+        {
+          "id": "609415eb2cd0545b5e943534",
+          "author": "",
+          "description": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
+          "publishedOn": "2021-05-06T16:26:08.000Z",
+          "wordCount": 426,
+          "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
+        },
+        {
+          "id": "60939bde01fc34080ef81a19",
+          "author": "",
+          "description": "If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or \"optionals\". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in",
+          "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
+          "publishedOn": "2021-05-06T16:06:35.000Z",
+          "wordCount": 1775,
+          "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
+        },
+        {
+          "id": "609307e801fc34080ef8191e",
+          "author": "",
+          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
+          "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
+          "publishedOn": "2021-05-05T21:11:40.000Z",
+          "wordCount": 352,
+          "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
+        },
+        {
+          "id": "609011fd8eb3fb07cf09a034",
+          "author": "",
+          "description": "A complete guide to Node.js async await",
+          "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
+          "publishedOn": "2021-05-04T16:07:17.000Z",
+          "wordCount": 2241,
+          "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
+        },
+        {
+          "id": "608f5ad48eb3fb07cf099ddb",
+          "author": "",
+          "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
+          "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
+          "publishedOn": "2021-05-04T15:33:12.000Z",
+          "wordCount": 1018,
+          "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
+        },
+        {
+          "id": "6090187c8eb3fb07cf09a060",
+          "author": "",
+          "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
+          "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
+          "publishedOn": "2021-05-03T17:20:56.000Z",
+          "wordCount": 2501,
+          "title": "How to Fetch Data in React from a GraphQL API"
+        },
+        {
+          "id": "608f553c8eb3fb07cf099da7",
+          "author": "",
+          "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
+          "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
+          "publishedOn": "2021-05-03T16:40:08.000Z",
+          "wordCount": 1164,
+          "title": "Common Mistakes React Developers Make – And How to Fix Them"
+        }
+      ]
+    },
+    {
+      "title": "A List Apart: The Full Feed",
+      "feedUrl": "https://alistapart.com/main/feed/",
+      "siteUrl": "https://alistapart.com",
+      "articles": [
+        {
+          "id": "https://alistapart.com/article/beware-the-cut-n-paste-persona/",
+          "author": "by ,",
+          "description": "This Person Does Not Exist is a website that generates human faces with a machine learning algorithm. It takes real portraits and recombines them into fake human faces. We recently scrolled past a LinkedIn post stating that this website could be useful “if you are developing a persona and looking for a photo.”&nbsp;\nWe agree: the computer-generated faces could be a great match for personas—but not for the reason you might think. Ironically, the website highlights the core issue of this very common design me…",
+          "link": "https://alistapart.com/article/beware-the-cut-n-paste-persona/",
+          "publishedOn": "2021-05-06T14:00:00.000Z",
+          "wordCount": 4224,
+          "title": "Beware the Cut ‘n’ Paste Persona"
+        },
+        {
+          "id": "https://alistapart.com/article/immersive-content-strategy/",
+          "author": "by",
+          "description": "Beyond the severe toll of the coronavirus pandemic, perhaps no other disruption has transformed user experiences quite like how the tethers to our formerly web-biased era of content have frayed. We’re transitioning to a new world of remote work and digital content. We’re also experimenting with unprecedented content channels that, not too long ago, elicited chuckles at the watercooler, like voice interfaces, digital signage, augmented reality, and virtual reality.\nMany factors are responsible. Perhaps it’s …",
+          "link": "https://alistapart.com/article/immersive-content-strategy/",
+          "publishedOn": "2021-04-29T14:00:00.000Z",
+          "wordCount": 5415,
+          "title": "Immersive Content Strategy"
+        },
+        {
+          "id": "https://alistapart.com/article/do-you-need-to-localize-your-website/",
+          "author": "by",
+          "description": "Global markets give you access to new customers. All you need to do is inform potential buyers about your product or service.&nbsp;\nYour website is a good place to introduce your product or service outside your locale. Localizing your web content sounds like the right way to reach out to the global market. Localization will bridge the language barriers, or the wider scope of differing cultures.&nbsp;\nBefore we move on further with the discussion, let’s focus on the definition of “localization.”&nbsp;\nWhat i…",
+          "link": "https://alistapart.com/article/do-you-need-to-localize-your-website/",
+          "publishedOn": "2021-04-22T14:00:00.000Z",
+          "wordCount": 2974,
+          "title": "Do You Need to Localize Your Website?"
+        }
+      ]
+    },
+    {
+      "title": "daverupert.com",
+      "feedUrl": "https://daverupert.com/atom.xml",
+      "siteUrl": "https://daverupert.com",
+      "articles": [
+        {
+          "id": "https://daverupert.com/2021/05/vibe-check-4/",
+          "author": null,
+          "description": "I turned 41 at the end of April. Another pandemic birthday in the books. This one was special thanks to grandparents coming to visit which allowed my wife and I to escape to a hotel for a night. A small relief to be off parenting duty for ~18 hours after fourteen months of so much parenting. We ate Korean food, drank cocktails, and watched Deadpool in our hotel room. A tranquil birthday.\nApril was a bit of a hangover from March work-wise. My project load carried over and, while they’re all great projects, I…",
+          "link": "https://daverupert.com/2021/05/vibe-check-4/",
+          "publishedOn": "2021-05-06T22:32:00.000Z",
+          "wordCount": 600,
+          "title": "Vibe Check №4"
+        },
+        {
+          "id": "https://daverupert.com/2021/04/the-oceanmaker/",
+          "author": null,
+          "description": "There’s two features I look for in good sci-fi: 1. something I hadn’t imagined before and 2. something that anticipates the automobile, as well as the traffic jam. The YouTube gods smiled up me and surfaced a channel called DUST, a massive collection sci-fi short films. The quality is much better than what you might expect from “free sci-fi” but one of their films, The OceanMaker, is an absolute standout that raptured me and took me somewhere I’ve never been.\nExtrapolating on the near future Water Wars, The…",
+          "link": "https://daverupert.com/2021/04/the-oceanmaker/",
+          "publishedOn": "2021-04-27T15:06:00.000Z",
+          "wordCount": 209,
+          "title": "The OceanMaker"
         }
       ]
     }
   ],
-  "cliVersion": "1.4.0"
+  "cliVersion": "1.6.0"
 }
