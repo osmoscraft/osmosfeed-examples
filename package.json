@@ -7,6 +7,8 @@
     "build": "concurrently \"npm:build:*\"",
     "build:default-gruvbox-dark": "npm run build --prefix examples/default-gruvbox-dark",
     "build:default-gruvbox-light": "npm run build --prefix examples/default-gruvbox-light",
+    "build:default-solarized-light": "npm run build --prefix examples/default-solarized-light",
+    "build:default-solarized-dark": "npm run build --prefix examples/default-solarized-dark",
     "copy": "node copy.mjs"
   },
   "repository": {
