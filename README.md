@@ -4,12 +4,12 @@
 
 ## Theming the default template
 
-- `default-gruvbox-light`: Default template, gruvbox light theme. [Demo](https://osmoscraft.github.io/osmosfeed-examples/default-gruvbox-light/)
-- `default-solarized-light`: Default template, solarized light theme. [Demo](https://osmoscraft.github.io/osmosfeed-examples/default-solarized-light/)
-- `default-solarized-dark`: Default template, solarized dark theme. [Demo](https://osmoscraft.github.io/osmosfeed-examples/default-solarized-dark/)
+- `examples/default-gruvbox-light`: Default template, gruvbox light theme. [Demo](https://osmoscraft.github.io/osmosfeed-examples/default-gruvbox-light/)
+- `examples/default-solarized-light`: Default template, solarized light theme. [Demo](https://osmoscraft.github.io/osmosfeed-examples/default-solarized-light/)
+- `examples/default-solarized-dark`: Default template, solarized dark theme. [Demo](https://osmoscraft.github.io/osmosfeed-examples/default-solarized-dark/)
 
 ## Building new templates
 
-- `articles-unstyled`: Flat list of articles, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/articles-unstyled/)
-- `articles-daily-unstyled`: Articles grouped by day, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/articles-daily-unstyled/)
-- `sources-daily-unstyled`: Articles grouped by source, then grouped by day, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/sources-daily-unstyled/)
+- `examples/articles-unstyled`: Flat list of articles, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/articles-unstyled/)
+- `examples/articles-daily-unstyled`: Articles grouped by day, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/articles-daily-unstyled/)
+- `examples/sources-daily-unstyled`: Articles grouped by source, then grouped by day, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/sources-daily-unstyled/)
