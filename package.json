@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
     "build": "concurrently \"npm:build:*\"",
+    "build:articles-unstyled": "npm run build --prefix examples/articles-unstyled",
+    "build:articles-daily-unstyled": "npm run build --prefix examples/articles-daily-unstyled",
+    "build:sources-daily-unstyled": "npm run build --prefix examples/sources-daily-unstyled",
     "build:default-gruvbox-dark": "npm run build --prefix examples/default-gruvbox-dark",
     "build:default-gruvbox-light": "npm run build --prefix examples/default-gruvbox-light",
     "build:default-solarized-light": "npm run build --prefix examples/default-solarized-light",
