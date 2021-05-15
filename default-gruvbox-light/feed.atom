@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-15T07:50:57.584Z</id>
+    <id>urn:2021-05-15T08:45:51.688Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T07:50:57.584Z</updated>
-    <generator>osmosfeed 1.6.0</generator>
+    <updated>2021-05-15T08:45:51.688Z</updated>
+    <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
         <id>https://css-tricks.com/?p=340136</id>
         <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
         <updated>2021-05-14T20:34:49.000Z</updated>
-        <summary type="html"><![CDATA[I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;
+        <summary type="html"><![CDATA[I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …
 The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -54,7 +54,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-14T14:14:34.000Z</updated>
         <summary type="html"><![CDATA[!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:
 $variable: 'test' !default;
-To the Sass compiler, this line &#8230;
+To the Sass compiler, this line …
 The post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -66,7 +66,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340403</id>
         <link href="https://css-tricks.com/html-boilerplates/"/>
         <updated>2021-05-14T14:13:07.000Z</updated>
-        <summary type="html"><![CDATA[Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;
+        <summary type="html"><![CDATA[Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …
 The post HTML Boilerplates appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -79,8 +79,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
         <updated>2021-05-13T23:22:45.000Z</updated>
         <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
-Firefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector 
-&#8230;
+Firefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector 
+…
 The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -92,7 +92,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340573</id>
         <link href="https://css-tricks.com/2021-design-systems-survey-courses/"/>
         <updated>2021-05-13T22:55:35.000Z</updated>
-        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;
+        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was …
 The post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -144,7 +144,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340036</id>
         <link href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/"/>
         <updated>2021-05-13T14:24:42.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;
+        <summary type="html"><![CDATA[When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in …
 The post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -156,7 +156,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340118</id>
         <link href="https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/"/>
         <updated>2021-05-13T14:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;
+        <summary type="html"><![CDATA[Building animations can get complicated, particularly compelling animations where you aren’t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI …
 The post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -188,8 +188,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=339960</id>
         <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
         <updated>2021-05-12T14:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.
-There are lots of &#8230;
+        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.
+There are lots of …
 The post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -211,7 +211,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340359</id>
         <link href="https://css-tricks.com/css-pie-timer-re-revisited/"/>
         <updated>2021-05-11T22:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;
+        <summary type="html"><![CDATA[Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…
 The post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -223,7 +223,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340186</id>
         <link href="https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e"/>
         <updated>2021-05-11T21:04:32.000Z</updated>
-        <summary type="html"><![CDATA[How many times have you heard that (or even uttered it under your own breath)? I know I&#8217;ve heard it in conversations. I also know I&#8217;ve wondered the same thing about a product or two — hey, the idea here &#8230;
+        <summary type="html"><![CDATA[How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …
 The post I could build this during the weekend appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -235,7 +235,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=339138</id>
         <link href="https://css-tricks.com/next-gen-css-container/"/>
         <updated>2021-05-11T14:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to &#8230;
+        <summary type="html"><![CDATA[Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …
 The post Next Gen CSS: @container appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -248,7 +248,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://css-tricks.com/distributed-persistent-rendering-dpr/"/>
         <updated>2021-05-11T14:33:10.000Z</updated>
         <summary type="html"><![CDATA[Like Jamstack, Netlify is coining this term.
-If your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;
+If your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push …
 The post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -261,8 +261,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://css-tricks.com/topframe/"/>
         <updated>2021-05-10T21:14:15.000Z</updated>
         <summary type="html"><![CDATA[This is extremely fun. Jeff Lindsay has created Topframe, and writes:
-Anybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you 
-&#8230;
+Anybody that knows how to mess around with HTML can now mess around with their desktop computing experience. Topframe is an open source tool that lets you 
+…
 The post Topframe appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -274,7 +274,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=340208</id>
         <link href="https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/"/>
         <updated>2021-05-10T21:13:23.000Z</updated>
-        <summary type="html"><![CDATA[I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;
+        <summary type="html"><![CDATA[I find build tooling endlessly interesting, especially right now as we’re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we’ve chatted on …
 The post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
@@ -286,7 +286,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://css-tricks.com/?p=339203</id>
         <link href="https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/"/>
         <updated>2021-05-10T14:13:12.000Z</updated>
-        <summary type="html"><![CDATA[I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;
+        <summary type="html"><![CDATA[I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in …
 The post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
