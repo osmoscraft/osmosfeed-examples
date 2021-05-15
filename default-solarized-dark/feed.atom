@@ -1,64 +1,296 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T08:12:10.728Z</id>
+    <id>urn:2021-05-15T07:50:57.040Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T08:12:10.728Z</updated>
+    <updated>2021-05-15T07:50:57.040Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems]]></title>
-        <id>609558382cd0545b5e943c6f</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/"/>
-        <updated>2021-05-07T21:07:57.000Z</updated>
-        <summary type="html"><![CDATA[“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses]]></summary>
+        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
+        <id>https://css-tricks.com/?p=340136</id>
+        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
+        <updated>2021-05-14T20:34:49.000Z</updated>
+        <summary type="html"><![CDATA[I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;
+The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is SendGrid? SMTP Email Newsletter Tutorial]]></title>
+        <id>609d63e962ab9107fe5aa2ce</id>
+        <link href="https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/"/>
+        <updated>2021-05-14T20:31:30.000Z</updated>
+        <summary type="html"><![CDATA[You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is]]></summary>
         <author>
             <name/>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be]]></title>
-        <id>609551f02cd0545b5e943bc0</id>
-        <link href="https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/"/>
-        <updated>2021-05-07T16:59:53.000Z</updated>
-        <summary type="html"><![CDATA[Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:]]></summary>
+        <title type="html"><![CDATA[React for Beginners: Complete React Cheatsheet for 2021]]></title>
+        <id>609ea83362ab9107fe5aa920</id>
+        <link href="https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/"/>
+        <updated>2021-05-14T20:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By]]></summary>
         <author>
             <name/>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is CSS a Programming Language?]]></title>
-        <id>https://css-tricks.com/?p=339781</id>
-        <link href="https://css-tricks.com/is-css-a-programming-language/"/>
-        <updated>2021-05-07T13:56:17.000Z</updated>
-        <summary type="html"><![CDATA[I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;
-The post Is CSS a Programming Language? appeared first on CSS-Tricks.
+        <title type="html"><![CDATA[Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page]]></title>
+        <id>609e8c2162ab9107fe5aa77d</id>
+        <link href="https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/"/>
+        <updated>2021-05-14T17:13:14.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Stylesheet Feature Flags With Sass !default]]></title>
+        <id>https://css-tricks.com/?p=340343</id>
+        <link href="https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/"/>
+        <updated>2021-05-14T14:14:34.000Z</updated>
+        <summary type="html"><![CDATA[!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:
+$variable: 'test' !default;
+To the Sass compiler, this line &#8230;
+The post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Nathan Babcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Boilerplates]]></title>
+        <id>https://css-tricks.com/?p=340403</id>
+        <link href="https://css-tricks.com/html-boilerplates/"/>
+        <updated>2021-05-14T14:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;
+The post HTML Boilerplates appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Links on Typography]]></title>
-        <id>https://css-tricks.com/?p=339574</id>
-        <link href="https://css-tricks.com/links-on-typography/"/>
-        <updated>2021-05-07T13:54:01.000Z</updated>
-        <summary type="html"><![CDATA[These are a few great links about typography that have been burning a hole in my saved bookmarks folder that I'm just now getting around to sharing. There's good stuff in there, from how to choose typefaces for app design to ideas for how to fix the concept of font sizing in CSS.
-The post Links on Typography appeared first on CSS-Tricks.
+        <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
+        <id>https://css-tricks.com/?p=340490</id>
+        <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
+        <updated>2021-05-13T23:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
+Firefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector 
+&#8230;
+The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can I Email…]]></title>
-        <id>https://css-tricks.com/?p=339822</id>
-        <link href="https://www.caniemail.com/"/>
-        <updated>2021-05-07T02:38:56.000Z</updated>
-        <summary type="html"><![CDATA[While I&#8217;m 85% certain you&#8217;ve seen and used Can I Use&#8230;, I bet there is only a 13% chance that you&#8217;ve seen and used Can I Email&#8230;. It&#8217;s the same vibe—detailed support information for web platform features—except instead &#8230;
-The post Can I Email&#8230; appeared first on CSS-Tricks.
+        <title type="html"><![CDATA[2021 Design Systems (Survey/Courses)]]></title>
+        <id>https://css-tricks.com/?p=340573</id>
+        <link href="https://css-tricks.com/2021-design-systems-survey-courses/"/>
+        <updated>2021-05-13T22:55:35.000Z</updated>
+        <summary type="html"><![CDATA[My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was &#8230;
+The post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Email Newsletter [2021 Tutorial] – Design, Layout, Send]]></title>
+        <id>609414f32cd0545b5e943526</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/"/>
+        <updated>2021-05-13T21:19:40.000Z</updated>
+        <summary type="html"><![CDATA[If you manage a large community, chances are you need a way to communicate updates to your members quickly and efficiently. An email newsletter can be a very effective way to do so. In this article, I am going to provide some tips and suggestions for maximizing the impact and]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects]]></title>
+        <id>609952396008950828b3ea8d</id>
+        <link href="https://www.freecodecamp.org/news/types-of-software-testing/"/>
+        <updated>2021-05-13T19:27:45.000Z</updated>
+        <summary type="html"><![CDATA[Software development and testing go hand in hand. And in the era of agile software development, with quick releases of small iterations, you should do testing more and more frequently.  In order to perform effective testing, you need to know about the different types of testing and when you should]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Tutorial – How to Work with Multiple Checkboxes]]></title>
+        <id>609bcc6a62ab9107fe5a9f08</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-multiple-checkboxes-in-react/"/>
+        <updated>2021-05-13T18:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Handling multiple checkboxes in React is completely different from how you use regular HTML checkboxes. So in this article, we'll see how to work with multiple checkboxes in React. You will learn: How to use a checkbox as a Controlled Input in ReactHow to use the array map and reduce]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills]]></title>
+        <id>609ccb0d62ab9107fe5aa0ce</id>
+        <link href="https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/"/>
+        <updated>2021-05-13T16:25:03.000Z</updated>
+        <summary type="html"><![CDATA[I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but now I am. And I'm going to share with you ten important lessons I learned during this career transition. I finished law school in Bangalore, India, a year before]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced CSS Animation Using cubic-bezier()]]></title>
+        <id>https://css-tricks.com/?p=340036</id>
+        <link href="https://css-tricks.com/advanced-css-animation-using-cubic-bezier/"/>
+        <updated>2021-05-13T14:24:42.000Z</updated>
+        <summary type="html"><![CDATA[When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in &#8230;
+The post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features]]></title>
+        <id>https://css-tricks.com/?p=340118</id>
+        <link href="https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/"/>
+        <updated>2021-05-13T14:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Building animations can get complicated, particularly compelling animations where you aren&#8217;t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI &#8230;
+The post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy a Portfolio with Vue.js Axios, the GitHub REST API, and Netlify]]></title>
+        <id>5fde208ae6787e09839407c3</id>
+        <link href="https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/"/>
+        <updated>2021-05-12T20:53:20.000Z</updated>
+        <summary type="html"><![CDATA[In this free book, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use the Kivy Python Library to Create Games and Mobile Apps]]></title>
+        <id>609c215862ab9107fe5a9fa9</id>
+        <link href="https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/"/>
+        <updated>2021-05-12T18:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
+        <id>https://css-tricks.com/?p=339960</id>
+        <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive/"/>
+        <updated>2021-05-12T14:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.
+There are lots of &#8230;
+The post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sandrina Pereira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Selenium and Python to Scrape Websites More Effectively]]></title>
+        <id>6096aafe2cd0545b5e944430</id>
+        <link href="https://www.freecodecamp.org/news/improve-web-scraping-with-selenium/"/>
+        <updated>2021-05-11T22:53:43.000Z</updated>
+        <summary type="html"><![CDATA[When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Pie Timer Re-Revisited]]></title>
+        <id>https://css-tricks.com/?p=340359</id>
+        <link href="https://css-tricks.com/css-pie-timer-re-revisited/"/>
+        <updated>2021-05-11T22:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function&#8230;
+The post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I could build this during the weekend]]></title>
+        <id>https://css-tricks.com/?p=340186</id>
+        <link href="https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e"/>
+        <updated>2021-05-11T21:04:32.000Z</updated>
+        <summary type="html"><![CDATA[How many times have you heard that (or even uttered it under your own breath)? I know I&#8217;ve heard it in conversations. I also know I&#8217;ve wondered the same thing about a product or two — hey, the idea here &#8230;
+The post I could build this during the weekend appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next Gen CSS: @container]]></title>
+        <id>https://css-tricks.com/?p=339138</id>
+        <link href="https://css-tricks.com/next-gen-css-container/"/>
+        <updated>2021-05-11T14:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to &#8230;
+The post Next Gen CSS: @container appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Una Kravets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed Persistent Rendering (DPR)]]></title>
+        <id>https://css-tricks.com/?p=340106</id>
+        <link href="https://css-tricks.com/distributed-persistent-rendering-dpr/"/>
+        <updated>2021-05-11T14:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Like Jamstack, Netlify is coining this term.
+If your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push &#8230;
+The post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topframe]]></title>
+        <id>https://css-tricks.com/?p=340020</id>
+        <link href="https://css-tricks.com/topframe/"/>
+        <updated>2021-05-10T21:14:15.000Z</updated>
+        <summary type="html"><![CDATA[This is extremely fun. Jeff Lindsay has created Topframe, and writes:
+Anybody that knows how to mess around with HTML can now mess around with their desktop computing experience.&#160;Topframe&#160;is an open source tool that lets you 
+&#8230;
+The post Topframe appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating from Parcel to Snowpack]]></title>
+        <id>https://css-tricks.com/?p=340208</id>
+        <link href="https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/"/>
+        <updated>2021-05-10T21:13:23.000Z</updated>
+        <summary type="html"><![CDATA[I find build tooling endlessly interesting, especially right now as we&#8217;re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we&#8217;ve chatted on &#8230;
+The post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal]]></title>
+        <id>https://css-tricks.com/?p=339203</id>
+        <link href="https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/"/>
+        <updated>2021-05-10T14:13:12.000Z</updated>
+        <summary type="html"><![CDATA[I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;
+The post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
         </author>
     </entry>
     <entry>
@@ -73,256 +305,6 @@ April was a bit of a hangover from March work-wise. My project load carried over
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Is &quot;Lifting State Up&quot; in React?]]></title>
-        <id>609409c201fc34080ef81f97</id>
-        <link href="https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/"/>
-        <updated>2021-05-06T21:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Here is a simple and practical example what it means to "lift state up" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apparently, You Can Use Route53 as a Blazingly Fast Database]]></title>
-        <id>https://css-tricks.com/?p=340015</id>
-        <link href="https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005"/>
-        <updated>2021-05-06T20:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:
-When you think about it, DNS configuration is actually a 
-&#8230;
-The post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Google’s New Page Experience Update Means for Images on Your Website]]></title>
-        <id>https://css-tricks.com/?p=339936</id>
-        <link href="https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/"/>
-        <updated>2021-05-06T19:57:40.000Z</updated>
-        <summary type="html"><![CDATA[It’s easy to forget that, as a search engine, Google doesn’t just compare keywords to generate search results. Google knows that if people don’t enjoy their experience on a web page, they won’t stay on the page long enough to &#8230;
-The post What Google’s New Page Experience Update Means for Images on Your Website appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Use the Chrome DevTools to Troubleshoot Websites]]></title>
-        <id>609415eb2cd0545b5e943534</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/"/>
-        <updated>2021-05-06T16:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optional Types in Swift – How to Use and Unwrap Optionals]]></title>
-        <id>60939bde01fc34080ef81a19</id>
-        <link href="https://www.freecodecamp.org/news/optional-types-in-swift/"/>
-        <updated>2021-05-06T16:06:35.000Z</updated>
-        <summary type="html"><![CDATA[If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or "optionals". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom State Pseudo-Classes in Chrome]]></title>
-        <id>https://css-tricks.com/?p=339586</id>
-        <link href="https://css-tricks.com/custom-state-pseudo-classes-in-chrome/"/>
-        <updated>2021-05-06T14:28:53.000Z</updated>
-        <summary type="html"><![CDATA[There is an increasing number of “custom” features on the web platform. We have custom properties (--my-property), custom elements (&#60;my-element&#62;), and custom events (new CustomEvent('myEvent')). At one point, we might even get custom media &#8230;
-The post Custom State Pseudo-Classes in Chrome appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Šime Vidas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beware the Cut ‘n’ Paste Persona]]></title>
-        <id>https://alistapart.com/article/beware-the-cut-n-paste-persona/</id>
-        <link href="https://alistapart.com/article/beware-the-cut-n-paste-persona/"/>
-        <updated>2021-05-06T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This Person Does Not Exist is a website that generates human faces with a machine learning algorithm. It takes real portraits and recombines them into fake human faces. We recently scrolled past a LinkedIn post stating that this website could be useful “if you are developing a persona and looking for a photo.”&nbsp;
-We agree: the computer-generated faces could be a great match for personas—but not for the reason you might think. Ironically, the website highlights the core issue of this very common design me…]]></summary>
-        <author>
-            <name>by ,</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro]]></title>
-        <id>https://css-tricks.com/?p=339563</id>
-        <link href="https://css-tricks.com/astro/"/>
-        <updated>2021-05-05T21:49:23.000Z</updated>
-        <summary type="html"><![CDATA[You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. 
-I gotta admit: it looks awesome. I&#8217;m bullish &#8230;
-The post Astro appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python and OpenCV Course –Create Computer Vision Apps in the Cloud]]></title>
-        <id>609307e801fc34080ef8191e</id>
-        <link href="https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/"/>
-        <updated>2021-05-05T21:11:40.000Z</updated>
-        <summary type="html"><![CDATA[OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progress Delayed Is Progress Denied]]></title>
-        <id>https://css-tricks.com/?p=339954</id>
-        <link href="https://infrequently.org/2021/04/progress-delayed/"/>
-        <updated>2021-05-05T16:51:23.000Z</updated>
-        <summary type="html"><![CDATA[The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;
-The post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Vendor Prefixing Dead?]]></title>
-        <id>https://css-tricks.com/?p=339518</id>
-        <link href="https://css-tricks.com/is-vendor-prefixing-dead/"/>
-        <updated>2021-05-05T14:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!
-It‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;
-The post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Rob O'Leary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16px or Larger Text Prevents iOS Form Zoom]]></title>
-        <id>https://css-tricks.com/?p=339455</id>
-        <link href="https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/"/>
-        <updated>2021-05-04T21:16:04.000Z</updated>
-        <summary type="html"><![CDATA[This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;
-The post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders]]></title>
-        <id>https://css-tricks.com/?p=339867</id>
-        <link href="https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/"/>
-        <updated>2021-05-04T21:15:57.000Z</updated>
-        <summary type="html"><![CDATA[Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;
-The post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Async Await Tutorial – With Asynchronous JavaScript Examples]]></title>
-        <id>609011fd8eb3fb07cf09a034</id>
-        <link href="https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/"/>
-        <updated>2021-05-04T16:07:17.000Z</updated>
-        <summary type="html"><![CDATA[A complete guide to Node.js async await]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)]]></title>
-        <id>608f5ad48eb3fb07cf099ddb</id>
-        <link href="https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/"/>
-        <updated>2021-05-04T15:33:12.000Z</updated>
-        <summary type="html"><![CDATA[To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s use (X, X, X, X) for talking about specificity]]></title>
-        <id>https://css-tricks.com/?p=339449</id>
-        <link href="https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/"/>
-        <updated>2021-05-04T14:19:55.000Z</updated>
-        <summary type="html"><![CDATA[I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;
-The post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Colorful, Smart Shadows]]></title>
-        <id>https://css-tricks.com/?p=339742</id>
-        <link href="https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm"/>
-        <updated>2021-05-04T14:19:48.000Z</updated>
-        <summary type="html"><![CDATA[A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;
-The post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chapter 8: CSS]]></title>
-        <id>https://css-tricks.com/?p=339419</id>
-        <link href="https://css-tricks.com/chapter-8-css/"/>
-        <updated>2021-05-03T21:52:08.000Z</updated>
-        <summary type="html"><![CDATA[In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;
-The post Chapter 8: CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Jay Hoffmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fetch Data in React from a GraphQL API]]></title>
-        <id>6090187c8eb3fb07cf09a060</id>
-        <link href="https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/"/>
-        <updated>2021-05-03T17:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Mistakes React Developers Make – And How to Fix Them]]></title>
-        <id>608f553c8eb3fb07cf099da7</id>
-        <link href="https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/"/>
-        <updated>2021-05-03T16:40:08.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swipey Image Grids]]></title>
-        <id>https://css-tricks.com/?p=339384</id>
-        <link href="https://www.cassie.codes/posts/swipey-image-grids/"/>
-        <updated>2021-05-03T14:35:07.000Z</updated>
-        <summary type="html"><![CDATA[I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;
-The post Swipey Image Grids appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immersive Content Strategy]]></title>
-        <id>https://alistapart.com/article/immersive-content-strategy/</id>
-        <link href="https://alistapart.com/article/immersive-content-strategy/"/>
-        <updated>2021-04-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Beyond the severe toll of the coronavirus pandemic, perhaps no other disruption has transformed user experiences quite like how the tethers to our formerly web-biased era of content have frayed. We’re transitioning to a new world of remote work and digital content. We’re also experimenting with unprecedented content channels that, not too long ago, elicited chuckles at the watercooler, like voice interfaces, digital signage, augmented reality, and virtual reality.
-Many factors are responsible. Perhaps it’s …]]></summary>
-        <author>
-            <name>by</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The OceanMaker]]></title>
         <id>https://daverupert.com/2021/04/the-oceanmaker/</id>
         <link href="https://daverupert.com/2021/04/the-oceanmaker/"/>
@@ -331,19 +313,6 @@ Many factors are responsible. Perhaps it’s …]]></summary>
 Extrapolating on the near future Water Wars, The…]]></summary>
         <author>
             <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do You Need to Localize Your Website?]]></title>
-        <id>https://alistapart.com/article/do-you-need-to-localize-your-website/</id>
-        <link href="https://alistapart.com/article/do-you-need-to-localize-your-website/"/>
-        <updated>2021-04-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Global markets give you access to new customers. All you need to do is inform potential buyers about your product or service.&nbsp;
-Your website is a good place to introduce your product or service outside your locale. Localizing your web content sounds like the right way to reach out to the global market. Localization will bridge the language barriers, or the wider scope of differing cultures.&nbsp;
-Before we move on further with the discussion, let’s focus on the definition of “localization.”&nbsp;
-What i…]]></summary>
-        <author>
-            <name>by</name>
         </author>
     </entry>
 </feed>
