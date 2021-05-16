@@ -83,7 +83,7 @@
           "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
           "publishedOn": "2021-05-11T22:00:29.000Z",
-          "wordCount": 498,
+          "wordCount": 441,
           "title": "CSS Pie Timer Re-Revisited"
         },
         {
@@ -101,7 +101,7 @@
           "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/next-gen-css-container/",
           "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1441,
+          "wordCount": 1419,
           "title": "Next Gen CSS: @container"
         },
         {
