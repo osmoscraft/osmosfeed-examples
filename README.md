@@ -1,6 +1,6 @@
 ⚠ This repo has a non-standard setup to build multiple examples in parallel. Please use the official [template](https://github.com/osmoscraft/osmosfeed) to get started.
 
-# Examples 
+# Examples
 
 ## Theming the default template
 
