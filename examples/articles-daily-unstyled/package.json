@@ -1,5 +1,5 @@
 {
-  "name": "default-gruvbox-light",
+  "name": "articles-daily-unstyled",
   "version": "1.0.0",
   "description": "Use this template to create the UI and content of an RSS feed reader.",
   "main": "index.js",
