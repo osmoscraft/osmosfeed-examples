@@ -34,7 +34,7 @@
         {{!-- Must check both itunes and enclosre because some sources use enclosure for images without any audio --}}
         {{#if itunes}}
           {{#if enclosure}}
-          <audio src="{{enclosure.url}}" controls></audio>
+          <div><audio src="{{enclosure.url}}" controls></audio></div>
           <div>Duration: <time>{{itunes.duration}}</time></div>
           {{/if}}
         {{/if}}
