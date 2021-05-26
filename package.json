@@ -12,6 +12,7 @@
     "build:default-gruvbox-light": "npm run build --prefix examples/default-gruvbox-light",
     "build:default-solarized-light": "npm run build --prefix examples/default-solarized-light",
     "build:default-solarized-dark": "npm run build --prefix examples/default-solarized-dark",
+    "build:podcast-unstyled": "npm run build --prefix examples/podcast-unstyled",
     "copy": "node copy.mjs"
   },
   "repository": {

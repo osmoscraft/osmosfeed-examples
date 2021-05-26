@@ -1,0 +1,5 @@
+# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+sources:
+  - href: https://feeds.npr.org/510289/podcast.xml
+  - href: https://shoptalkshow.com/feed/podcast/
+  - href: https://feed.syntax.fm/rss
