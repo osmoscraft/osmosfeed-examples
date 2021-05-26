@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2021-05-26T05:51:46.716Z</id>
+    <title>osmos::feed</title>
+    <updated>2021-05-26T05:51:46.716Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hasty Treat - JavaScript’s Drag and Drop API]]></title>
+        <id>f066cc8b-7e85-46aa-8bed-2145e14bcacd</id>
+        <link href="https://traffic.libsyn.com/secure/syntax/Syntax355.mp3"/>
+        <updated>2021-05-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this Hasty Treat, Scott and Wes talk about JavaScript’s drag and drop API — how it works, concerns, best practices, and more!
+ .TECH Domains - Sponsor
+  .TECH is taking the tech industry by storm. A domain that shows the world what you are all about! If you’re looking for a domain name for your startup, portfolio, or your own project like we did with uses.tech, check out .tech Domains. Syntax listeners can snap their .TECH Domains at 80% off on five-year registration by visiting go.tech/syntaxistech and using the coupon code “syntax5”.
+  Sentry - Sponsor
+ If you want to know what’s happening with your code, track errors and monitor performance with Sentry. Sentry’s Application Monitoring platform helps developers see performance issues, fix errors faster, and optimize their code health.…]]></summary>
+        <author>
+            <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[464: Jamstack & New Netlify Features with Jason Lengstorf & Phil Hawksworth]]></title>
+        <id>https://shoptalkshow.com/?p=4748</id>
+        <link href="https://shoptalkshow.com/464/"/>
+        <updated>2021-05-24T12:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Jason Lengstorf and Phil Hawksworth chat about the current state of the Jamstack including React + Jamstack, Distributed Persistent Rendering, building for ease of use, dealing with minor changes and caching, whether Jamstack needs to do all things, and a big new Netlify features announced!]]></summary>
+        <author>
+            <name>ShopTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Government Cheese (CLASSIC)]]></title>
+        <id>50112629-6c06-4f5a-8b82-65db169a9fb2</id>
+        <link href="https://www.npr.org/2021/05/21/999144678/big-government-cheese-classic"/>
+        <updated>2021-05-21T21:10:11.000Z</updated>
+        <summary type="html"><![CDATA[That time the U.S. government accidentally created a cheese surplus so large it had to be stored in a ginormous cave. | Subscribe to our weekly newsletter here.]]></summary>
+        <author>
+            <name>Planet Money</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get The Vaccine, Lose The Skinny Jeans]]></title>
+        <id>aa5dec47-31a8-4412-962f-36557d5b6e28</id>
+        <link href="https://www.npr.org/2021/05/19/998234795/get-the-vaccine-lose-the-skinny-jeans"/>
+        <updated>2021-05-19T23:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Two stories from our Indicator team about the sometimes-unlikely people who shape what we buy and what we do. | Subscribe to our weekly newsletter here.]]></summary>
+        <author>
+            <name>Planet Money</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Surprisingly Exciting World of HTML Elements]]></title>
+        <id>4e8e657e-5343-4d67-8b58-f6956816bb7d</id>
+        <link href="https://traffic.libsyn.com/secure/syntax/Syntax354.mp3"/>
+        <updated>2021-05-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of Syntax, Scott and Wes talk about HTML — interesting HTML elements, things you might not know, wish lists for the future, and more!
+ Prismic - Sponsor
+ Prismic is a Headless CMS that makes it easy to build website pages as a set of components. Break pages into sections of components using React, Vue, or whatever you like. Make corresponding Slices in Prismic. Start building pages dynamically in minutes. Get started at prismic.io/syntax.
+ Sentry - Sponsor
+ If you want to know what’s happening with your code, track errors and monitor performance with Sentry. Sentry’s Application Monitoring platform helps developers see performance issues, fix errors faster, and optimize their code health. Cut your time on error resolution from hours to minutes. It works with any language an…]]></summary>
+        <author>
+            <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[463: Choose Build Tools, Social Media Images, Border Radius Clipping, and Debugging Safari in Windows]]></title>
+        <id>https://shoptalkshow.com/?p=4720</id>
+        <link href="https://shoptalkshow.com/463/"/>
+        <updated>2021-05-17T13:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Camera and gear for your desk talk, and answering your questions about build tools, programatically creating social media images, border radius clipping of parents, debugging Safari on Windows, the state of Drupal in 2021, and using code blocks in WordPress.]]></summary>
+        <author>
+            <name>ShopTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hasty Treat - Stylin the Unstylables]]></title>
+        <id>23dbd50b-6ddc-4f0c-8124-bc314ffae3c6</id>
+        <link href="https://traffic.libsyn.com/secure/syntax/Syntax353.mp3"/>
+        <updated>2021-05-17T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this Hasty Treat, Scott and Wes talk about the different kinds of things that are difficult to style, how you can style them, and some future tech to look out for!
+ Sanity - Sponsor
+  Sanity.io is a real-time headless CMS with a fully customizable Content Studio built in React. Get a Sanity powered site up and running in minutes at sanity.io/create. Get an awesome supercharged free developer plan on sanity.io/syntax.
+  LogRocket - Sponsor
+  LogRocket lets you replay what users do on your site, helping you reproduce bugs and fix issues faster. It’s an exception tracker, a session re-player and a performance monitor. Get 14 days free at logrocket.com/syntax.
+  Show Notes
+  Can it be styled? Solutions
+  04:28 - Just style the defaults
+  
+ Most elements can be styled, though some elements a…]]></summary>
+        <author>
+            <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blood Money]]></title>
+        <id>bae23a6b-449b-4ed7-aca7-a58c556a5b7e</id>
+        <link href="https://www.npr.org/2021/05/14/996921658/blood-money"/>
+        <updated>2021-05-14T20:32:35.000Z</updated>
+        <summary type="html"><![CDATA[The United States is one of the few countries that lets companies pay people for their blood plasma. Why? | Subscribe to our weekly newsletter here.]]></summary>
+        <author>
+            <name>Planet Money</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hot Cheetos]]></title>
+        <id>470ac140-02bc-4174-9a46-e7c4673cdd86</id>
+        <link href="https://www.npr.org/2021/05/12/996228628/hot-cheetos"/>
+        <updated>2021-05-13T03:18:47.000Z</updated>
+        <summary type="html"><![CDATA[A janitor walks out of a chip factory with a bag of dustless Cheetos and changes the global snack game forever. | Subscribe to our weekly newsletter here.]]></summary>
+        <author>
+            <name>Planet Money</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potluck — Freelancing × Leveraging your experience × Component size × Dealing with mediocrity × How to spend “extra time” × Rust vs Node × Free hosting? × More!]]></title>
+        <id>add2fe5d-f8e1-4a41-b5b9-818e224a7c3e</id>
+        <link href="https://traffic.libsyn.com/secure/syntax/Syntax352.mp3"/>
+        <updated>2021-05-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s another Potluck! In this episode, Scott and Wes answer your questions about freelancing, climbing the corporate ladder, Throttling vs debounce, how to build skills with your free time, and more!
+ Freshbooks - Sponsor
+  Get a 30 day free trial of Freshbooks at freshbooks.com/syntax and put SYNTAX in the “How did you hear about us?” section.
+  LogRocket - Sponsor
+  LogRocket lets you replay what users do on your site, helping you reproduce bugs and fix issues faster. It’s an exception tracker, a session re-player and a performance monitor. Get 14 days free at logrocket.com/syntax.
+  Vonage - Sponsor
+  Vonage is a Cloud Communications platform that allows developers to integrate voice, video and messaging into their applications using their communication APIs. Whether you’re wanting to b…]]></summary>
+        <author>
+            <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[462: ShopTalk Show Live at AEA – The Web is Good, the Web is Bad]]></title>
+        <id>https://shoptalkshow.com/?p=4706</id>
+        <link href="https://shoptalkshow.com/462/"/>
+        <updated>2021-05-10T13:42:37.000Z</updated>
+        <summary type="html"><![CDATA[Dave and Chris talked at An Event Apart Spring Summit 2021 on the good and bad of the web. They talked about CSS, framework knowledge, more CSS, PWA's for projects, service workers, the language of tooling, and web performance.]]></summary>
+        <author>
+            <name>ShopTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hasty Treat - Technical Debt]]></title>
+        <id>1a1b0fb8-cdfb-464c-a8e6-a0f057704ead</id>
+        <link href="https://traffic.libsyn.com/secure/syntax/Syntax351.mp3"/>
+        <updated>2021-05-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this Hasty Treat, Scott and Wes talk about technical debt — what it is, why does it occur, and some techniques for reducing and avoiding it.
+ Prismic - Sponsor
+  Prismic is a Headless CMS that makes it easy to build website pages as a set of components. Break pages into sections of components using React, Vue, or whatever you like. Make corresponding Slices in Prismic. Start building pages dynamically in minutes. Get started at prismic.io/syntax.
+  Sentry - Sponsor
+ If you want to know what’s happening with your code, track errors and monitor performance with Sentry. Sentry’s Application Monitoring platform helps developers see performance issues, fix errors faster, and optimize their code health. Cut your time on error resolution from hours to minutes. It works with any language and in…]]></summary>
+        <author>
+            <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emission Impossible]]></title>
+        <id>06e98686-0aef-41e4-bf0d-5f41a81fb93d</id>
+        <link href="https://www.npr.org/2021/05/07/994774148/emission-impossible"/>
+        <updated>2021-05-07T22:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Carbon offsets have become a popular tool to combat climate change. But how effective are they? | Subscribe to our weekly newsletter here.]]></summary>
+        <author>
+            <name>Planet Money</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIY Reparations]]></title>
+        <id>f64eb6ac-1dc0-4a91-86de-b7d157c37e50</id>
+        <link href="https://www.npr.org/2021/05/05/993976420/diy-reparations"/>
+        <updated>2021-05-05T21:10:47.000Z</updated>
+        <summary type="html"><![CDATA[Some Vermonters were tired of waiting around for reparations. So they decided to take matters into their own hands. | This episode was produced with our friends at Invisibilia. Check out their new season here.]]></summary>
+        <author>
+            <name>Planet Money</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potluck — Is it worth it to still learn WordPress? × Is Safari the new IE11? × Mobile website testing × Pirated content × Styled components × SSGs × Transitioning to full-time freelance × More!]]></title>
+        <id>38969eaa-181e-4874-9037-88ae78b3e19c</id>
+        <link href="https://traffic.libsyn.com/secure/syntax/Syntax350.mp3"/>
+        <updated>2021-05-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s another Potluck! In this episode, Scott and Wes answer your questions about blogging best practices, support IE11, Nest.js, mobile website testing, pirated course content, building .edu websites, transitioning to full-time freelance work, and more!
+ Sanity - Sponsor
+  Sanity.io is a real-time headless CMS with a fully customizable Content Studio built in React. Get a Sanity powered site up and running in minutes at sanity.io/create. Get an awesome supercharged free developer plan on sanity.io/syntax.
+  Sentry - Sponsor
+ If you want to know what’s happening with your code, track errors and monitor performance with Sentry. Sentry’s Application Monitoring platform helps developers see performance issues, fix errors faster, and optimize their code health. Cut your time on error resolution…]]></summary>
+        <author>
+            <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[461: Dave Fired Everyone, WordPress Audio Player, Shared Element Transitions, and Fonts!]]></title>
+        <id>https://shoptalkshow.com/?p=4679</id>
+        <link href="https://shoptalkshow.com/461/"/>
+        <updated>2021-05-03T13:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Dave's base got camped and Chris tried to improve the WordPress audio player. Also discussed: shared element transitions, Turbo, Astro, typography and fonts, and just simply blogging.]]></summary>
+        <author>
+            <name>ShopTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hasty Treat - Future Tech We’re Excited About]]></title>
+        <id>904d5c7d-a044-42dc-b6ad-cc3e7f3d54dd</id>
+        <link href="https://traffic.libsyn.com/secure/syntax/Syntax349.mp3"/>
+        <updated>2021-05-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this Hasty Treat, Scott and Wes talk about future tech — some things you may not have heard about yet, and why we’re excited about them!
+ Freshbooks - Sponsor
+  Get a 30 day free trial of Freshbooks at freshbooks.com/syntax and put SYNTAX in the “How did you hear about us?” section.
+  LogRocket - Sponsor
+  LogRocket lets you replay what users do on your site, helping you reproduce bugs and fix issues faster. It’s an exception tracker, a session re-player and a performance monitor. Get 14 days free at logrocket.com/syntax.
+  Show Notes
+  05:20 - Astro
+  
+ What it is: 
+  astro.build is a next gen “meta” framework that eases some of React’s pain but also is not just React.
+  https://twitter.com/georges_gomes/status/1380801812656226304
+  
+  Why we’re excited about it: 
+  Server Side JS fram…]]></summary>
+        <author>
+            <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Superhero Goes To Hollywood]]></title>
+        <id>c952ebca-ea33-4bb5-a83f-7220f158d975</id>
+        <link href="https://www.npr.org/2021/04/30/992365334/a-superhero-goes-to-hollywood"/>
+        <updated>2021-05-01T01:06:27.000Z</updated>
+        <summary type="html"><![CDATA[In the last and greatest chapter to our superhero saga, Micro-Face tries to make the jump from comic books to movies. | Subscribe to our weekly newsletter here.]]></summary>
+        <author>
+            <name>Planet Money</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $100 Million Deli]]></title>
+        <id>a016e3a9-f104-48d1-a61c-411fdecd04f5</id>
+        <link href="https://www.npr.org/2021/04/21/989625586/the-100-million-deli"/>
+        <updated>2021-04-28T22:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Why is a single New Jersey deli worth so much? And what does it tell us about how the stock market works? | Subscribe to our weekly newsletter here.]]></summary>
+        <author>
+            <name>Planet Money</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript Fundamentals — Getting a Bit Deeper]]></title>
+        <id>a63fb388-e30a-4dce-bc5e-fe19c76ec53d</id>
+        <link href="https://traffic.libsyn.com/secure/syntax/Syntax348.mp3"/>
+        <updated>2021-04-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of Syntax, Scott and Wes continue their discussion of TypeScript Fundamentals with a deeper diver into more advanced use cases.
+ Deque - Sponsor
+  Deque’s axe DevTools makes accessibility testing easy and doesn’t require special expertise. Find and fix issues while you code. Get started with a free trial of axe DevTools Pro at deque.com/syntax. No credit card needed.
+  LogRocket - Sponsor
+  LogRocket lets you replay what users do on your site, helping you reproduce bugs and fix issues faster. It’s an exception tracker, a session re-player and a performance monitor. Get 14 days free at logrocket.com/syntax.
+  Mux - Sponsor
+  Mux Video is an API-first platform that makes it easy for any developer to build beautiful video. Powered by data and designed by video experts, your vi…]]></summary>
+        <author>
+            <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+</feed>
