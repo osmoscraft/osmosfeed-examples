@@ -13,3 +13,7 @@
 - `examples/articles-unstyled`: Flat list of articles, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/articles-unstyled/)
 - `examples/articles-daily-unstyled`: Articles grouped by day, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/articles-daily-unstyled/)
 - `examples/sources-daily-unstyled`: Articles grouped by source, then grouped by day, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/sources-daily-unstyled/)
+
+## Advanced usage
+
+- `examples/podcast-unstyled`: Render iTunes podcast feed, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/podcast-unstyled/)
