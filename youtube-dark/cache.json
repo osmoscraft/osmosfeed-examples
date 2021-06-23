@@ -13,6 +13,78 @@
           "publishedOn": "2021-06-01T13:59:17.000Z",
           "wordCount": null,
           "title": "A Day with Munich Developers | DevCities"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dWh4tQigIYs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dWh4tQigIYs",
+          "publishedOn": "2021-05-20T12:37:55.000Z",
+          "wordCount": null,
+          "title": "DEVS ANSWER: Simona Cotin"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VdZ4HBCvOA8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VdZ4HBCvOA8",
+          "publishedOn": "2021-05-13T11:30:06.000Z",
+          "wordCount": null,
+          "title": "DEVS ANSWER: Obinna Ekwuno"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=k1HmQH2bFIk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k1HmQH2bFIk",
+          "publishedOn": "2021-05-05T12:26:13.000Z",
+          "wordCount": null,
+          "title": "DEVS ANSWER: Erin Fox"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qE2G8p5HnjU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qE2G8p5HnjU",
+          "publishedOn": "2021-04-29T12:07:57.000Z",
+          "wordCount": null,
+          "title": "DEVS ANSWER: Chris Heilmann"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kcXKyqVS948",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kcXKyqVS948",
+          "publishedOn": "2021-04-22T11:59:41.000Z",
+          "wordCount": null,
+          "title": "DEVS ANSWER: Scott Hanselman"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oq32PUomubY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oq32PUomubY",
+          "publishedOn": "2021-04-15T12:00:04.000Z",
+          "wordCount": null,
+          "title": "DEVS ANSWER: Shruti Kapoor"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5sNuPYJpSCI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5sNuPYJpSCI",
+          "publishedOn": "2021-04-08T14:02:12.000Z",
+          "wordCount": null,
+          "title": "The Queen of Code feat. Grace Hopper | Tech Pioneers #2"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iIlLf8hdMQM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iIlLf8hdMQM",
+          "publishedOn": "2021-04-02T12:10:29.000Z",
+          "wordCount": null,
+          "title": "DEVS ANSWER: Ali Spittel"
         }
       ]
     },
@@ -56,6 +128,78 @@
           "publishedOn": "2021-05-28T19:13:28.000Z",
           "wordCount": null,
           "title": "Recreating Dennis Ritchie's PhD Thesis - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dqgT--f9so0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dqgT--f9so0",
+          "publishedOn": "2021-05-21T15:31:28.000Z",
+          "wordCount": null,
+          "title": "3D Printing with a Robot Arm - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_OboQeIK61c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_OboQeIK61c",
+          "publishedOn": "2021-05-14T17:24:54.000Z",
+          "wordCount": null,
+          "title": "Rog-O-Matic, Game Playing Program - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8a3KX2InUqY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8a3KX2InUqY",
+          "publishedOn": "2021-05-06T16:44:02.000Z",
+          "wordCount": null,
+          "title": "Kidnapped Robot Problem - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zV-fR7xA4Hc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zV-fR7xA4Hc",
+          "publishedOn": "2021-04-30T12:09:20.000Z",
+          "wordCount": null,
+          "title": "Why Files Become Bigger in Emails - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=shn38x7BbO0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=shn38x7BbO0",
+          "publishedOn": "2021-04-23T17:37:33.000Z",
+          "wordCount": null,
+          "title": "Building a Data Center Inside Your Laptop - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RzWB5jL5RX0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RzWB5jL5RX0",
+          "publishedOn": "2021-04-12T17:01:34.000Z",
+          "wordCount": null,
+          "title": "Cracking Enigma in 2021 - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LdGMDUZVvSM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LdGMDUZVvSM",
+          "publishedOn": "2021-04-06T16:44:08.000Z",
+          "wordCount": null,
+          "title": "Atomic Brain? - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fPU7Uq4TtNU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fPU7Uq4TtNU",
+          "publishedOn": "2021-03-30T18:08:16.000Z",
+          "wordCount": null,
+          "title": "Early Unix Computer Games - Computerphile"
         }
       ]
     },
@@ -241,6 +385,211 @@
           "publishedOn": "2021-05-26T12:58:14.000Z",
           "wordCount": null,
           "title": "6 Hour Vue.js & Firebase Project - FireBlogs"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9JdP-S3crt8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9JdP-S3crt8",
+          "publishedOn": "2021-05-19T12:32:21.000Z",
+          "wordCount": null,
+          "title": "The New Notion API | Node.js Video Schedule Project"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jQCk2yo10YY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jQCk2yo10YY",
+          "publishedOn": "2021-05-11T17:07:37.000Z",
+          "wordCount": null,
+          "title": "Terminal Style Landing Page | WinBox.js"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3dHNOWTI7H8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3dHNOWTI7H8",
+          "publishedOn": "2021-05-06T15:40:03.000Z",
+          "wordCount": null,
+          "title": "Angular Crash Course 2021"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BKQVqzhnP8I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BKQVqzhnP8I",
+          "publishedOn": "2021-04-28T16:08:35.000Z",
+          "wordCount": null,
+          "title": "Overworking Yourself As A Developer | Mental & Physical Health"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=m-MAIpnH9ag",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m-MAIpnH9ag",
+          "publishedOn": "2021-04-23T12:25:56.000Z",
+          "wordCount": null,
+          "title": "Build a Covid Tracker App With Vue.js & Tailwind"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QTHRWGn_sJw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QTHRWGn_sJw",
+          "publishedOn": "2021-04-10T14:00:27.000Z",
+          "wordCount": null,
+          "title": "Build a Music Player | Vanilla JavaScript"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MT-GJQIY3EU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MT-GJQIY3EU",
+          "publishedOn": "2021-03-31T14:08:32.000Z",
+          "wordCount": null,
+          "title": "Laravel 8 REST API With Sanctum Authentication"
+        }
+      ]
+    },
+    {
+      "title": "Linus Tech Tips",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9ZBfG3IDTD0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9ZBfG3IDTD0",
+          "publishedOn": "2021-06-22T12:59:59.000Z",
+          "wordCount": null,
+          "title": "AMD’s gift to ALL gamers - FidelityFX Super Resolution"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=K07sEM6y4Uc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K07sEM6y4Uc",
+          "publishedOn": "2021-06-21T17:14:10.000Z",
+          "wordCount": null,
+          "title": "This should be illegal… - Manufacturers are swapping SSD components"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cATjlaTS7uI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cATjlaTS7uI",
+          "publishedOn": "2021-06-20T17:00:20.000Z",
+          "wordCount": null,
+          "title": "The longest unboxing we've ever done."
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bVT_yjB6lDg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bVT_yjB6lDg",
+          "publishedOn": "2021-06-19T16:29:17.000Z",
+          "wordCount": null,
+          "title": "My Midlife Crisis Car"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XEyHiU6djE0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XEyHiU6djE0",
+          "publishedOn": "2021-06-19T03:44:04.000Z",
+          "wordCount": null,
+          "title": "Looks Like NVIDIA Lied.... - WAN Show Jun 18, 2021"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZlBnGVbHqis",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZlBnGVbHqis",
+          "publishedOn": "2021-06-18T17:36:00.000Z",
+          "wordCount": null,
+          "title": "A 24 Hour Battery Life Laptop - HP Elite Folio Showcase"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DKit8qPNyio",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DKit8qPNyio",
+          "publishedOn": "2021-06-17T22:14:01.000Z",
+          "wordCount": null,
+          "title": "How to Build a PC - ASMR Edition"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=odZSCdNTFPw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=odZSCdNTFPw",
+          "publishedOn": "2021-06-17T01:55:03.000Z",
+          "wordCount": null,
+          "title": "Gaming on LEAKED Windows 11"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2hOhccTqOhs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2hOhccTqOhs",
+          "publishedOn": "2021-06-15T19:27:13.000Z",
+          "wordCount": null,
+          "title": "The 24\" M1 iMac has a DIRTY Secret - Full Review"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AYPkU9yFyJs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AYPkU9yFyJs",
+          "publishedOn": "2021-06-14T17:34:15.000Z",
+          "wordCount": null,
+          "title": "Apple Makes its BEST Products WORSE on Purpose. Why?"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=i9ZnaA8DZDs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i9ZnaA8DZDs",
+          "publishedOn": "2021-06-13T17:02:41.000Z",
+          "wordCount": null,
+          "title": "How Power Supplies Work - Turbo Nerd Edition"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=u4bGGtnc6Ds",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u4bGGtnc6Ds",
+          "publishedOn": "2021-06-12T17:48:49.000Z",
+          "wordCount": null,
+          "title": "Turn your Outdated Computer into a Monitor! - Luna Display"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=D10gTfBLrwg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D10gTfBLrwg",
+          "publishedOn": "2021-06-12T03:47:28.000Z",
+          "wordCount": null,
+          "title": "Sharing our Own Troubling Experience - WAN Show Jun 11, 2021"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=M61nRBFpwro",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M61nRBFpwro",
+          "publishedOn": "2021-06-10T17:01:07.000Z",
+          "wordCount": null,
+          "title": "Setting Up This Projector Was SO Much Work D: - LMG Lounge Update 2021"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zC0TbZq_oIU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zC0TbZq_oIU",
+          "publishedOn": "2021-06-09T13:00:01.000Z",
+          "wordCount": null,
+          "title": "People Will Literally Fight Over This - RTX 3070 Ti Review"
         }
       ]
     },

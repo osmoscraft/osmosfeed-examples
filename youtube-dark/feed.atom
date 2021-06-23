@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T05:39:49.408Z</id>
+    <id>urn:2021-06-23T05:43:20.330Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T05:39:49.408Z</updated>
+    <updated>2021-06-23T05:43:20.330Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -24,12 +24,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AMD’s gift to ALL gamers - FidelityFX Super Resolution]]></title>
+        <id>https://www.youtube.com/watch?v=9ZBfG3IDTD0</id>
+        <link href="https://www.youtube.com/watch?v=9ZBfG3IDTD0"/>
+        <updated>2021-06-22T12:59:59.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This should be illegal… - Manufacturers are swapping SSD components]]></title>
+        <id>https://www.youtube.com/watch?v=K07sEM6y4Uc</id>
+        <link href="https://www.youtube.com/watch?v=K07sEM6y4Uc"/>
+        <updated>2021-06-21T17:14:10.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[You Are NOT The Software You Run! (#shorts)]]></title>
         <id>https://www.youtube.com/watch?v=MVITl24rRHM</id>
         <link href="https://www.youtube.com/watch?v=MVITl24rRHM"/>
         <updated>2021-06-21T14:00:08.000Z</updated>
         <author>
             <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The longest unboxing we've ever done.]]></title>
+        <id>https://www.youtube.com/watch?v=cATjlaTS7uI</id>
+        <link href="https://www.youtube.com/watch?v=cATjlaTS7uI"/>
+        <updated>2021-06-20T17:00:20.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
@@ -51,6 +78,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[My Midlife Crisis Car]]></title>
+        <id>https://www.youtube.com/watch?v=bVT_yjB6lDg</id>
+        <link href="https://www.youtube.com/watch?v=bVT_yjB6lDg"/>
+        <updated>2021-06-19T16:29:17.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looks Like NVIDIA Lied.... - WAN Show Jun 18, 2021]]></title>
+        <id>https://www.youtube.com/watch?v=XEyHiU6djE0</id>
+        <link href="https://www.youtube.com/watch?v=XEyHiU6djE0"/>
+        <updated>2021-06-19T03:44:04.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 24 Hour Battery Life Laptop - HP Elite Folio Showcase]]></title>
+        <id>https://www.youtube.com/watch?v=ZlBnGVbHqis</id>
+        <link href="https://www.youtube.com/watch?v=ZlBnGVbHqis"/>
+        <updated>2021-06-18T17:36:00.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Types of PDF - Computerphile]]></title>
         <id>https://www.youtube.com/watch?v=K7oxZCgO1dY</id>
         <link href="https://www.youtube.com/watch?v=K7oxZCgO1dY"/>
@@ -66,6 +120,15 @@
         <updated>2021-06-18T12:52:09.000Z</updated>
         <author>
             <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a PC - ASMR Edition]]></title>
+        <id>https://www.youtube.com/watch?v=DKit8qPNyio</id>
+        <link href="https://www.youtube.com/watch?v=DKit8qPNyio"/>
+        <updated>2021-06-17T22:14:01.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
@@ -87,12 +150,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gaming on LEAKED Windows 11]]></title>
+        <id>https://www.youtube.com/watch?v=odZSCdNTFPw</id>
+        <link href="https://www.youtube.com/watch?v=odZSCdNTFPw"/>
+        <updated>2021-06-17T01:55:03.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Learning Awk Is Essential For Linux Users]]></title>
         <id>https://www.youtube.com/watch?v=9YOZmI-zWok</id>
         <link href="https://www.youtube.com/watch?v=9YOZmI-zWok"/>
         <updated>2021-06-16T20:44:18.000Z</updated>
         <author>
             <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 24" M1 iMac has a DIRTY Secret - Full Review]]></title>
+        <id>https://www.youtube.com/watch?v=2hOhccTqOhs</id>
+        <link href="https://www.youtube.com/watch?v=2hOhccTqOhs"/>
+        <updated>2021-06-15T19:27:13.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
@@ -105,12 +186,48 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Apple Makes its BEST Products WORSE on Purpose. Why?]]></title>
+        <id>https://www.youtube.com/watch?v=AYPkU9yFyJs</id>
+        <link href="https://www.youtube.com/watch?v=AYPkU9yFyJs"/>
+        <updated>2021-06-14T17:34:15.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why So Many People Lack Critical Thinking Skills]]></title>
         <id>https://www.youtube.com/watch?v=IWzU82swez0</id>
         <link href="https://www.youtube.com/watch?v=IWzU82swez0"/>
         <updated>2021-06-13T21:02:34.000Z</updated>
         <author>
             <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Power Supplies Work - Turbo Nerd Edition]]></title>
+        <id>https://www.youtube.com/watch?v=i9ZnaA8DZDs</id>
+        <link href="https://www.youtube.com/watch?v=i9ZnaA8DZDs"/>
+        <updated>2021-06-13T17:02:41.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turn your Outdated Computer into a Monitor! - Luna Display]]></title>
+        <id>https://www.youtube.com/watch?v=u4bGGtnc6Ds</id>
+        <link href="https://www.youtube.com/watch?v=u4bGGtnc6Ds"/>
+        <updated>2021-06-12T17:48:49.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharing our Own Troubling Experience - WAN Show Jun 11, 2021]]></title>
+        <id>https://www.youtube.com/watch?v=D10gTfBLrwg</id>
+        <link href="https://www.youtube.com/watch?v=D10gTfBLrwg"/>
+        <updated>2021-06-12T03:47:28.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
@@ -150,6 +267,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Setting Up This Projector Was SO Much Work D: - LMG Lounge Update 2021]]></title>
+        <id>https://www.youtube.com/watch?v=M61nRBFpwro</id>
+        <link href="https://www.youtube.com/watch?v=M61nRBFpwro"/>
+        <updated>2021-06-10T17:01:07.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["Hey, DT! I Want A Distro In Between Ubuntu and Arch." (And Other Questions)]]></title>
         <id>https://www.youtube.com/watch?v=jv0sDkswwrY</id>
         <link href="https://www.youtube.com/watch?v=jv0sDkswwrY"/>
@@ -174,6 +300,15 @@
         <updated>2021-06-09T13:28:51.000Z</updated>
         <author>
             <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People Will Literally Fight Over This - RTX 3070 Ti Review]]></title>
+        <id>https://www.youtube.com/watch?v=zC0TbZq_oIU</id>
+        <link href="https://www.youtube.com/watch?v=zC0TbZq_oIU"/>
+        <updated>2021-06-09T13:00:01.000Z</updated>
+        <author>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
@@ -354,6 +489,213 @@
         <updated>2021-05-24T20:20:53.000Z</updated>
         <author>
             <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printing with a Robot Arm - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=dqgT--f9so0</id>
+        <link href="https://www.youtube.com/watch?v=dqgT--f9so0"/>
+        <updated>2021-05-21T15:31:28.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Simona Cotin]]></title>
+        <id>https://www.youtube.com/watch?v=dWh4tQigIYs</id>
+        <link href="https://www.youtube.com/watch?v=dWh4tQigIYs"/>
+        <updated>2021-05-20T12:37:55.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Notion API | Node.js Video Schedule Project]]></title>
+        <id>https://www.youtube.com/watch?v=9JdP-S3crt8</id>
+        <link href="https://www.youtube.com/watch?v=9JdP-S3crt8"/>
+        <updated>2021-05-19T12:32:21.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rog-O-Matic, Game Playing Program - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=_OboQeIK61c</id>
+        <link href="https://www.youtube.com/watch?v=_OboQeIK61c"/>
+        <updated>2021-05-14T17:24:54.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Obinna Ekwuno]]></title>
+        <id>https://www.youtube.com/watch?v=VdZ4HBCvOA8</id>
+        <link href="https://www.youtube.com/watch?v=VdZ4HBCvOA8"/>
+        <updated>2021-05-13T11:30:06.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terminal Style Landing Page | WinBox.js]]></title>
+        <id>https://www.youtube.com/watch?v=jQCk2yo10YY</id>
+        <link href="https://www.youtube.com/watch?v=jQCk2yo10YY"/>
+        <updated>2021-05-11T17:07:37.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kidnapped Robot Problem - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=8a3KX2InUqY</id>
+        <link href="https://www.youtube.com/watch?v=8a3KX2InUqY"/>
+        <updated>2021-05-06T16:44:02.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular Crash Course 2021]]></title>
+        <id>https://www.youtube.com/watch?v=3dHNOWTI7H8</id>
+        <link href="https://www.youtube.com/watch?v=3dHNOWTI7H8"/>
+        <updated>2021-05-06T15:40:03.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Erin Fox]]></title>
+        <id>https://www.youtube.com/watch?v=k1HmQH2bFIk</id>
+        <link href="https://www.youtube.com/watch?v=k1HmQH2bFIk"/>
+        <updated>2021-05-05T12:26:13.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Files Become Bigger in Emails - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=zV-fR7xA4Hc</id>
+        <link href="https://www.youtube.com/watch?v=zV-fR7xA4Hc"/>
+        <updated>2021-04-30T12:09:20.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Chris Heilmann]]></title>
+        <id>https://www.youtube.com/watch?v=qE2G8p5HnjU</id>
+        <link href="https://www.youtube.com/watch?v=qE2G8p5HnjU"/>
+        <updated>2021-04-29T12:07:57.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overworking Yourself As A Developer | Mental & Physical Health]]></title>
+        <id>https://www.youtube.com/watch?v=BKQVqzhnP8I</id>
+        <link href="https://www.youtube.com/watch?v=BKQVqzhnP8I"/>
+        <updated>2021-04-28T16:08:35.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Data Center Inside Your Laptop - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=shn38x7BbO0</id>
+        <link href="https://www.youtube.com/watch?v=shn38x7BbO0"/>
+        <updated>2021-04-23T17:37:33.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Covid Tracker App With Vue.js & Tailwind]]></title>
+        <id>https://www.youtube.com/watch?v=m-MAIpnH9ag</id>
+        <link href="https://www.youtube.com/watch?v=m-MAIpnH9ag"/>
+        <updated>2021-04-23T12:25:56.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Scott Hanselman]]></title>
+        <id>https://www.youtube.com/watch?v=kcXKyqVS948</id>
+        <link href="https://www.youtube.com/watch?v=kcXKyqVS948"/>
+        <updated>2021-04-22T11:59:41.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Shruti Kapoor]]></title>
+        <id>https://www.youtube.com/watch?v=oq32PUomubY</id>
+        <link href="https://www.youtube.com/watch?v=oq32PUomubY"/>
+        <updated>2021-04-15T12:00:04.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cracking Enigma in 2021 - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=RzWB5jL5RX0</id>
+        <link href="https://www.youtube.com/watch?v=RzWB5jL5RX0"/>
+        <updated>2021-04-12T17:01:34.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Music Player | Vanilla JavaScript]]></title>
+        <id>https://www.youtube.com/watch?v=QTHRWGn_sJw</id>
+        <link href="https://www.youtube.com/watch?v=QTHRWGn_sJw"/>
+        <updated>2021-04-10T14:00:27.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Queen of Code feat. Grace Hopper | Tech Pioneers #2]]></title>
+        <id>https://www.youtube.com/watch?v=5sNuPYJpSCI</id>
+        <link href="https://www.youtube.com/watch?v=5sNuPYJpSCI"/>
+        <updated>2021-04-08T14:02:12.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atomic Brain? - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=LdGMDUZVvSM</id>
+        <link href="https://www.youtube.com/watch?v=LdGMDUZVvSM"/>
+        <updated>2021-04-06T16:44:08.000Z</updated>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVS ANSWER: Ali Spittel]]></title>
+        <id>https://www.youtube.com/watch?v=iIlLf8hdMQM</id>
+        <link href="https://www.youtube.com/watch?v=iIlLf8hdMQM"/>
+        <updated>2021-04-02T12:10:29.000Z</updated>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laravel 8 REST API With Sanctum Authentication]]></title>
+        <id>https://www.youtube.com/watch?v=MT-GJQIY3EU</id>
+        <link href="https://www.youtube.com/watch?v=MT-GJQIY3EU"/>
+        <updated>2021-03-31T14:08:32.000Z</updated>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Unix Computer Games - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=fPU7Uq4TtNU</id>
+        <link href="https://www.youtube.com/watch?v=fPU7Uq4TtNU"/>
+        <updated>2021-03-30T18:08:16.000Z</updated>
+        <author>
+            <name>Computerphile</name>
         </author>
     </entry>
 </feed>
