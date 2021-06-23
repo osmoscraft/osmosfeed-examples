@@ -1,0 +1,8 @@
+# Always use latest
+package-lock.json
+
+# Depenendies
+node_modules
+
+# Directories that build generates. A test run will generate it but don't check in
+public
