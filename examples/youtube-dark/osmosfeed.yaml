@@ -1,8 +1,5 @@
-# This config is used for local developement
-
-# cacheUrl: https://dailyread.netlify.app/cache.json
+# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 cacheMaxDays: 90 # Videos have slower publish cadence and small cache size. Longer lifespan is ok.
-# siteTitle: dev - osmosfeed
 sources:
   # IMPORANT: this template only supports youtube channel RSS. Other types of sources will result in undefined behavior.
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCsUalyRg43M8D60mtHe6YcA
