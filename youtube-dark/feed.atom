@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2021-06-23T05:27:04.221Z</id>
+    <title>osmos::feed</title>
+    <updated>2021-06-23T05:27:04.221Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 performance pitfalls - HTTP 203]]></title>
+        <id>https://www.youtube.com/watch?v=Lh9q3h2khlc</id>
+        <link href="https://www.youtube.com/watch?v=Lh9q3h2khlc"/>
+        <updated>2021-06-22T15:12:58.000Z</updated>
+        <summary type="html"><![CDATA[Jake & Surma go through the top 9 + 1 performance issues Jake saw while analyzing a bunch of web sites.Who has the fastest F1 website? → https://goo.gle/3x0g...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking Ubuntu To The Next Level]]></title>
+        <id>https://www.youtube.com/watch?v=5b-xQkRWHjQ</id>
+        <link href="https://www.youtube.com/watch?v=5b-xQkRWHjQ"/>
+        <updated>2021-06-22T15:00:59.000Z</updated>
+        <summary type="html"><![CDATA[In this lengthy video, I go over some of the changes I would make with Ubuntu (with GNOME) if I were using it as my daily driver.  I don't make drastic chang...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Are NOT The Software You Run! (#shorts)]]></title>
+        <id>https://www.youtube.com/watch?v=MVITl24rRHM</id>
+        <link href="https://www.youtube.com/watch?v=MVITl24rRHM"/>
+        <updated>2021-06-21T14:00:08.000Z</updated>
+        <summary type="html"><![CDATA[In this YouTube #shorts video (shot in landscape mode like a normal person), I discuss a serious mental disorder that too many people suffer from--identifyin...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transform Words Into Pretty Symbols In Emacs]]></title>
+        <id>https://www.youtube.com/watch?v=5iCjhdCUuLg</id>
+        <link href="https://www.youtube.com/watch?v=5iCjhdCUuLg"/>
+        <updated>2021-06-20T17:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Emacs has a really neat mode built into it called prettify-symbols-mode.  You add a block of code into your Emacs config listing words and corresponding symb...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redcore Linux Makes Gentoo User Friendly]]></title>
+        <id>https://www.youtube.com/watch?v=oFs9accYV2c</id>
+        <link href="https://www.youtube.com/watch?v=oFs9accYV2c"/>
+        <updated>2021-06-19T17:27:11.000Z</updated>
+        <summary type="html"><![CDATA[Redcore Linux is a distribution based on Gentoo but aims to provide a user-friendly installation.  Redcore targets the casual Linux user but is also appropri...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Types of PDF - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=K7oxZCgO1dY</id>
+        <link href="https://www.youtube.com/watch?v=K7oxZCgO1dY"/>
+        <updated>2021-06-18T15:04:46.000Z</updated>
+        <summary type="html"><![CDATA["Just send me a PDF!" - but what kind of PDF? As Professor Brailsford explains, PDF is simply a wrapper which can contain a variety of joys!https://www.faceb...]]></summary>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastify Crash Course | Node.js Framework]]></title>
+        <id>https://www.youtube.com/watch?v=Lk-uVEVGxOA</id>
+        <link href="https://www.youtube.com/watch?v=Lk-uVEVGxOA"/>
+        <updated>2021-06-18T12:52:09.000Z</updated>
+        <summary type="html"><![CDATA[Fastify is a "fast" Node.js framework. In this video, we will build a REST API with validation schemas and swagger documentationCode:https://github.com/bradt...]]></summary>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Word Processors Are Evil And Should Not Exist!]]></title>
+        <id>https://www.youtube.com/watch?v=p0nCEGTlTqM</id>
+        <link href="https://www.youtube.com/watch?v=p0nCEGTlTqM"/>
+        <updated>2021-06-17T20:01:46.000Z</updated>
+        <summary type="html"><![CDATA[You will find a word processor installed on almost every desktop computer.  The word processor has become an integral part of so many people's workflow.  And...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the state of web frameworks in India (Hindi with English subtitles)]]></title>
+        <id>https://www.youtube.com/watch?v=zfNrB0C3lF0</id>
+        <link href="https://www.youtube.com/watch?v=zfNrB0C3lF0"/>
+        <updated>2021-06-17T17:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Switch on/off English subtitles by clicking on the CC icon.This video deep dives into the state of different Javascript Frameworks like React, Vue and Angula...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Awk Is Essential For Linux Users]]></title>
+        <id>https://www.youtube.com/watch?v=9YOZmI-zWok</id>
+        <link href="https://www.youtube.com/watch?v=9YOZmI-zWok"/>
+        <updated>2021-06-16T20:44:18.000Z</updated>
+        <summary type="html"><![CDATA[One of my favorite command line utilities is "awk" which is a text-processing program.  It is mostly used for pattern scanning and processing.  In this video...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beginner's Guide To SSH]]></title>
+        <id>https://www.youtube.com/watch?v=2QXkrLVsRmk</id>
+        <link href="https://www.youtube.com/watch?v=2QXkrLVsRmk"/>
+        <updated>2021-06-14T21:12:51.000Z</updated>
+        <summary type="html"><![CDATA[SSH (the Secure Shell) is a program for logging into a remote machine and for executing commands on a remote machine.  Often, SSH is the only way to access r...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why So Many People Lack Critical Thinking Skills]]></title>
+        <id>https://www.youtube.com/watch?v=IWzU82swez0</id>
+        <link href="https://www.youtube.com/watch?v=IWzU82swez0"/>
+        <updated>2021-06-13T21:02:34.000Z</updated>
+        <summary type="html"><![CDATA[Recently, Linus Torvalds had to confront a conspiracy theorist on the Linux kernel mailing list.  It seems the rise in popularity of conspiracy theories coin...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are The Benefits Of Emacs Over Vim?]]></title>
+        <id>https://www.youtube.com/watch?v=kRkp-uJTK7s</id>
+        <link href="https://www.youtube.com/watch?v=kRkp-uJTK7s"/>
+        <updated>2021-06-11T23:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Probably one of the most common Vim/Emacs questions that I get is "Why would I choose Emacs over Vim?"  Or "what does Emacs have to offer that Vim doesn't?" ...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How bad is Exponential Growth? - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=fpkQ_ZqZY4o</id>
+        <link href="https://www.youtube.com/watch?v=fpkQ_ZqZY4o"/>
+        <updated>2021-06-11T16:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Exponential growth is a term that's used a lot, but our intuition can play tricks on understanding it. Dr Tim Muller takes us through some examples that demo...]]></summary>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch To A Trackball Mouse And Save Your Wrists]]></title>
+        <id>https://www.youtube.com/watch?v=VaG4sCXTkrw</id>
+        <link href="https://www.youtube.com/watch?v=VaG4sCXTkrw"/>
+        <updated>2021-06-10T18:20:00.000Z</updated>
+        <summary type="html"><![CDATA[The trackball mouse is nothing.  They've been around for decades, yet for many people, trackballs are still kind of shrouded in mystery.  What is the purpose...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced patterns for Progressive Web Apps (Spanish with English subtitles)]]></title>
+        <id>https://www.youtube.com/watch?v=PPJKljH1dn8</id>
+        <link href="https://www.youtube.com/watch?v=PPJKljH1dn8"/>
+        <updated>2021-06-10T17:05:24.000Z</updated>
+        <summary type="html"><![CDATA[Switch on/off English subtitles by clicking on the CC icon.Learn advanced Progressive Web App recipes that combine several modern web APIs, and how companies...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Hey, DT! I Want A Distro In Between Ubuntu and Arch." (And Other Questions)]]></title>
+        <id>https://www.youtube.com/watch?v=jv0sDkswwrY</id>
+        <link href="https://www.youtube.com/watch?v=jv0sDkswwrY"/>
+        <updated>2021-06-09T18:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Topics of discussion on this episode of "Hey, DT!" include: Audacity and alternatives, the middle ground between Ubuntu and Arch, my favorite music genre, th...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking on ways to solve COLOR SCHEMES]]></title>
+        <id>https://www.youtube.com/watch?v=oHcTn83M1ls</id>
+        <link href="https://www.youtube.com/watch?v=oHcTn83M1ls"/>
+        <updated>2021-06-09T17:01:09.000Z</updated>
+        <summary type="html"><![CDATA[In today’s GUI challenge, we’re building dark, light and dim color schemes with HSL. The CSS works across modern browsers, establishes foundational architect...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bootstrap 5 Crash Course | Website Build & Deploy]]></title>
+        <id>https://www.youtube.com/watch?v=4sosXZsdy-s</id>
+        <link href="https://www.youtube.com/watch?v=4sosXZsdy-s"/>
+        <updated>2021-06-09T13:28:51.000Z</updated>
+        <summary type="html"><![CDATA[Beginner-friendly website project using Bootstrap 5Hostinger:https://www.hostinger.com/traversymedia- Use the code TRAVERSYMEDIA for 10% off!Code:https://git...]]></summary>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From nothin’ to gzip - HTTP 203]]></title>
+        <id>https://www.youtube.com/watch?v=PZryHH8roIY</id>
+        <link href="https://www.youtube.com/watch?v=PZryHH8roIY"/>
+        <updated>2021-06-08T14:41:15.000Z</updated>
+        <summary type="html"><![CDATA[You know GZIP right? It’s everywhere on the web to reduce the number of bytes going over the wire. In this episode, Surma is giving you a quickstart on how i...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A First Look At Two Editions Of Peux OS (Xfce, XMonad)]]></title>
+        <id>https://www.youtube.com/watch?v=AuzRnT7tu28</id>
+        <link href="https://www.youtube.com/watch?v=AuzRnT7tu28"/>
+        <updated>2021-06-07T20:52:09.000Z</updated>
+        <summary type="html"><![CDATA[In recent weeks, the most requested Linux distro for me to take a look at has been Peux OS.  It's an Arch-based distro that claims to be minimal and beautifu...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life Without The Internet? It's Actually BETTER! (Boomer Rant)]]></title>
+        <id>https://www.youtube.com/watch?v=SWlMQaC7b-8</id>
+        <link href="https://www.youtube.com/watch?v=SWlMQaC7b-8"/>
+        <updated>2021-06-06T20:18:40.000Z</updated>
+        <summary type="html"><![CDATA[A boomer rants from his couch about life without being connected to the Internet.  I'm currently without a computer at home and this has me thinking.  Is bei...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nyxt Is The Most Customizable Web Browser EVER]]></title>
+        <id>https://www.youtube.com/watch?v=SVteSEjKytw</id>
+        <link href="https://www.youtube.com/watch?v=SVteSEjKytw"/>
+        <updated>2021-06-05T21:23:57.000Z</updated>
+        <summary type="html"><![CDATA[Nyxt is a keyboard-oriented, infinitely extensible web browser designed for power users. Conceptually inspired by Emacs and Vim, it is fully configurable in ...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover New Wallpapers And Set Them With Styli.sh]]></title>
+        <id>https://www.youtube.com/watch?v=hv9l8t7_Pu4</id>
+        <link href="https://www.youtube.com/watch?v=hv9l8t7_Pu4"/>
+        <updated>2021-06-04T20:11:22.000Z</updated>
+        <summary type="html"><![CDATA[Styli.sh is a shell script that automates the tedious process of finding new wallpapers, downloading and setting them.  Styli.sh searches for wallpapers from...]]></summary>
+        <author>
+            <name>DistroTube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is DeepFake Really All That? - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=IT6-5ZbabVg</id>
+        <link href="https://www.youtube.com/watch?v=IT6-5ZbabVg"/>
+        <updated>2021-06-04T18:25:13.000Z</updated>
+        <summary type="html"><![CDATA[How much of a problem is DeepFake, the ability to swap people's faces around? Dr Mike Pound decided to try it with colleague Dr Steve Bagley. https://www.fac...]]></summary>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep dive into the PWA install flow]]></title>
+        <id>https://www.youtube.com/watch?v=kzJfiKQyD24</id>
+        <link href="https://www.youtube.com/watch?v=kzJfiKQyD24"/>
+        <updated>2021-06-03T17:00:59.000Z</updated>
+        <summary type="html"><![CDATA[How does the install flow work for Progressive Web Apps? How can you provide your own in-app install experience? How do you measure the effectiveness of your...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My First Freelance Gig Was a Disaster]]></title>
+        <id>https://www.youtube.com/watch?v=lRogMYe7ZLg</id>
+        <link href="https://www.youtube.com/watch?v=lRogMYe7ZLg"/>
+        <updated>2021-06-01T15:29:28.000Z</updated>
+        <summary type="html"><![CDATA[A little story about my first paid project as a freelancer back in 2008 - 2009Find a list of my latest Udemy courses at:https://traversymedia.com💖  Support ...]]></summary>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Day with Munich Developers | DevCities]]></title>
+        <id>https://www.youtube.com/watch?v=cTN2lpQSkls</id>
+        <link href="https://www.youtube.com/watch?v=cTN2lpQSkls"/>
+        <updated>2021-06-01T13:59:17.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of DevCities, we head to a city known for its beer gardens, Lederhosen and tasty pretzels: Munich, Germany. There we meet up with Alexey Miro...]]></summary>
+        <author>
+            <name>Honeypot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreating Dennis Ritchie's PhD Thesis - Computerphile]]></title>
+        <id>https://www.youtube.com/watch?v=82TxNejKsng</id>
+        <link href="https://www.youtube.com/watch?v=82TxNejKsng"/>
+        <updated>2021-05-28T19:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Professor Brailsford has been toiling away on a faithful recreation of Unix co-creator Dennis Ritchie's unsubmitted PhD thesis. The Computer History Museum m...]]></summary>
+        <author>
+            <name>Computerphile</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Audio API 드럼머신 만들기 (Korean with English subtitles)]]></title>
+        <id>https://www.youtube.com/watch?v=MY8LZ49D76c</id>
+        <link href="https://www.youtube.com/watch?v=MY8LZ49D76c"/>
+        <updated>2021-05-27T17:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Can a web page be a musical instrument? Using the Web Audio API, it can!In this short video, we'll build a simple drum machine, and show you the core concept...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular DevTools | Demo]]></title>
+        <id>https://www.youtube.com/watch?v=d1SJL51FFxQ</id>
+        <link href="https://www.youtube.com/watch?v=d1SJL51FFxQ"/>
+        <updated>2021-05-26T18:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Learn what Angular DevTools is and how to use it to preview your application and profile its performance.Resources:Angular DevTools on Chrome Web Store → htt...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progressively loading images - HTTP 203]]></title>
+        <id>https://www.youtube.com/watch?v=-7k3H2GxE5E</id>
+        <link href="https://www.youtube.com/watch?v=-7k3H2GxE5E"/>
+        <updated>2021-05-26T14:12:22.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, Jake (that's him on the left) and Surma (that's the other one) chat about how the different image formats load, and what you can do to make ...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Hour Vue.js & Firebase Project - FireBlogs]]></title>
+        <id>https://www.youtube.com/watch?v=ISv22NNL-aE</id>
+        <link href="https://www.youtube.com/watch?v=ISv22NNL-aE"/>
+        <updated>2021-05-26T12:58:14.000Z</updated>
+        <summary type="html"><![CDATA[Build a multi-user blog project with Vue.js, Vuex and FirebaseDemo:https://fireblogs-50850.web.app/Code:https://github.com/johnkomarnicki/FireBlogs-YouTubeJo...]]></summary>
+        <author>
+            <name>Traversy Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New in Chrome 91: File System Access API improvements, Google IO, and more]]></title>
+        <id>https://www.youtube.com/watch?v=vy6FXa0n1r0</id>
+        <link href="https://www.youtube.com/watch?v=vy6FXa0n1r0"/>
+        <updated>2021-05-25T23:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Chrome 91 is rolling out now. Web apps that interact with files, can now suggest file names and directories when using the file system access API. Plus, you ...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Bahasa Melayu] Chrome 91 - Fungsi-fungsi terbaru DevTools]]></title>
+        <id>https://www.youtube.com/watch?v=YCrEmhfwsgg</id>
+        <link href="https://www.youtube.com/watch?v=YCrEmhfwsgg"/>
+        <updated>2021-05-24T23:45:19.000Z</updated>
+        <summary type="html"><![CDATA[To watch this episode in English visit →  https://goo.gle/3eLof2N  New to DevTools in Chrome 91:What’s new in DevTools (Chrome 91) → https://goo.gle/3eLof2N ...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 91 - What’s New in DevTools]]></title>
+        <id>https://www.youtube.com/watch?v=Givhtk3rObE</id>
+        <link href="https://www.youtube.com/watch?v=Givhtk3rObE"/>
+        <updated>2021-05-24T23:41:43.000Z</updated>
+        <summary type="html"><![CDATA[New to DevTools in Chrome 91:What’s new in DevTools (Chrome 91) → https://goo.gle/3eLof2N Memory inspector → https://goo.gle/349mLZY You’re not seeing double...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web runtime performance | Q&A]]></title>
+        <id>https://www.youtube.com/watch?v=b-osLoWii2M</id>
+        <link href="https://www.youtube.com/watch?v=b-osLoWii2M"/>
+        <updated>2021-05-24T20:26:46.000Z</updated>
+        <summary type="html"><![CDATA[How do I build performant web apps from the beginning of my process? What can I do to improve the performance of existing apps? Is Wasm the superhero of web ...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A whirlwind tour through Project Fugu APIs | Workshop]]></title>
+        <id>https://www.youtube.com/watch?v=5CLyAX2CTLc</id>
+        <link href="https://www.youtube.com/watch?v=5CLyAX2CTLc"/>
+        <updated>2021-05-24T20:24:43.000Z</updated>
+        <summary type="html"><![CDATA[In this Workshop, we cover a number of Project Fugu’s APIs. We show developers an absolute baseline MVP example for each API that gives an overview of each u...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy sandbox | Q&A]]></title>
+        <id>https://www.youtube.com/watch?v=Gv2H3cUz_DM</id>
+        <link href="https://www.youtube.com/watch?v=Gv2H3cUz_DM"/>
+        <updated>2021-05-24T20:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Chrome's making progress towards building a more private web by default and that's bringing an array of changes to the browser and proposals for the web plat...]]></summary>
+        <author>
+            <name>Google Chrome Developers</name>
+        </author>
+    </entry>
+</feed>

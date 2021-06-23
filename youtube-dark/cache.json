@@ -1,0 +1,391 @@
+{
+  "sources": [
+    {
+      "title": "Honeypot",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsUalyRg43M8D60mtHe6YcA",
+      "siteUrl": "https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cTN2lpQSkls",
+          "author": null,
+          "description": "In this episode of DevCities, we head to a city known for its beer gardens, Lederhosen and tasty pretzels: Munich, Germany. There we meet up with Alexey Miro...",
+          "link": "https://www.youtube.com/watch?v=cTN2lpQSkls",
+          "publishedOn": "2021-06-01T13:59:17.000Z",
+          "wordCount": 19,
+          "title": "A Day with Munich Developers | DevCities"
+        }
+      ]
+    },
+    {
+      "title": "Computerphile",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
+      "siteUrl": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=K7oxZCgO1dY",
+          "author": null,
+          "description": "\"Just send me a PDF!\" - but what kind of PDF? As Professor Brailsford explains, PDF is simply a wrapper which can contain a variety of joys!https://www.faceb...",
+          "link": "https://www.youtube.com/watch?v=K7oxZCgO1dY",
+          "publishedOn": "2021-06-18T15:04:46.000Z",
+          "wordCount": 17,
+          "title": "Types of PDF - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fpkQ_ZqZY4o",
+          "author": null,
+          "description": "Exponential growth is a term that's used a lot, but our intuition can play tricks on understanding it. Dr Tim Muller takes us through some examples that demo...",
+          "link": "https://www.youtube.com/watch?v=fpkQ_ZqZY4o",
+          "publishedOn": "2021-06-11T16:05:30.000Z",
+          "wordCount": 19,
+          "title": "How bad is Exponential Growth? - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IT6-5ZbabVg",
+          "author": null,
+          "description": "How much of a problem is DeepFake, the ability to swap people's faces around? Dr Mike Pound decided to try it with colleague Dr Steve Bagley. https://www.fac...",
+          "link": "https://www.youtube.com/watch?v=IT6-5ZbabVg",
+          "publishedOn": "2021-06-04T18:25:13.000Z",
+          "wordCount": 19,
+          "title": "Is DeepFake Really All That? - Computerphile"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=82TxNejKsng",
+          "author": null,
+          "description": "Professor Brailsford has been toiling away on a faithful recreation of Unix co-creator Dennis Ritchie's unsubmitted PhD thesis. The Computer History Museum m...",
+          "link": "https://www.youtube.com/watch?v=82TxNejKsng",
+          "publishedOn": "2021-05-28T19:13:28.000Z",
+          "wordCount": 19,
+          "title": "Recreating Dennis Ritchie's PhD Thesis - Computerphile"
+        }
+      ]
+    },
+    {
+      "title": "DistroTube",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+      "siteUrl": "https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5b-xQkRWHjQ",
+          "author": null,
+          "description": "In this lengthy video, I go over some of the changes I would make with Ubuntu (with GNOME) if I were using it as my daily driver.  I don't make drastic chang...",
+          "link": "https://www.youtube.com/watch?v=5b-xQkRWHjQ",
+          "publishedOn": "2021-06-22T15:00:59.000Z",
+          "wordCount": 18,
+          "title": "Taking Ubuntu To The Next Level"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MVITl24rRHM",
+          "author": null,
+          "description": "In this YouTube #shorts video (shot in landscape mode like a normal person), I discuss a serious mental disorder that too many people suffer from--identifyin...",
+          "link": "https://www.youtube.com/watch?v=MVITl24rRHM",
+          "publishedOn": "2021-06-21T14:00:08.000Z",
+          "wordCount": 20,
+          "title": "You Are NOT The Software You Run! (#shorts)"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5iCjhdCUuLg",
+          "author": null,
+          "description": "Emacs has a really neat mode built into it called prettify-symbols-mode.  You add a block of code into your Emacs config listing words and corresponding symb...",
+          "link": "https://www.youtube.com/watch?v=5iCjhdCUuLg",
+          "publishedOn": "2021-06-20T17:00:02.000Z",
+          "wordCount": 19,
+          "title": "Transform Words Into Pretty Symbols In Emacs"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oFs9accYV2c",
+          "author": null,
+          "description": "Redcore Linux is a distribution based on Gentoo but aims to provide a user-friendly installation.  Redcore targets the casual Linux user but is also appropri...",
+          "link": "https://www.youtube.com/watch?v=oFs9accYV2c",
+          "publishedOn": "2021-06-19T17:27:11.000Z",
+          "wordCount": 18,
+          "title": "Redcore Linux Makes Gentoo User Friendly"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=p0nCEGTlTqM",
+          "author": null,
+          "description": "You will find a word processor installed on almost every desktop computer.  The word processor has become an integral part of so many people's workflow.  And...",
+          "link": "https://www.youtube.com/watch?v=p0nCEGTlTqM",
+          "publishedOn": "2021-06-17T20:01:46.000Z",
+          "wordCount": 20,
+          "title": "Word Processors Are Evil And Should Not Exist!"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9YOZmI-zWok",
+          "author": null,
+          "description": "One of my favorite command line utilities is \"awk\" which is a text-processing program.  It is mostly used for pattern scanning and processing.  In this video...",
+          "link": "https://www.youtube.com/watch?v=9YOZmI-zWok",
+          "publishedOn": "2021-06-16T20:44:18.000Z",
+          "wordCount": 19,
+          "title": "Learning Awk Is Essential For Linux Users"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2QXkrLVsRmk",
+          "author": null,
+          "description": "SSH (the Secure Shell) is a program for logging into a remote machine and for executing commands on a remote machine.  Often, SSH is the only way to access r...",
+          "link": "https://www.youtube.com/watch?v=2QXkrLVsRmk",
+          "publishedOn": "2021-06-14T21:12:51.000Z",
+          "wordCount": 17,
+          "title": "The Beginner's Guide To SSH"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IWzU82swez0",
+          "author": null,
+          "description": "Recently, Linus Torvalds had to confront a conspiracy theorist on the Linux kernel mailing list.  It seems the rise in popularity of conspiracy theories coin...",
+          "link": "https://www.youtube.com/watch?v=IWzU82swez0",
+          "publishedOn": "2021-06-13T21:02:34.000Z",
+          "wordCount": 20,
+          "title": "Why So Many People Lack Critical Thinking Skills"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kRkp-uJTK7s",
+          "author": null,
+          "description": "Probably one of the most common Vim/Emacs questions that I get is \"Why would I choose Emacs over Vim?\"  Or \"what does Emacs have to offer that Vim doesn't?\" ...",
+          "link": "https://www.youtube.com/watch?v=kRkp-uJTK7s",
+          "publishedOn": "2021-06-11T23:13:08.000Z",
+          "wordCount": 20,
+          "title": "What Are The Benefits Of Emacs Over Vim?"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VaG4sCXTkrw",
+          "author": null,
+          "description": "The trackball mouse is nothing.  They've been around for decades, yet for many people, trackballs are still kind of shrouded in mystery.  What is the purpose...",
+          "link": "https://www.youtube.com/watch?v=VaG4sCXTkrw",
+          "publishedOn": "2021-06-10T18:20:00.000Z",
+          "wordCount": 21,
+          "title": "Switch To A Trackball Mouse And Save Your Wrists"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jv0sDkswwrY",
+          "author": null,
+          "description": "Topics of discussion on this episode of \"Hey, DT!\" include: Audacity and alternatives, the middle ground between Ubuntu and Arch, my favorite music genre, th...",
+          "link": "https://www.youtube.com/watch?v=jv0sDkswwrY",
+          "publishedOn": "2021-06-09T18:20:54.000Z",
+          "wordCount": 26,
+          "title": "\"Hey, DT! I Want A Distro In Between Ubuntu and Arch.\" (And Other Questions)"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AuzRnT7tu28",
+          "author": null,
+          "description": "In recent weeks, the most requested Linux distro for me to take a look at has been Peux OS.  It's an Arch-based distro that claims to be minimal and beautifu...",
+          "link": "https://www.youtube.com/watch?v=AuzRnT7tu28",
+          "publishedOn": "2021-06-07T20:52:09.000Z",
+          "wordCount": 23,
+          "title": "A First Look At Two Editions Of Peux OS (Xfce, XMonad)"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SWlMQaC7b-8",
+          "author": null,
+          "description": "A boomer rants from his couch about life without being connected to the Internet.  I'm currently without a computer at home and this has me thinking.  Is bei...",
+          "link": "https://www.youtube.com/watch?v=SWlMQaC7b-8",
+          "publishedOn": "2021-06-06T20:18:40.000Z",
+          "wordCount": 21,
+          "title": "Life Without The Internet? It's Actually BETTER! (Boomer Rant)"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SVteSEjKytw",
+          "author": null,
+          "description": "Nyxt is a keyboard-oriented, infinitely extensible web browser designed for power users. Conceptually inspired by Emacs and Vim, it is fully configurable in ...",
+          "link": "https://www.youtube.com/watch?v=SVteSEjKytw",
+          "publishedOn": "2021-06-05T21:23:57.000Z",
+          "wordCount": 20,
+          "title": "Nyxt Is The Most Customizable Web Browser EVER"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hv9l8t7_Pu4",
+          "author": null,
+          "description": "Styli.sh is a shell script that automates the tedious process of finding new wallpapers, downloading and setting them.  Styli.sh searches for wallpapers from...",
+          "link": "https://www.youtube.com/watch?v=hv9l8t7_Pu4",
+          "publishedOn": "2021-06-04T20:11:22.000Z",
+          "wordCount": 20,
+          "title": "Discover New Wallpapers And Set Them With Styli.sh"
+        }
+      ]
+    },
+    {
+      "title": "Traversy Media",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC29ju8bIPH5as8OGnQzwJyA",
+      "siteUrl": "https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Lk-uVEVGxOA",
+          "author": null,
+          "description": "Fastify is a \"fast\" Node.js framework. In this video, we will build a REST API with validation schemas and swagger documentationCode:https://github.com/bradt...",
+          "link": "https://www.youtube.com/watch?v=Lk-uVEVGxOA",
+          "publishedOn": "2021-06-18T12:52:09.000Z",
+          "wordCount": 18,
+          "title": "Fastify Crash Course | Node.js Framework"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4sosXZsdy-s",
+          "author": null,
+          "description": "Beginner-friendly website project using Bootstrap 5Hostinger:https://www.hostinger.com/traversymedia- Use the code TRAVERSYMEDIA for 10% off!Code:https://git...",
+          "link": "https://www.youtube.com/watch?v=4sosXZsdy-s",
+          "publishedOn": "2021-06-09T13:28:51.000Z",
+          "wordCount": 21,
+          "title": "Bootstrap 5 Crash Course | Website Build & Deploy"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lRogMYe7ZLg",
+          "author": null,
+          "description": "A little story about my first paid project as a freelancer back in 2008 - 2009Find a list of my latest Udemy courses at:https://traversymedia.com💖  Support ...",
+          "link": "https://www.youtube.com/watch?v=lRogMYe7ZLg",
+          "publishedOn": "2021-06-01T15:29:28.000Z",
+          "wordCount": 19,
+          "title": "My First Freelance Gig Was a Disaster"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ISv22NNL-aE",
+          "author": null,
+          "description": "Build a multi-user blog project with Vue.js, Vuex and FirebaseDemo:https://fireblogs-50850.web.app/Code:https://github.com/johnkomarnicki/FireBlogs-YouTubeJo...",
+          "link": "https://www.youtube.com/watch?v=ISv22NNL-aE",
+          "publishedOn": "2021-05-26T12:58:14.000Z",
+          "wordCount": 20,
+          "title": "6 Hour Vue.js & Firebase Project - FireBlogs"
+        }
+      ]
+    },
+    {
+      "title": "Google Chrome Developers",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw",
+      "siteUrl": "https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Lh9q3h2khlc",
+          "author": null,
+          "description": "Jake & Surma go through the top 9 + 1 performance issues Jake saw while analyzing a bunch of web sites.Who has the fastest F1 website? → https://goo.gle/3x0g...",
+          "link": "https://www.youtube.com/watch?v=Lh9q3h2khlc",
+          "publishedOn": "2021-06-22T15:12:58.000Z",
+          "wordCount": 19,
+          "title": "Top 10 performance pitfalls - HTTP 203"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zfNrB0C3lF0",
+          "author": null,
+          "description": "Switch on/off English subtitles by clicking on the CC icon.This video deep dives into the state of different Javascript Frameworks like React, Vue and Angula...",
+          "link": "https://www.youtube.com/watch?v=zfNrB0C3lF0",
+          "publishedOn": "2021-06-17T17:00:59.000Z",
+          "wordCount": 25,
+          "title": "What is the state of web frameworks in India (Hindi with English subtitles)"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PPJKljH1dn8",
+          "author": null,
+          "description": "Switch on/off English subtitles by clicking on the CC icon.Learn advanced Progressive Web App recipes that combine several modern web APIs, and how companies...",
+          "link": "https://www.youtube.com/watch?v=PPJKljH1dn8",
+          "publishedOn": "2021-06-10T17:05:24.000Z",
+          "wordCount": 22,
+          "title": "Advanced patterns for Progressive Web Apps (Spanish with English subtitles)"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oHcTn83M1ls",
+          "author": null,
+          "description": "In today’s GUI challenge, we’re building dark, light and dim color schemes with HSL. The CSS works across modern browsers, establishes foundational architect...",
+          "link": "https://www.youtube.com/watch?v=oHcTn83M1ls",
+          "publishedOn": "2021-06-09T17:01:09.000Z",
+          "wordCount": 19,
+          "title": "Thinking on ways to solve COLOR SCHEMES"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=PZryHH8roIY",
+          "author": null,
+          "description": "You know GZIP right? It’s everywhere on the web to reduce the number of bytes going over the wire. In this episode, Surma is giving you a quickstart on how i...",
+          "link": "https://www.youtube.com/watch?v=PZryHH8roIY",
+          "publishedOn": "2021-06-08T14:41:15.000Z",
+          "wordCount": 19,
+          "title": "From nothin’ to gzip - HTTP 203"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kzJfiKQyD24",
+          "author": null,
+          "description": "How does the install flow work for Progressive Web Apps? How can you provide your own in-app install experience? How do you measure the effectiveness of your...",
+          "link": "https://www.youtube.com/watch?v=kzJfiKQyD24",
+          "publishedOn": "2021-06-03T17:00:59.000Z",
+          "wordCount": 19,
+          "title": "Deep dive into the PWA install flow"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MY8LZ49D76c",
+          "author": null,
+          "description": "Can a web page be a musical instrument? Using the Web Audio API, it can!In this short video, we'll build a simple drum machine, and show you the core concept...",
+          "link": "https://www.youtube.com/watch?v=MY8LZ49D76c",
+          "publishedOn": "2021-05-27T17:07:34.000Z",
+          "wordCount": 21,
+          "title": "Web Audio API 드럼머신 만들기 (Korean with English subtitles)"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=d1SJL51FFxQ",
+          "author": null,
+          "description": "Learn what Angular DevTools is and how to use it to preview your application and profile its performance.Resources:Angular DevTools on Chrome Web Store → htt...",
+          "link": "https://www.youtube.com/watch?v=d1SJL51FFxQ",
+          "publishedOn": "2021-05-26T18:01:15.000Z",
+          "wordCount": 16,
+          "title": "Angular DevTools | Demo"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-7k3H2GxE5E",
+          "author": null,
+          "description": "In this episode, Jake (that's him on the left) and Surma (that's the other one) chat about how the different image formats load, and what you can do to make ...",
+          "link": "https://www.youtube.com/watch?v=-7k3H2GxE5E",
+          "publishedOn": "2021-05-26T14:12:22.000Z",
+          "wordCount": 18,
+          "title": "Progressively loading images - HTTP 203"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vy6FXa0n1r0",
+          "author": null,
+          "description": "Chrome 91 is rolling out now. Web apps that interact with files, can now suggest file names and directories when using the file system access API. Plus, you ...",
+          "link": "https://www.youtube.com/watch?v=vy6FXa0n1r0",
+          "publishedOn": "2021-05-25T23:00:13.000Z",
+          "wordCount": 25,
+          "title": "New in Chrome 91: File System Access API improvements, Google IO, and more"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YCrEmhfwsgg",
+          "author": null,
+          "description": "To watch this episode in English visit →  https://goo.gle/3eLof2N  New to DevTools in Chrome 91:What’s new in DevTools (Chrome 91) → https://goo.gle/3eLof2N ...",
+          "link": "https://www.youtube.com/watch?v=YCrEmhfwsgg",
+          "publishedOn": "2021-05-24T23:45:19.000Z",
+          "wordCount": 20,
+          "title": "[Bahasa Melayu] Chrome 91 - Fungsi-fungsi terbaru DevTools"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Givhtk3rObE",
+          "author": null,
+          "description": "New to DevTools in Chrome 91:What’s new in DevTools (Chrome 91) → https://goo.gle/3eLof2N Memory inspector → https://goo.gle/349mLZY You’re not seeing double...",
+          "link": "https://www.youtube.com/watch?v=Givhtk3rObE",
+          "publishedOn": "2021-05-24T23:41:43.000Z",
+          "wordCount": 19,
+          "title": "Chrome 91 - What’s New in DevTools"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=b-osLoWii2M",
+          "author": null,
+          "description": "How do I build performant web apps from the beginning of my process? What can I do to improve the performance of existing apps? Is Wasm the superhero of web ...",
+          "link": "https://www.youtube.com/watch?v=b-osLoWii2M",
+          "publishedOn": "2021-05-24T20:26:46.000Z",
+          "wordCount": 17,
+          "title": "Web runtime performance | Q&A"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5CLyAX2CTLc",
+          "author": null,
+          "description": "In this Workshop, we cover a number of Project Fugu’s APIs. We show developers an absolute baseline MVP example for each API that gives an overview of each u...",
+          "link": "https://www.youtube.com/watch?v=5CLyAX2CTLc",
+          "publishedOn": "2021-05-24T20:24:43.000Z",
+          "wordCount": 21,
+          "title": "A whirlwind tour through Project Fugu APIs | Workshop"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Gv2H3cUz_DM",
+          "author": null,
+          "description": "Chrome's making progress towards building a more private web by default and that's bringing an array of changes to the browser and proposals for the web plat...",
+          "link": "https://www.youtube.com/watch?v=Gv2H3cUz_DM",
+          "publishedOn": "2021-05-24T20:20:53.000Z",
+          "wordCount": 16,
+          "title": "Privacy sandbox | Q&A"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.10.2"
+}

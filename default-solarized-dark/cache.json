@@ -6,139 +6,139 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=340759",
-          "author": "Josh Collinsworth",
-          "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
-          "publishedOn": "2021-05-25T14:25:06.000Z",
-          "wordCount": 7475,
-          "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341383",
-          "author": "Ahmed Bouchefra",
-          "description": "Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …\nThe post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/",
-          "publishedOn": "2021-05-25T11:00:00.000Z",
-          "wordCount": 1386,
-          "title": "Creating Powerful Websites with Serverless-Driven CMS Development"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340808",
+          "id": "https://css-tricks.com/?p=342930",
           "author": "Chris Coyier",
-          "description": "Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, \n…\nThe post Links on Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-performance/",
-          "publishedOn": "2021-05-24T22:03:30.000Z",
-          "wordCount": 874,
-          "title": "Links on Performance"
+          "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/inherit-initial-unset-revert/",
+          "publishedOn": "2021-06-22T21:20:20.000Z",
+          "wordCount": 687,
+          "title": "inherit, initial, unset, revert"
         },
         {
-          "id": "https://css-tricks.com/?p=341153",
+          "id": "https://css-tricks.com/?p=342634",
+          "author": "Geoff Rich",
+          "description": "Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …\nThe post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-custom-elements-in-svelte/",
+          "publishedOn": "2021-06-22T14:37:50.000Z",
+          "wordCount": 3090,
+          "title": "Using Custom Elements in Svelte"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342925",
           "author": "Chris Coyier",
-          "description": "I like a good trick. What if… a URL was…  a promise… that fetched said URL?\nwww.codepen.io.then((response) ={\n  console.log(response);\n});\nThat’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…\nThe post proxy-www appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://github.com/justjavac/proxy-www",
-          "publishedOn": "2021-05-24T19:09:59.000Z",
-          "wordCount": 527,
-          "title": "proxy-www"
+          "description": "I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …\nThe post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/",
+          "publishedOn": "2021-06-22T14:33:41.000Z",
+          "wordCount": 1497,
+          "title": "If we’re gonna criticize utility-class frameworks, let’s be fair about it"
         },
         {
-          "id": "https://css-tricks.com/?p=340626",
-          "author": "Raymond Camden",
-          "description": "By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …\nThe post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/",
-          "publishedOn": "2021-05-24T13:57:21.000Z",
-          "wordCount": 2872,
-          "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340991",
+          "id": "https://css-tricks.com/?p=342887",
           "author": "Chris Coyier",
-          "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
-          "publishedOn": "2021-05-21T23:22:54.000Z",
-          "wordCount": 1168,
-          "title": "Should DevTools teach the CSS cascade?"
+          "description": "Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …\nThe post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://web.dev/new-responsive/",
+          "publishedOn": "2021-06-21T21:22:33.000Z",
+          "wordCount": 2285,
+          "title": "Are we in a new era of web design? What do we call it?"
         },
         {
-          "id": "https://css-tricks.com/?p=340825",
-          "author": "Adam Rackis",
-          "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
-          "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3553,
-          "title": "Svelte for the Experienced React Dev"
+          "id": "https://css-tricks.com/?p=342448",
+          "author": "Preethi",
+          "description": "Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …\nThe post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/",
+          "publishedOn": "2021-06-21T14:32:45.000Z",
+          "wordCount": 1598,
+          "title": "How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji"
         },
         {
-          "id": "https://css-tricks.com/?p=340919",
+          "id": "https://css-tricks.com/?p=341511",
+          "author": "Carter Li",
+          "description": "The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …\nThe post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/",
+          "publishedOn": "2021-06-18T20:38:59.000Z",
+          "wordCount": 1130,
+          "title": "Using the `outline` Property as a Collapsable Border"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342326",
           "author": "Chris Coyier",
-          "description": "Collection of common CSS mistakes, and how to fix them\nFrom Stefánia Péter. \nClever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …\nThe post CSS Hell appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://csshell.dev/",
-          "publishedOn": "2021-05-21T14:29:16.000Z",
-          "wordCount": 295,
-          "title": "CSS Hell"
+          "description": "I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the \n…\nThe post Links on Typography appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-typography-2/",
+          "publishedOn": "2021-06-18T13:44:17.000Z",
+          "wordCount": 784,
+          "title": "Links on Typography"
         },
         {
-          "id": "https://css-tricks.com/?p=340599",
+          "id": "https://css-tricks.com/?p=341948",
+          "author": "Louis Hoebregts",
+          "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/",
+          "publishedOn": "2021-06-17T14:45:57.000Z",
+          "wordCount": 1691,
+          "title": "Perfect Tooltips With CSS Clipping and Masking"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342257",
+          "author": "ImageEngine",
+          "description": "Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.\nHowever, web performance is also a growing problem for most websites. And images are at the heart of many web …\nThe post Start Serving Optimized Images in Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/start-serving-optimized-images-in-vue/",
+          "publishedOn": "2021-06-17T14:38:42.000Z",
+          "wordCount": 1309,
+          "title": "Start Serving Optimized Images in Vue"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342358",
           "author": "Chris Coyier",
-          "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/json-in-css/",
-          "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 1092,
-          "title": "JSON in CSS"
+          "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/inline-styles-as-classes-lol/",
+          "publishedOn": "2021-06-16T21:11:02.000Z",
+          "wordCount": 1552,
+          "title": "Inline Styles as Classes (lol)"
         },
         {
-          "id": "https://css-tricks.com/?p=340933",
+          "id": "https://css-tricks.com/?p=342630",
           "author": "Chris Coyier",
-          "description": "Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …\nThe post Learn CSS! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/learn/css/",
-          "publishedOn": "2021-05-20T21:51:43.000Z",
-          "wordCount": 1040,
-          "title": "Learn CSS!"
+          "description": "Jim Nielsen: \nIf somebody says a comment isn’t adding any value, I would ask: to whom?\nPersonally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.\nJim showed …\nThe post Useful and Useless Code Comments appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
+          "publishedOn": "2021-06-16T19:08:33.000Z",
+          "wordCount": 869,
+          "title": "Useful and Useless Code Comments"
         },
         {
-          "id": "https://css-tricks.com/?p=340715",
-          "author": "Jhey Tompkins",
-          "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
-          "publishedOn": "2021-05-20T14:24:12.000Z",
-          "wordCount": 1747,
-          "title": "Can We Create a “Resize Hack” With Container Queries?"
+          "id": "https://css-tricks.com/?p=342353",
+          "author": "Okiki Ojo",
+          "description": "The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …\nThe post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/",
+          "publishedOn": "2021-06-16T14:26:58.000Z",
+          "wordCount": 2416,
+          "title": "How I Used the WAAPI to Build an Animation Library"
         },
         {
-          "id": "https://css-tricks.com/?p=340897",
+          "id": "https://css-tricks.com/?p=342198",
           "author": "Chris Coyier",
-          "description": "Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …\nThe post fit-content and fit-content() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html",
-          "publishedOn": "2021-05-20T14:20:56.000Z",
-          "wordCount": 1196,
-          "title": "fit-content and fit-content()"
+          "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/detect-unused-classes-in-html/",
+          "publishedOn": "2021-06-15T23:24:20.000Z",
+          "wordCount": 809,
+          "title": "Detect Unused Classes in… HTML"
         },
         {
-          "id": "https://css-tricks.com/?p=340731",
+          "id": "https://css-tricks.com/?p=342519",
           "author": "Chris Coyier",
-          "description": "The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …\nThe post Notion API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/notion-api/",
-          "publishedOn": "2021-05-19T23:18:42.000Z",
-          "wordCount": 1127,
-          "title": "Notion API"
+          "description": "Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.\nI took the bait and had a look at some of my projects – \n…\nThe post Media Queries in Times of @container appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://mxb.dev/blog/media-queries-in-times-of-container-queries/",
+          "publishedOn": "2021-06-15T19:51:32.000Z",
+          "wordCount": 2315,
+          "title": "Media Queries in Times of @container"
         },
         {
-          "id": "https://css-tricks.com/?p=340692",
-          "author": "Shubham Jain",
-          "description": "SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …\nThe post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
-          "publishedOn": "2021-05-19T14:28:19.000Z",
-          "wordCount": 1803,
-          "title": "svg-loader: A Different Way to Work With External SVG"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340613",
+          "id": "https://css-tricks.com/?p=342248",
           "author": "Chris Coyier",
-          "description": "I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.\nA fella wrote to me a while back outlining a situation he was in. His company has …\nThe post Pinned Audio WordPress Theme appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/pinned-audio-wordpress-theme/",
-          "publishedOn": "2021-05-18T19:14:53.000Z",
-          "wordCount": 1082,
-          "title": "Pinned Audio WordPress Theme"
+          "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
+          "publishedOn": "2021-06-15T14:31:34.000Z",
+          "wordCount": 2883,
+          "title": "Just How Niche is Headless WordPress?"
         }
       ]
     },
@@ -148,94 +148,94 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
-          "id": "60ac3a2711ffb70827ef6aec",
+          "id": "60d2323d6e1a1407b6b0ac4f",
           "author": null,
-          "description": "Walkthrough for Hack The Box Valentine machine",
-          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/",
-          "publishedOn": "2021-05-25T22:43:11.000Z",
-          "wordCount": 1664,
-          "title": "Keep Calm and Hack The Box – Valentine"
+          "description": "Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we",
+          "link": "https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/",
+          "publishedOn": "2021-06-22T21:11:53.000Z",
+          "wordCount": 2770,
+          "title": "Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools"
         },
         {
-          "id": "60a93b0011ffb70827ef5b0d",
+          "id": "60cac8ff4dc1a607ed7b4592",
           "author": null,
-          "description": "In HTML, it’s the default behavior for forms to redirect to a new page whenever they're submitted. So in order to provide dynamic functionality, React uses a strategy called controlled components. If you have recently gone through a React course, you probably didn't like this part, because there are",
-          "link": "https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/",
-          "publishedOn": "2021-05-25T20:26:38.000Z",
-          "wordCount": 1752,
-          "title": "How to Use React-Hook-Form to Build Beautiful Forms with Chakra UI"
+          "description": "There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await\", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use",
+          "link": "https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/",
+          "publishedOn": "2021-06-22T16:24:37.000Z",
+          "wordCount": 1432,
+          "title": "How to Use Async/Await to Write Better JavaScript Code"
         },
         {
-          "id": "608706aedd38b9088c2c012c",
+          "id": "60c13e71d3126007592d5be2",
           "author": null,
-          "description": "If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when",
-          "link": "https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/",
-          "publishedOn": "2021-05-25T16:51:37.000Z",
-          "wordCount": 1940,
-          "title": "Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work"
+          "description": "The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/",
+          "publishedOn": "2021-06-22T16:20:36.000Z",
+          "wordCount": 7385,
+          "title": "How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot"
         },
         {
-          "id": "60abc6d011ffb70827ef630f",
+          "id": "60cfff5a4dc1a607ed7b5e58",
           "author": null,
-          "description": "Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are",
-          "link": "https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/",
-          "publishedOn": "2021-05-25T00:48:45.000Z",
-          "wordCount": 710,
-          "title": "How to Use Node Environment Variables with a DotEnv File for Node.js and npm"
+          "description": "Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with",
+          "link": "https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/",
+          "publishedOn": "2021-06-22T16:18:29.000Z",
+          "wordCount": 1611,
+          "title": "How to Use Python to Create a Visual Novel Game in 10 Minutes"
         },
         {
-          "id": "60626dc29618b008528a9589",
+          "id": "60c81f774dc1a607ed7b2f66",
           "author": null,
-          "description": "Walkthrough for Hack The Box Nibbles machine",
-          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/",
-          "publishedOn": "2021-05-25T00:20:22.000Z",
-          "wordCount": 1905,
-          "title": "Keep Calm and Hack The Box – Nibbles"
+          "description": "I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.",
+          "link": "https://www.freecodecamp.org/news/how-to-exit-vim/",
+          "publishedOn": "2021-06-21T21:52:43.000Z",
+          "wordCount": 1785,
+          "title": "How to Exit Vim – Vim Save and Quit Command Tutorial"
         },
         {
-          "id": "60aaba5911ffb70827ef5ffc",
+          "id": "60bce157acb62507dd1d9f11",
           "author": null,
-          "description": "Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I",
-          "link": "https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/",
-          "publishedOn": "2021-05-24T21:30:43.000Z",
-          "wordCount": 1835,
-          "title": "How to Use Small and Sustainable Habits to Get Your First Dev Job"
+          "description": "When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.",
+          "link": "https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/",
+          "publishedOn": "2021-06-21T21:25:11.000Z",
+          "wordCount": 1085,
+          "title": "Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples"
         },
         {
-          "id": "60ac07ec11ffb70827ef66e4",
+          "id": "60cccd6e4dc1a607ed7b4f81",
           "author": null,
-          "description": "CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media",
-          "link": "https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/",
-          "publishedOn": "2021-05-24T20:36:07.000Z",
-          "wordCount": 319,
-          "title": "How to Use CSS Media Queries to Create Responsive Websites"
+          "description": "Redux is a state management library for front end applications. Developers commonly use it with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might",
+          "link": "https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/",
+          "publishedOn": "2021-06-21T21:01:42.000Z",
+          "wordCount": 1659,
+          "title": "Learn Redux by Making a Counter Application"
         },
         {
-          "id": "60aa161211ffb70827ef5f2c",
+          "id": "60d0d0ff6e1a1407b6b0a506",
           "author": null,
-          "description": "Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking",
-          "link": "https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/",
-          "publishedOn": "2021-05-24T19:40:36.000Z",
-          "wordCount": 2263,
-          "title": "How to Generate a Code Coverage Report with CodeCov and GitHub Actions"
+          "description": "Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to",
+          "link": "https://www.freecodecamp.org/news/build-portfolio-website-react/",
+          "publishedOn": "2021-06-21T18:15:53.000Z",
+          "wordCount": 3729,
+          "title": "How to Build a Portfolio Website with React"
         },
         {
-          "id": "60a5248c906c5207e3a7e54b",
+          "id": "60cda7104dc1a607ed7b5588",
           "author": null,
-          "description": "No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and",
-          "link": "https://www.freecodecamp.org/news/best-no-code-tools-for-developers/",
-          "publishedOn": "2021-05-24T14:54:42.000Z",
-          "wordCount": 2493,
-          "title": "The Best No-Code Tools for Developers in 2021"
+          "description": "Figma is a powerful design tool that helps you to create anything: websites, applications, logos, and much more. By learning to use Figma, you'll take your first steps into User Interface Design and and User Experience Design. These skills are essential for building a great portfolio for yourself and potentially",
+          "link": "https://www.freecodecamp.org/news/figma-crash-course/",
+          "publishedOn": "2021-06-21T17:52:21.000Z",
+          "wordCount": 1194,
+          "title": "What is Figma? A Design Crash Course [2021 Tutorial]"
         },
         {
-          "id": "6098ce302cd0545b5e944d0b",
+          "id": "60a55b37906c5207e3a7ea78",
           "author": null,
-          "description": "In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll",
-          "link": "https://www.freecodecamp.org/news/the-javascript-array-handbook/",
-          "publishedOn": "2021-05-21T15:33:45.000Z",
-          "wordCount": 4309,
-          "title": "The JavaScript Array Handbook – JS Array Methods Explained with Examples"
+          "description": "But where do you store your application's content? Storing the content on the blockchain would be expensive and inefficient. Your blockchain application needs decentralized storage!",
+          "link": "https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/",
+          "publishedOn": "2021-06-21T16:38:36.000Z",
+          "wordCount": 3575,
+          "title": "A Technical Guide to IPFS – the Decentralized Storage of Web3"
         }
       ]
     },
@@ -245,25 +245,43 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
-          "id": "https://daverupert.com/2021/05/vibe-check-4/",
+          "id": "https://daverupert.com/2021/06/log-jams/",
           "author": null,
-          "description": "I turned 41 at the end of April. Another pandemic birthday in the books. This one was special thanks to grandparents coming to visit which allowed my wife and I to escape to a hotel for a night. A small relief to be off parenting duty for ~18 hours after fourteen months of so much parenting. We ate Korean food, drank cocktails, and watched Deadpool in our hotel room. A tranquil birthday.\nApril was a bit of a hangover from March work-wise. My project load carried over and, while they’re all great projects, I found myself working in my spare time on the larger side projects to feel caught up. This is less than ideal but the energy-stress tradeoff was intentional. I’m working on quantifying and minimizing the work I do, but that’s hard to do when you run your own business and are building a s…",
-          "link": "https://daverupert.com/2021/05/vibe-check-4/",
-          "publishedOn": "2021-05-06T22:32:00.000Z",
-          "wordCount": 600,
-          "title": "Vibe Check №4"
+          "description": "From Fall 2020 to Spring 2021 I gave a talk about backlogs. It’s based on the story of the time someone assigned me 313 accessibility issues from an offshore audit. I believe every developer –at some point in their career– finds themselves pinned beneath a weighty backlog and because it’s such a universal experience, part of the job, I think it’s a topic worth discussing more frequently. And the parallel to a physical log jam was a portmanteau too perfect to pass up.\nIn the talk I explore how to break down work in a large backlog and introduce a tactic that I call “multidimensional audits”. There’s value in moving issues out of the bug tracker and into modern day spreadsheet tools so you can visualize your large problems from different angles. This helps make the backlog more digestible an…",
+          "link": "https://daverupert.com/2021/06/log-jams/",
+          "publishedOn": "2021-06-22T13:27:00.000Z",
+          "wordCount": 587,
+          "title": "Log Jams"
         },
         {
-          "id": "https://daverupert.com/2021/04/the-oceanmaker/",
+          "id": "https://daverupert.com/2021/06/two-options/",
           "author": null,
-          "description": "There’s two features I look for in good sci-fi: 1. something I hadn’t imagined before and 2. something that anticipates the automobile, as well as the traffic jam. The YouTube gods smiled up me and surfaced a channel called DUST, a massive collection sci-fi short films. The quality is much better than what you might expect from “free sci-fi” but one of their films, The OceanMaker, is an absolute standout that raptured me and took me somewhere I’ve never been.\nExtrapolating on the near future Water Wars, The OceanMaker is a beautiful animated film that imagines a world where humans fight over every drop of water — even clouds. The hero is a brave, young inventor with her heart set on changing the world with her invention. I don’t want to give any spoilers, but the film captures the real world tension between selfish, exploitative “biggest wins” capitalism and the need to invest in science and technology, all inside a package filled with sorrow, hope, and dogfights.\nI hope you enjoy it.",
-          "link": "https://daverupert.com/2021/04/the-oceanmaker/",
-          "publishedOn": "2021-04-27T15:06:00.000Z",
-          "wordCount": 209,
-          "title": "The OceanMaker"
+          "description": "Whenever my family attempts a major buying decision (TV, couch, computer, remodel, shed, dining table, etc) we’re inevitably confronted with a choice between two options:\nThe perfect, more expensive, but out-of-stock option\nThe less perfect, less expensive, in-stock option\nThis spins us out in a quandary of self-doubt. From the soul-seeking “Do we love it $700 more?”, to the hopefully naïve “What if they update it this year and it’s perfect?”, to the downright existential “Are we $700 more people?” We hem and haw, spinning around the issue like two black holes hoping to collide on a single opinion.\nAlmost always, we go with option two; the less perfect, less expensive, but in-stock option. Perhaps it’s us giving into impulsiveness, but there’s a small joy in walking away with a physical, tangible box or a tracking link instead of a lousy 12-digit order confirmation number. Even though we have enough datapoints to predict our behavior, we find ourselves in the same predicament over and over. Which path to take? Which path brings the most happiness? Which path is the secret to a happy lifestyle?\nI know people who do the perfect, more expensive, but out-of-stock so they have to wait option and they seem happy with their perfect, expensive goods. But they must have a level of patience or perfection I do not. Did they perform better at the marshmallow experiment? Not that we’re unhappy with our on-time, lower grade wares. But I wonder what would happen if we were the people who went all out, exhausted the budget, and then waited weeks or months for the Platonic ideal to arrive. Eight more gigabytes. Eight more horsepower. Eight more threads per inch. Eight more florps. It must be worth it. It must be.",
+          "link": "https://daverupert.com/2021/06/two-options/",
+          "publishedOn": "2021-06-21T15:19:00.000Z",
+          "wordCount": 351,
+          "title": "The perfect, more expensive, out-of-stock thing versus the less perfect, less expensive, in-stock thing."
+        },
+        {
+          "id": "https://daverupert.com/2021/06/the-amnesia-fortnight-documentary/",
+          "author": null,
+          "description": "One of my favorite game studios, Double Fine Productions, hosts and documents their internal 2-week game jam which they call “Amnesia Fortnight”. While it may be stressful for a small company to stop production on their monetization pipeline, Double Fine sees it as a way to test out “experimental” ideas and give people who aren’t game directors a shot at directing a game. A chance for people to play a different or larger role than what they typically perform. It also provides employees a break from the daily grind.\nI love the ethos of game jams because they force you to distill an idea down to its essence. The goal isn’t to have a polished, marketable product at the end, it’s to have something people can play. There’s a small plan, a lot of improv, and a lot of self-editing. If you can’t r…",
+          "link": "https://daverupert.com/2021/06/the-amnesia-fortnight-documentary/",
+          "publishedOn": "2021-06-03T17:51:00.000Z",
+          "wordCount": 580,
+          "title": "The Amnesia Fortnight Documentary"
+        },
+        {
+          "id": "https://daverupert.com/2021/06/vibe-check-5/",
+          "author": null,
+          "description": "Two vibes dominated this month: Work and Refinancing my house (which is more work). Work continues to be busy, a constant refrain, but this past half-year has been some of the hardest I’ve worked in my whole life. The tl;dr is that it’s hard to build a startup and do client projects at the same time. On top of that this month my wife and I are refinancing our house. Refinancing your house as a self-employed person is a special kind of hell with a heaping amount of extra “ASAP!”-type work added to your busy schedule.\nThe refinance is temporary and should die down soon and I’m finding some work boundaries and systems that help me organize my work week on a meta level (e.g. I work on project X  on day Y). Speaking candidly, it hasn’t been a great month for me but I do get to work with great p…",
+          "link": "https://daverupert.com/2021/06/vibe-check-5/",
+          "publishedOn": "2021-06-01T18:18:00.000Z",
+          "wordCount": 908,
+          "title": "Vibe Check №5"
         }
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
