@@ -2,18 +2,22 @@
 
 # Examples 
 
-## Theming the default template
+## 🎨 Theming the default template
 
 - `examples/default-gruvbox-light`: Default template, gruvbox light theme. [Demo](https://osmoscraft.github.io/osmosfeed-examples/default-gruvbox-light/)
 - `examples/default-solarized-light`: Default template, solarized light theme. [Demo](https://osmoscraft.github.io/osmosfeed-examples/default-solarized-light/)
 - `examples/default-solarized-dark`: Default template, solarized dark theme. [Demo](https://osmoscraft.github.io/osmosfeed-examples/default-solarized-dark/)
 
-## Building new templates
+## 🔨 Building new templates
 
 - `examples/articles-unstyled`: Flat list of articles, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/articles-unstyled/)
 - `examples/articles-daily-unstyled`: Articles grouped by day, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/articles-daily-unstyled/)
 - `examples/sources-daily-unstyled`: Articles grouped by source, then grouped by day, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/sources-daily-unstyled/)
 
-## Advanced usage
+## 🎧 Podcast
 
 - `examples/podcast-unstyled`: Render iTunes podcast feed, no theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/podcast-unstyled/)
+
+## 📺 YouTube
+
+- `examples/youtube-dark`: Render YouTube channels organized by last update time, dark theme [Demo](https://osmoscraft.github.io/osmosfeed-examples/youtube-dark/)
