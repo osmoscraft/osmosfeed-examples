@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T05:26:57.615Z</id>
+    <id>urn:2021-06-23T05:36:25.066Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T05:26:57.615Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-23T05:36:25.066Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[inherit, initial, unset, revert]]></title>
