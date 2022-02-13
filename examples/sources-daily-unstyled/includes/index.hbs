@@ -47,6 +47,9 @@
                   <span>Reading time: <time>{{readingTimeInMin}} min</time></span> |
                   <span>Word count: <time>{{wordCount}}</time></span>
                 </div>
+                {{#if imageUrl}}
+                <img src="{{imageUrl}}" width="100" />
+                {{/if}}
                 <p>{{description}}</p>
               </details>
             </article>
