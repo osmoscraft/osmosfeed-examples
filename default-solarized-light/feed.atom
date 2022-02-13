@@ -1,332 +1,416 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T05:43:59.925Z</id>
+    <id>urn:2022-02-13T05:31:44.248Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T05:43:59.925Z</updated>
-    <generator>osmosfeed 1.11.0</generator>
+    <updated>2022-02-13T05:31:44.248Z</updated>
+    <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[inherit, initial, unset, revert]]></title>
-        <id>https://css-tricks.com/?p=342930</id>
-        <link href="https://css-tricks.com/inherit-initial-unset-revert/"/>
-        <updated>2021-06-22T21:20:20.000Z</updated>
-        <summary type="html"><![CDATA[There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …
-The post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools]]></title>
-        <id>60d2323d6e1a1407b6b0ac4f</id>
-        <link href="https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/"/>
-        <updated>2021-06-22T21:11:53.000Z</updated>
-        <summary type="html"><![CDATA[Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Async/Await to Write Better JavaScript Code]]></title>
-        <id>60cac8ff4dc1a607ed7b4592</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/"/>
-        <updated>2021-06-22T16:24:37.000Z</updated>
-        <summary type="html"><![CDATA[There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot]]></title>
-        <id>60c13e71d3126007592d5be2</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/"/>
-        <updated>2021-06-22T16:20:36.000Z</updated>
-        <summary type="html"><![CDATA[The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Python to Create a Visual Novel Game in 10 Minutes]]></title>
-        <id>60cfff5a4dc1a607ed7b5e58</id>
-        <link href="https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/"/>
-        <updated>2021-06-22T16:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Custom Elements in Svelte]]></title>
-        <id>https://css-tricks.com/?p=342634</id>
-        <link href="https://css-tricks.com/using-custom-elements-in-svelte/"/>
-        <updated>2021-06-22T14:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …
-The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Rich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If we’re gonna criticize utility-class frameworks, let’s be fair about it]]></title>
-        <id>https://css-tricks.com/?p=342925</id>
-        <link href="https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/"/>
-        <updated>2021-06-22T14:33:41.000Z</updated>
-        <summary type="html"><![CDATA[I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …
-The post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Log Jams]]></title>
-        <id>https://daverupert.com/2021/06/log-jams/</id>
-        <link href="https://daverupert.com/2021/06/log-jams/"/>
-        <updated>2021-06-22T13:27:00.000Z</updated>
-        <summary type="html"><![CDATA[From Fall 2020 to Spring 2021 I gave a talk about backlogs. It’s based on the story of the time someone assigned me 313 accessibility issues from an offshore audit. I believe every developer –at some point in their career– finds themselves pinned beneath a weighty backlog and because it’s such a universal experience, part of the job, I think it’s a topic worth discussing more frequently. And the parallel to a physical log jam was a portmanteau too perfect to pass up.
-In the talk I explore how to break down work in a large backlog and introduce a tactic that I call “multidimensional audits”. There’s value in moving issues out of the bug tracker and into modern day spreadsheet tools so you can visualize your large problems from different angles. This helps make the backlog more digestible an…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Exit Vim – Vim Save and Quit Command Tutorial]]></title>
-        <id>60c81f774dc1a607ed7b2f66</id>
-        <link href="https://www.freecodecamp.org/news/how-to-exit-vim/"/>
-        <updated>2021-06-21T21:52:43.000Z</updated>
-        <summary type="html"><![CDATA[I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples]]></title>
-        <id>60bce157acb62507dd1d9f11</id>
-        <link href="https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/"/>
-        <updated>2021-06-21T21:25:11.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are we in a new era of web design? What do we call it?]]></title>
-        <id>https://css-tricks.com/?p=342887</id>
-        <link href="https://web.dev/new-responsive/"/>
-        <updated>2021-06-21T21:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …
-The post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Redux by Making a Counter Application]]></title>
-        <id>60cccd6e4dc1a607ed7b4f81</id>
-        <link href="https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/"/>
-        <updated>2021-06-21T21:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Redux is a state management library for front end applications. Developers commonly use it with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Portfolio Website with React]]></title>
-        <id>60d0d0ff6e1a1407b6b0a506</id>
-        <link href="https://www.freecodecamp.org/news/build-portfolio-website-react/"/>
-        <updated>2021-06-21T18:15:53.000Z</updated>
-        <summary type="html"><![CDATA[Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Figma? A Design Crash Course [2021 Tutorial]]]></title>
-        <id>60cda7104dc1a607ed7b5588</id>
-        <link href="https://www.freecodecamp.org/news/figma-crash-course/"/>
-        <updated>2021-06-21T17:52:21.000Z</updated>
-        <summary type="html"><![CDATA[Figma is a powerful design tool that helps you to create anything: websites, applications, logos, and much more. By learning to use Figma, you'll take your first steps into User Interface Design and and User Experience Design. These skills are essential for building a great portfolio for yourself and potentially]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Technical Guide to IPFS – the Decentralized Storage of Web3]]></title>
-        <id>60a55b37906c5207e3a7ea78</id>
-        <link href="https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/"/>
-        <updated>2021-06-21T16:38:36.000Z</updated>
-        <summary type="html"><![CDATA[But where do you store your application's content? Storing the content on the blockchain would be expensive and inefficient. Your blockchain application needs decentralized storage!]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The perfect, more expensive, out-of-stock thing versus the less perfect, less expensive, in-stock thing.]]></title>
-        <id>https://daverupert.com/2021/06/two-options/</id>
-        <link href="https://daverupert.com/2021/06/two-options/"/>
-        <updated>2021-06-21T15:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Whenever my family attempts a major buying decision (TV, couch, computer, remodel, shed, dining table, etc) we’re inevitably confronted with a choice between two options:
-The perfect, more expensive, but out-of-stock option
-The less perfect, less expensive, in-stock option
-This spins us out in a quandary of self-doubt. From the soul-seeking “Do we love it $700 more?”, to the hopefully naïve “What if they update it this year and it’s perfect?”, to the downright existential “Are we $700 more people?” We hem and haw, spinning around the issue like two black holes hoping to collide on a single opinion.
-Almost always, we go with option two; the less perfect, less expensive, but in-stock option. Perhaps it’s us giving into impulsiveness, but there’s a small joy in walking away with a physical, tangible box or a tracking link instead of a lousy 12-digit order confirmation number. Even though we have enough datapoints to predict our behavior, we find ourselves in the same predicament over and over. Which path to take? Which path brings the most happiness? Which path is the secret to a happy lifestyle?
-I know people who do the perfect, more expensive, but out-of-stock so they have to wait option and they seem happy with their perfect, expensive goods. But they must have a level of patience or perfection I do not. Did they perform better at the marshmallow experiment? Not that we’re unhappy with our on-time, lower grade wares. But I wonder what would happen if we were the people who went all out, exhausted the budget, and then waited weeks or months for the Platonic ideal to arrive. Eight more gigabytes. Eight more horsepower. Eight more threads per inch. Eight more florps. It must be worth it. It must be.]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji]]></title>
-        <id>https://css-tricks.com/?p=342448</id>
-        <link href="https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/"/>
-        <updated>2021-06-21T14:32:45.000Z</updated>
-        <summary type="html"><![CDATA[Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …
-The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using the `outline` Property as a Collapsable Border]]></title>
-        <id>https://css-tricks.com/?p=341511</id>
-        <link href="https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/"/>
-        <updated>2021-06-18T20:38:59.000Z</updated>
-        <summary type="html"><![CDATA[The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …
-The post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Carter Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Typography]]></title>
-        <id>https://css-tricks.com/?p=342326</id>
-        <link href="https://css-tricks.com/links-on-typography-2/"/>
-        <updated>2021-06-18T13:44:17.000Z</updated>
-        <summary type="html"><![CDATA[I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the 
+        <title type="html"><![CDATA[Your CSS reset needs text-size-adjust (probably)]]></title>
+        <id>https://css-tricks.com/?p=363498</id>
+        <link href="https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/"/>
+        <updated>2022-02-12T00:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Kilian Valkhof:
+[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a 
 …
-The post Links on Typography appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Perfect Tooltips With CSS Clipping and Masking]]></title>
-        <id>https://css-tricks.com/?p=341948</id>
-        <link href="https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/"/>
-        <updated>2021-06-17T14:45:57.000Z</updated>
-        <summary type="html"><![CDATA[Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.
-Those …
-The post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[9 New React and JavaScript Links for February 2022]]></title>
+        <id>https://css-tricks.com/?p=363396</id>
+        <link href="https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/"/>
+        <updated>2022-02-11T23:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
+9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
-            <name>Louis Hoebregts</name>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Start Serving Optimized Images in Vue]]></title>
-        <id>https://css-tricks.com/?p=342257</id>
-        <link href="https://css-tricks.com/start-serving-optimized-images-in-vue/"/>
-        <updated>2021-06-17T14:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.
-However, web performance is also a growing problem for most websites. And images are at the heart of many web …
-The post Start Serving Optimized Images in Vue appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[How to Open Task Manager on Mac – Apple Shortcut Tutorial]]></title>
+        <id>62062b0b56125b0677c63fe4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-open-task-manager-on-mac-apple-shortcut-tutorial/"/>
+        <updated>2022-02-11T21:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Having problems with our computers is never fun. And what's often worse than the problems themselves is that they seem to occur when we're in the middle of an important task that needs to get done. The computer starts to significanlty slow down and an app we are using might]]></summary>
         <author>
-            <name>ImageEngine</name>
+            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inline Styles as Classes (lol)]]></title>
-        <id>https://css-tricks.com/?p=342358</id>
-        <link href="https://css-tricks.com/inline-styles-as-classes-lol/"/>
-        <updated>2021-06-16T21:11:02.000Z</updated>
-        <summary type="html"><![CDATA[If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. 
-I've revolutionized CSS. pic.twitter.com/1AWCldyCwP
-— Sam 
+        <title type="html"><![CDATA[How to Deploy AWS Infrastructure with Terraform and Github Actions – A Multi-Environment CI/CD Guide]]></title>
+        <id>61f587bbf2ed6b06db5a8380</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-aws-infrastructure-with-terraform-and-github-actions-a-practical-multi-environment-ci-cd-guide/"/>
+        <updated>2022-02-11T19:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I've been considering developing a complete end-to-end green field DevOps personal lab project.  The term "greenfield software project" refers to the development of a system for a new product that requires development from scratch with no legacy code.  This is a method you use when you are]]></summary>
+        <author>
+            <name>Nitheesh Poojary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six end of week links]]></title>
+        <id>https://daverupert.com/2022/02/week-links-2/</id>
+        <link href="https://daverupert.com/2022/02/week-links-2/"/>
+        <updated>2022-02-11T18:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Another week, more links. I’ve split this up a bit and added a section of cool (open source) projects.
+EVERY Gundam Timeline Explained - Tim Lyu breaks down every Gundam timeline and series in an incredible and obsessive fashion. I also watched his Evangelion breakdown too. youtube.com
+Scams, Art Theft and NFTs - I like Brad Colbow’s thinking, from an artist’s perspective, around NFTs. youtube.com
+Make Free Stuff - Max Böck touches on one of my biggest concerns with Web3 in that it attempts “to impose even more artificial locks and transactions on users, to extract even more money”, getting away from the Web’s anti-capitalist beginnings. mxb.dev
+Omnichord - Jake Albaugh makes a free musical instrument using the Web Audio API. And it’s fun. Also, subdomains rule. omnichord.jake.fun
+nuxt-cms-template - Alex Riviere and Andrew Walpole figured out how to integrate Netlify CMS’s block-based editor and preview feature with a Nuxt application. It may not sound like a big deal but getting a React app and a Nuxt app working together without creating a turducken is pretty intuitive. github.com
+Accessible document workflow iwth Eleventy and Prince - Larry Hudson shows how to turn an Eleventy site into an accessible PDF using Prince. 11ty-prince-pdf-example.netlify.app]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fork a GitHub Repository – A Complete Workflow]]></title>
+        <id>6203730c56125b0677c632a1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fork-a-github-repository/"/>
+        <updated>2022-02-11T18:02:16.000Z</updated>
+        <summary type="html"><![CDATA[GitHub is a great application that helps you manage your Git repositories. You can also use it to contribute to the open source ecosystem and collaborate with other contributors.  Public repositories on GitHub often get lots of attention from contributors, and this helps enhance the project. So how can]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Value CSS Properties With Optional Custom Property Values]]></title>
+        <id>https://css-tricks.com/?p=363027</id>
+        <link href="https://css-tricks.com/optional-custom-property-values-trick/"/>
+        <updated>2022-02-11T15:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:
+.el {
+  transform: translate(100px) scale(1.5) skew(5deg);
+}
+Now imagine you don’t always want all the transform values to be applied, so some …
+Multi-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Yair Even Or</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[parseInt() in JavaScript – JS String to Int Example]]></title>
+        <id>6204325356125b0677c637f0</id>
+        <link href="https://www.freecodecamp.org/news/parseint-in-javascript-js-string-to-int-example/"/>
+        <updated>2022-02-11T00:44:09.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will talk about the parseInt function in JavaScript. This function parses (break down) a string and returns an integer or NaN (Not a Number).  How the parseInt function works The main purpose of using the parseInt function is to extract a number from a string.]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Whistle-Stop Tour of 4 New CSS Color Features]]></title>
+        <id>https://css-tricks.com/?p=362285</id>
+        <link href="https://css-tricks.com/new-css-color-features-preview/"/>
+        <updated>2022-02-10T23:01:55.000Z</updated>
+        <summary type="html"><![CDATA[I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …
+A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers Speculating About the Long-Distant Future: 2022]]></title>
+        <id>https://css-tricks.com/?p=363480</id>
+        <link href="https://css-tricks.com/developers-speculating-about-the-long-distant-future-2022/"/>
+        <updated>2022-02-10T21:45:09.000Z</updated>
+        <summary type="html"><![CDATA[This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.
+See, there was a little smattering of internet drama …
+Developers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Code in Japanese – The Japanese freeCodeCamp Curriculum is Now Live]]></title>
+        <id>61fd8a56f2ed6b06db5acd03</id>
+        <link href="https://www.freecodecamp.org/news/learn-programming-freecodecamp-japanese-released/"/>
+        <updated>2022-02-10T21:06:15.000Z</updated>
+        <summary type="html"><![CDATA[The Japanese freeCodeCamp curriculum [https://www.freecodecamp.org/japanese/learn] is now live. In Japan, I have seen many comments, tweets, and blog posts saying "freeCodeCamp looks awesome, but unfortunately, I can't use it because I can't read English." Currently, most information and learning resources related to programming are in English. But we want freeCodeCamp]]></summary>
+        <author>
+            <name>Yoko Matsuda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Execution Context – How JS Works Behind The Scenes]]></title>
+        <id>61fc8bbef2ed6b06db5ac470</id>
+        <link href="https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/"/>
+        <updated>2022-02-10T19:56:18.000Z</updated>
+        <summary type="html"><![CDATA[All JavaScript code needs to be hosted and run in some kind of environment. In most cases, that environment would be a web browser.  For any piece of JavaScript code to be executed in a web browser, a lot of processes take place behind the scenes. In this article,]]></summary>
+        <author>
+            <name>Victor Ikechukwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Antimalware Service Executable? Why is it High CPU Disk Usage?]]></title>
+        <id>6204e89c56125b0677c639a4</id>
+        <link href="https://www.freecodecamp.org/news/what-is-antimalware-service-executable-why-is-it-high-cpu-disk-usage/"/>
+        <updated>2022-02-10T17:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Antimalware service executable is a component of Windows Security that runs in the background. But sometimes antimalware service executable can impact Windows 10 computers negatively by using too much CPU. In this guide, I will show you what antimalware service executable is, why it uses so much CPU, and how]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Supabase Authentication to a Vue App]]></title>
+        <id>6203e7fe56125b0677c6337b</id>
+        <link href="https://www.freecodecamp.org/news/add-supabase-authentication-to-vue/"/>
+        <updated>2022-02-10T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post we will walk through getting authentication set up using Supabase and Vue 3.  This will also work with Vue 2, but you'll need to move things around to work with the options API. I am using Vue 3 as it is now the default version [https://blog.vuejs.org/posts/vue-3-as-the-new-default.html].]]></summary>
+        <author>
+            <name>Brian Barrow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown Cheat Sheet – How to Write in Markdown with Examples]]></title>
+        <id>61f43d0ff2ed6b06db5a7157</id>
+        <link href="https://www.freecodecamp.org/news/markdown-cheat-sheet/"/>
+        <updated>2022-02-10T16:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Markdown has gained popularity because it's easy to use and it's widely accepted across platforms.  You can use markdown to write content that can be conveyed in plain text. A good example would be a blog post. In this article, you'll learn what markdown is and how to use]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helpful Tips for Starting a Next.js Chrome Extension]]></title>
+        <id>https://css-tricks.com/?p=363079</id>
+        <link href="https://css-tricks.com/nextjs-chrome-extension-starter/"/>
+        <updated>2022-02-10T15:24:02.000Z</updated>
+        <summary type="html"><![CDATA[I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …
+Helpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Thomas Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly]]></title>
+        <id>https://css-tricks.com/?p=362991</id>
+        <link href="https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/"/>
+        <updated>2022-02-10T15:23:31.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Cloudinary is a host for your digital assets like images and video. If you don’t already know them, you should, because you can build it into the asset management you almost certainly need to …
+A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain APIs - How to Query on the Blockchain]]></title>
+        <id>6204203956125b0677c6377b</id>
+        <link href="https://www.freecodecamp.org/news/blockchain-apis-how-to-query-on-the-blockchain/"/>
+        <updated>2022-02-10T14:51:41.000Z</updated>
+        <summary type="html"><![CDATA[If you wanna build apps on the blockchain, you are likely going to need a way to query data. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to query data on the blockchain in order to build your own decentralized apps. Ania Kubów]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVGcode for “Live Tracing” Raster Images]]></title>
+        <id>https://css-tricks.com/?p=362777</id>
+        <link href="https://css-tricks.com/svgcode-raster-to-vector/"/>
+        <updated>2022-02-09T21:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
+SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make CSS Slanted Containers]]></title>
+        <id>https://css-tricks.com/?p=362940</id>
+        <link href="https://css-tricks.com/css-slanted-containers/"/>
+        <updated>2022-02-09T15:19:47.000Z</updated>
+        <summary type="html"><![CDATA[I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
+How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Dave Seidman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Motion Isn’t Always prefers-reduced-motion]]></title>
+        <id>https://css-tricks.com/?p=363057</id>
+        <link href="https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/"/>
+        <updated>2022-02-08T20:55:51.000Z</updated>
+        <summary type="html"><![CDATA[There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  
+…
+No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before I go: When it comes to complaining about web browsers]]></title>
+        <id>https://daverupert.com/2022/02/complaining-about-web-browsers/</id>
+        <link href="https://daverupert.com/2022/02/complaining-about-web-browsers/"/>
+        <updated>2022-02-08T15:57:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m not planning on leaving the industry (yet), but before I go I’d like to offer up what I know when it comes to complaining about web browsers.
+I have logged hundreds of hours complaining about browsers on Twitter, on podcasts, and on this blog. I have logged thousands more hours trying to keep up with browsers and I frequently interact with people who write specs and make browsers. I have not been 100% successful in my efforts to get a <rupert> element as my legacy but I have learned a lot about giving feedback to web browsers.
+Browsers are really complex
+Eric Meyer recently put it very well…
+[W]eb browsers are actually 60fps+ rendering environments.  They’re First-Person Scrollers.
+When you complain about browsers, the first thing you must know is: Browsers are big, complex pieces of s…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replace JavaScript Dialogs With the New HTML Dialog Element]]></title>
+        <id>https://css-tricks.com/?p=362672</id>
+        <link href="https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/"/>
+        <updated>2022-02-08T15:09:40.000Z</updated>
+        <summary type="html"><![CDATA[You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.
+Let me explain.
+I recently worked on a project with a lot of …
+Replace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mads Stoumann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netlify Has Scheduled Functions]]></title>
+        <id>https://css-tricks.com/?p=363380</id>
+        <link href="https://css-tricks.com/netlify-has-scheduled-functions/"/>
+        <updated>2022-02-08T15:08:47.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Hey! Scheduled Functions are cool! Think of them like a CRON job. I want this code to run every Monday at 2pm. I want this code run every hour on the hour. That kind …
+Netlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Different Color Spaces for Non-Boring Gradients]]></title>
+        <id>https://css-tricks.com/?p=363102</id>
+        <link href="https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/"/>
+        <updated>2022-02-07T21:46:18.000Z</updated>
+        <summary type="html"><![CDATA[A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!
+Tom’s generator does two things that help make a gradient better:
+You 
+…
+Using Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Scroll Snap Slide Deck That Supports Live Coding]]></title>
+        <id>https://css-tricks.com/?p=362616</id>
+        <link href="https://css-tricks.com/css-scroll-snap-slide-deck/"/>
+        <updated>2022-02-07T15:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …
+CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Stephanie Eckles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five links for a Friday afternoon]]></title>
+        <id>https://daverupert.com/2022/02/friday-links-1/</id>
+        <link href="https://daverupert.com/2022/02/friday-links-1/"/>
+        <updated>2022-02-04T20:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Inspired by Kottke’s Quick Links, Jeremy Keith’s Links, and my desire to get off Twitter as the primary means of sharing interesting links, I’m trying a new weekly-ish post format. I also have a process for collecting links in Notion that should make this easy to sustain.
+Margo by HEX. What a gorgeous font! futurefonts.xyz
+The Cutting Edge - July 1985; an MTV documentary about the Austin, TX music scene. Goes to show that Austin is the same as it ever was: cool, indie, weird, non-coastal,  constantly growing, and perpetually worried about the vibe of the city changing. vimeo.com
+Did I complete my 30 day game making challenge?. Mark Brown teaches a lot about prototypes, MVPs, getting feedback, and how killing momentum is easy. youtube.com
+Line Goes Up - The Problem with NFTs. A stoic look at some of the large and systemic problems that NFTs and cryptocurrency have. youtube.com
+The secret lab making the most sustainable food in the world. Solein is a new form of food that turns CO₂ into a protein which sounds sci-fi, but may be the best idea yet to fight climate change? youtube.com]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Introduction to WordPress Block Themes]]></title>
+        <id>https://css-tricks.com/?p=362799</id>
+        <link href="https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/"/>
+        <updated>2022-02-04T15:07:04.000Z</updated>
+        <summary type="html"><![CDATA[The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
+A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe Check №13]]></title>
+        <id>https://daverupert.com/2022/02/vibe-check-13/</id>
+        <link href="https://daverupert.com/2022/02/vibe-check-13/"/>
+        <updated>2022-02-03T00:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Buckle up. This month turned out to be a big one. Writing it all out feels like an entire year went by, so I’ll start with the bad that happened at the beginning of the month and move towards the good.
+Got COVID
+When I posted my Vibe Check №12 and End of 2021 posts, I noticed they were a bit emo as I felt “exhausted”. Well, there was a reason for that: I had COVID. Those posts might need a giant asterisks applied to them. I still stand by that exhausted vibe because I was basically sick from December 17th to January 5th or so.
+Thankfully ours was a “mild” case and it did run thru the entire family. A lot of aches and sinus issues. We’re better now and resuming life. I’m like ~8% worried I have some mild form of Long COVID, but it’s allergy and mold season here in Austin so it’s hard to tel…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Hundred ShopTalks]]></title>
+        <id>https://daverupert.com/2022/01/five-hundred-shoptalks/</id>
+        <link href="https://daverupert.com/2022/01/five-hundred-shoptalks/"/>
+        <updated>2022-01-31T21:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Today Chris and I released the 500th episode of ShopTalk. That translates to 10 years of weekly episodes (taking off holiday breaks and that one time one of us had a kid). That’s a lot of showing up and doing the work. And when I say weekly, boy howdy, I mean weekly. Peeling back the curtain a bit, I think the most Chris and I have ever been ahead is two episodes. Every week at 11:00 AM Texas time Chris and I hop on a call, sometimes with some guests, sometimes without.
+It’s interesting to have a first-hand chronicle to our industry’s ebbs and flows. When we started ShopTalk “front-end developer” wasn’t even a job title, WordPress was super cool, React didn’t exist, and people were starting to dip their toes into Sass. I switched operating systems and switched back. We delved into a handfu…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Vacation]]></title>
+        <id>https://daverupert.com/2022/01/the-vacation/</id>
+        <link href="https://daverupert.com/2022/01/the-vacation/"/>
+        <updated>2022-01-29T01:25:00.000Z</updated>
+        <summary type="html"><![CDATA[I situated myself in the premium white leather chair, lowered the rollercoaster-like safety harness over my torso, and carefully weighed options on the console in front of me.
+> Evening . . . . . . . . 20/person
+> Overnight . . . . . . . 100/person
+> Weekend . . . . . . . . 250/person
+> Week (BEST VALUE!)  . . 5000/family (Limit: 5)
 
-…
-The post Inline Styles as Classes (lol) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful and Useless Code Comments]]></title>
-        <id>https://css-tricks.com/?p=342630</id>
-        <link href="https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/"/>
-        <updated>2021-06-16T19:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Jim Nielsen: 
-If somebody says a comment isn’t adding any value, I would ask: to whom?
-Personally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.
-Jim showed …
-The post Useful and Useless Code Comments appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Used the WAAPI to Build an Animation Library]]></title>
-        <id>https://css-tricks.com/?p=342353</id>
-        <link href="https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/"/>
-        <updated>2021-06-16T14:26:58.000Z</updated>
-        <summary type="html"><![CDATA[The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …
-The post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Okiki Ojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detect Unused Classes in… HTML]]></title>
-        <id>https://css-tricks.com/?p=342198</id>
-        <link href="https://css-tricks.com/detect-unused-classes-in-html/"/>
-        <updated>2021-06-15T23:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …
-The post Detect Unused Classes in… HTML appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media Queries in Times of @container]]></title>
-        <id>https://css-tricks.com/?p=342519</id>
-        <link href="https://mxb.dev/blog/media-queries-in-times-of-container-queries/"/>
-        <updated>2021-06-15T19:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.
-I took the bait and had a look at some of my projects – 
-…
-The post Media Queries in Times of @container appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just How Niche is Headless WordPress?]]></title>
-        <id>https://css-tricks.com/?p=342248</id>
-        <link href="https://css-tricks.com/just-how-niche-is-headless-wordpress/"/>
-        <updated>2021-06-15T14:31:34.000Z</updated>
-        <summary type="html"><![CDATA[I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.
-Is it… big? The future …
-The post Just How Niche is Headless WordPress? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Amnesia Fortnight Documentary]]></title>
-        <id>https://daverupert.com/2021/06/the-amnesia-fortnight-documentary/</id>
-        <link href="https://daverupert.com/2021/06/the-amnesia-fortnight-documentary/"/>
-        <updated>2021-06-03T17:51:00.000Z</updated>
-        <summary type="html"><![CDATA[One of my favorite game studios, Double Fine Productions, hosts and documents their internal 2-week game jam which they call “Amnesia Fortnight”. While it may be stressful for a small company to stop production on their monetization pipeline, Double Fine sees it as a way to test out “experimental” ideas and give people who aren’t game directors a shot at directing a game. A chance for people to play a different or larger role than what they typically perform. It also provides employees a break from the daily grind.
-I love the ethos of game jams because they force you to distill an idea down to its essence. The goal isn’t to have a polished, marketable product at the end, it’s to have something people can play. There’s a small plan, a lot of improv, and a lot of self-editing. If you can’t r…]]></summary>
+I looked over my right shoulder to see my wife and kids’ anxious faces gleaming back at me, ready with the nervous energy of a thousand suns to embark on our well-earned vacation. It’s been awhile. Some rough, lean years working like hell but through sacrifices and extreme budgeting we had finally saved up enough.
+I hesitated to tap the screen. A nervous laugh. A moment of internal calculus. Maybe a handful of evenings would be enough. Would it have the same effect? A couple weekends would surely be enough to reset. More economical. And then we’d have a little left over, just in case.
+I sensed my wife’s mind-reading. I sensed her fear I would succumb to my inner self-doubt. She has been working the hardest for this. Sacrificing to create these memories. I needed to shake those miser habits we’ve formed out of years of austerity, what has become my identity.
+“Oh, alright. Here we go,” I groaned and grimaced as I tapped the screen.
+“You selected One Week” chimed the female voice of the console. Our chairs tilted slightly back, I felt the credits debit from my account, we were off. Finally.
+The hiss of the pneumatic syringes, the sting on the spinal column, the cool and heavy breeze of the sedatives, the warm cocktail of endorphins and dopamine to stimulate our deepest dreams and desires, the chairs and harnesses catching our weight as we drifted away from consciousness. The lights in the room slowly dimmed. We would be back in a week.]]></summary>
         <author>
             <name>daverupert.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vibe Check №5]]></title>
-        <id>https://daverupert.com/2021/06/vibe-check-5/</id>
-        <link href="https://daverupert.com/2021/06/vibe-check-5/"/>
-        <updated>2021-06-01T18:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Two vibes dominated this month: Work and Refinancing my house (which is more work). Work continues to be busy, a constant refrain, but this past half-year has been some of the hardest I’ve worked in my whole life. The tl;dr is that it’s hard to build a startup and do client projects at the same time. On top of that this month my wife and I are refinancing our house. Refinancing your house as a self-employed person is a special kind of hell with a heaping amount of extra “ASAP!”-type work added to your busy schedule.
-The refinance is temporary and should die down soon and I’m finding some work boundaries and systems that help me organize my work week on a meta level (e.g. I work on project X  on day Y). Speaking candidly, it hasn’t been a great month for me but I do get to work with great p…]]></summary>
+        <title type="html"><![CDATA[The Hexagons and the Hexa-nots]]></title>
+        <id>https://daverupert.com/2022/01/hexagons/</id>
+        <link href="https://daverupert.com/2022/01/hexagons/"/>
+        <updated>2022-01-26T16:31:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s a secret to everyone! This post is for RSS subscribers only.
+Read more about RSS Club.
+
+Twitter released a feature that allows you to connect your crypto wallet to your Twitter account. Once you connect your wallet, you can set your profile picture to an NFT that you own.
+I mean… setting your profile picture (”pfp”) wasn’t a hard problem before. Right click > Save As, right? But this feature eliminates your phone’s camera roll as a middleman and instead inserts your wallet and the OpenSeas API as two third-party middlemen instead. If you’re wealthy enough to own enough NFTs that you have a hard time managing them all as profile pics, I suppose this is useful.
+Ok. Whatever. Then Twitter’s implementation took it a step further and when you add your NFT as a pfp (which you could do befor…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The man playing the ukulele at the doctor’s office.]]></title>
+        <id>https://daverupert.com/2022/01/the-man-playing-the-ukulele-at-the-doctor-s-office/</id>
+        <link href="https://daverupert.com/2022/01/the-man-playing-the-ukulele-at-the-doctor-s-office/"/>
+        <updated>2022-01-25T20:51:00.000Z</updated>
+        <summary type="html"><![CDATA[I was leaving a doctor’s appointment and as I rounded the corner to the waiting room I could hear the dulcet tones of a ukulele, but it sounded close.
+My first reaction was “What in the fuck is going on?” as I scanned the ceiling for the speaker where the Muzak was coming from. Then in the waiting room I saw an older white man with a ponytail and a Hawaiian shirt calmly strumming his ukulele.
+Again, I reacted, “What the fuck is going on?”
+Then I caught myself. This… is… weird.
+Why was he playing it in the doctors office? Was he a minstrel? Was he calming the souls of fellow patients?  A minister? A minister to himself? Does he just love Hawaii and goddamn it ain’t no one gonna stop him not even the cops at the doctors office?
+I think this moment struck me like a ton of bricks because it’s been awhile since I’ve encountered weird due to the pandemic. Angry? Oh, I’ve encountered plenty of angry. Hot-headed assholes losing their shit in a Chic-fil-A drive thru, yeah I’ve seen that, but been awhile since I’ve seen weird.
+The world could use a little more weird.
+I miss weird. I miss old Austin.]]></summary>
         <author>
             <name>daverupert.com</name>
         </author>

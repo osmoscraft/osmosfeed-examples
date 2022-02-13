@@ -6,85 +6,54 @@
       "siteUrl": "https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=cTN2lpQSkls",
+          "id": "https://www.youtube.com/watch?v=318elIq37PE",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=cTN2lpQSkls",
-          "publishedOn": "2021-06-01T13:59:17.000Z",
+          "link": "https://www.youtube.com/watch?v=318elIq37PE",
+          "publishedOn": "2022-01-28T17:00:12.000Z",
           "wordCount": null,
-          "title": "A Day with Munich Developers | DevCities"
+          "title": "Kubernetes: The Documentary [PART 2]",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=dWh4tQigIYs",
+          "id": "https://www.youtube.com/watch?v=BE77h7dmoQU",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=dWh4tQigIYs",
-          "publishedOn": "2021-05-20T12:37:55.000Z",
+          "link": "https://www.youtube.com/watch?v=BE77h7dmoQU",
+          "publishedOn": "2022-01-21T17:00:13.000Z",
           "wordCount": null,
-          "title": "DEVS ANSWER: Simona Cotin"
+          "title": "Kubernetes: The Documentary [PART 1]",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=VdZ4HBCvOA8",
+          "id": "https://www.youtube.com/watch?v=_vQQXLbSgnE",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=VdZ4HBCvOA8",
-          "publishedOn": "2021-05-13T11:30:06.000Z",
+          "link": "https://www.youtube.com/watch?v=_vQQXLbSgnE",
+          "publishedOn": "2022-01-06T14:00:12.000Z",
           "wordCount": null,
-          "title": "DEVS ANSWER: Obinna Ekwuno"
+          "title": "Kubernetes: The Documentary [OFFICIAL TRAILER #2]",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=k1HmQH2bFIk",
+          "id": "https://www.youtube.com/watch?v=1-Vzby0PkBw",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=k1HmQH2bFIk",
-          "publishedOn": "2021-05-05T12:26:13.000Z",
+          "link": "https://www.youtube.com/watch?v=1-Vzby0PkBw",
+          "publishedOn": "2021-12-09T11:01:20.000Z",
           "wordCount": null,
-          "title": "DEVS ANSWER: Erin Fox"
+          "title": "A Day with Amsterdam Developers | DevCities (Career change, WeTransfer and Creative Coding)",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=qE2G8p5HnjU",
+          "id": "https://www.youtube.com/watch?v=M8pZesH0jsE",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=qE2G8p5HnjU",
-          "publishedOn": "2021-04-29T12:07:57.000Z",
+          "link": "https://www.youtube.com/watch?v=M8pZesH0jsE",
+          "publishedOn": "2021-11-24T06:58:14.000Z",
           "wordCount": null,
-          "title": "DEVS ANSWER: Chris Heilmann"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kcXKyqVS948",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kcXKyqVS948",
-          "publishedOn": "2021-04-22T11:59:41.000Z",
-          "wordCount": null,
-          "title": "DEVS ANSWER: Scott Hanselman"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oq32PUomubY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oq32PUomubY",
-          "publishedOn": "2021-04-15T12:00:04.000Z",
-          "wordCount": null,
-          "title": "DEVS ANSWER: Shruti Kapoor"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5sNuPYJpSCI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5sNuPYJpSCI",
-          "publishedOn": "2021-04-08T14:02:12.000Z",
-          "wordCount": null,
-          "title": "The Queen of Code feat. Grace Hopper | Tech Pioneers #2"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iIlLf8hdMQM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iIlLf8hdMQM",
-          "publishedOn": "2021-04-02T12:10:29.000Z",
-          "wordCount": null,
-          "title": "DEVS ANSWER: Ali Spittel"
+          "title": "INVESTORS: A Master Class",
+          "imageUrl": null
         }
       ]
     },
@@ -94,112 +63,94 @@
       "siteUrl": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=K7oxZCgO1dY",
+          "id": "https://www.youtube.com/watch?v=bSA91XTzeuA",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=K7oxZCgO1dY",
-          "publishedOn": "2021-06-18T15:04:46.000Z",
+          "link": "https://www.youtube.com/watch?v=bSA91XTzeuA",
+          "publishedOn": "2022-02-11T15:47:17.000Z",
           "wordCount": null,
-          "title": "Types of PDF - Computerphile"
+          "title": "Inside the Hidden Git Folder - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=fpkQ_ZqZY4o",
+          "id": "https://www.youtube.com/watch?v=vw7602ULHWA",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=fpkQ_ZqZY4o",
-          "publishedOn": "2021-06-11T16:05:30.000Z",
+          "link": "https://www.youtube.com/watch?v=vw7602ULHWA",
+          "publishedOn": "2022-01-27T17:03:12.000Z",
           "wordCount": null,
-          "title": "How bad is Exponential Growth? - Computerphile"
+          "title": "Metaverse is 30yrs old - Why Facebook is late to the party - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=IT6-5ZbabVg",
+          "id": "https://www.youtube.com/watch?v=BK5x7IUTIyU",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=IT6-5ZbabVg",
-          "publishedOn": "2021-06-04T18:25:13.000Z",
+          "link": "https://www.youtube.com/watch?v=BK5x7IUTIyU",
+          "publishedOn": "2022-01-21T19:30:42.000Z",
           "wordCount": null,
-          "title": "Is DeepFake Really All That? - Computerphile"
+          "title": "K-d Trees - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=82TxNejKsng",
+          "id": "https://www.youtube.com/watch?v=EtpdLBeIaus",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=82TxNejKsng",
-          "publishedOn": "2021-05-28T19:13:28.000Z",
+          "link": "https://www.youtube.com/watch?v=EtpdLBeIaus",
+          "publishedOn": "2022-01-07T15:26:35.000Z",
           "wordCount": null,
-          "title": "Recreating Dennis Ritchie's PhD Thesis - Computerphile"
+          "title": "Man in the Middle & Needham–Schroeder Protocol - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=dqgT--f9so0",
+          "id": "https://www.youtube.com/watch?v=92sycL8ij-U",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=dqgT--f9so0",
-          "publishedOn": "2021-05-21T15:31:28.000Z",
+          "link": "https://www.youtube.com/watch?v=92sycL8ij-U",
+          "publishedOn": "2021-12-30T16:00:26.000Z",
           "wordCount": null,
-          "title": "3D Printing with a Robot Arm - Computerphile"
+          "title": "Git Overview - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=_OboQeIK61c",
+          "id": "https://www.youtube.com/watch?v=Opqgwn8TdlM",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=_OboQeIK61c",
-          "publishedOn": "2021-05-14T17:24:54.000Z",
+          "link": "https://www.youtube.com/watch?v=Opqgwn8TdlM",
+          "publishedOn": "2021-12-22T18:42:09.000Z",
           "wordCount": null,
-          "title": "Rog-O-Matic, Game Playing Program - Computerphile"
+          "title": "Log4J & JNDI Exploit: Why So Bad? - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=8a3KX2InUqY",
+          "id": "https://www.youtube.com/watch?v=4uWSo8v3iQA",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=8a3KX2InUqY",
-          "publishedOn": "2021-05-06T16:44:02.000Z",
+          "link": "https://www.youtube.com/watch?v=4uWSo8v3iQA",
+          "publishedOn": "2021-12-15T17:26:34.000Z",
           "wordCount": null,
-          "title": "Kidnapped Robot Problem - Computerphile"
+          "title": "Joining Point Cloud Scans (ICP) - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=zV-fR7xA4Hc",
+          "id": "https://www.youtube.com/watch?v=ZcWLudpe0n8",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=zV-fR7xA4Hc",
-          "publishedOn": "2021-04-30T12:09:20.000Z",
+          "link": "https://www.youtube.com/watch?v=ZcWLudpe0n8",
+          "publishedOn": "2021-11-30T19:56:11.000Z",
           "wordCount": null,
-          "title": "Why Files Become Bigger in Emails - Computerphile"
+          "title": "Sinclair Software & Manuals - Computerphile",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=shn38x7BbO0",
+          "id": "https://www.youtube.com/watch?v=0MLaYe3y0BU",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=shn38x7BbO0",
-          "publishedOn": "2021-04-23T17:37:33.000Z",
+          "link": "https://www.youtube.com/watch?v=0MLaYe3y0BU",
+          "publishedOn": "2021-11-22T19:13:55.000Z",
           "wordCount": null,
-          "title": "Building a Data Center Inside Your Laptop - Computerphile"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RzWB5jL5RX0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RzWB5jL5RX0",
-          "publishedOn": "2021-04-12T17:01:34.000Z",
-          "wordCount": null,
-          "title": "Cracking Enigma in 2021 - Computerphile"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LdGMDUZVvSM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LdGMDUZVvSM",
-          "publishedOn": "2021-04-06T16:44:08.000Z",
-          "wordCount": null,
-          "title": "Atomic Brain? - Computerphile"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fPU7Uq4TtNU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fPU7Uq4TtNU",
-          "publishedOn": "2021-03-30T18:08:16.000Z",
-          "wordCount": null,
-          "title": "Early Unix Computer Games - Computerphile"
+          "title": "Discussing System On Chip (SoC) - Computerphile",
+          "imageUrl": null
         }
       ]
     },
@@ -209,139 +160,154 @@
       "siteUrl": "https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=5b-xQkRWHjQ",
+          "id": "https://www.youtube.com/watch?v=DRUKZibTvlk",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=5b-xQkRWHjQ",
-          "publishedOn": "2021-06-22T15:00:59.000Z",
+          "link": "https://www.youtube.com/watch?v=DRUKZibTvlk",
+          "publishedOn": "2022-02-12T16:55:42.000Z",
           "wordCount": null,
-          "title": "Taking Ubuntu To The Next Level"
+          "title": "Make Money Selling Open Source Software?",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=MVITl24rRHM",
+          "id": "https://www.youtube.com/watch?v=5paRz4xRWQ4",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=MVITl24rRHM",
-          "publishedOn": "2021-06-21T14:00:08.000Z",
+          "link": "https://www.youtube.com/watch?v=5paRz4xRWQ4",
+          "publishedOn": "2022-02-09T20:53:37.000Z",
           "wordCount": null,
-          "title": "You Are NOT The Software You Run! (#shorts)"
+          "title": "New To Linux? Learn The Jargon!",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=5iCjhdCUuLg",
+          "id": "https://www.youtube.com/watch?v=Juhth74rEDU",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=5iCjhdCUuLg",
-          "publishedOn": "2021-06-20T17:00:02.000Z",
+          "link": "https://www.youtube.com/watch?v=Juhth74rEDU",
+          "publishedOn": "2022-02-07T21:56:30.000Z",
           "wordCount": null,
-          "title": "Transform Words Into Pretty Symbols In Emacs"
+          "title": "\"Hey, DT! Would You Use Windows If Open Source?\" And Other Questions.",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=oFs9accYV2c",
+          "id": "https://www.youtube.com/watch?v=L_T-HBQH2tI",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=oFs9accYV2c",
-          "publishedOn": "2021-06-19T17:27:11.000Z",
+          "link": "https://www.youtube.com/watch?v=L_T-HBQH2tI",
+          "publishedOn": "2022-02-05T21:03:29.000Z",
           "wordCount": null,
-          "title": "Redcore Linux Makes Gentoo User Friendly"
+          "title": "A New Release of Slackware! Worth The Wait?",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=p0nCEGTlTqM",
+          "id": "https://www.youtube.com/watch?v=TiF0VjQS3Mk",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=p0nCEGTlTqM",
-          "publishedOn": "2021-06-17T20:01:46.000Z",
+          "link": "https://www.youtube.com/watch?v=TiF0VjQS3Mk",
+          "publishedOn": "2022-02-03T21:41:03.000Z",
           "wordCount": null,
-          "title": "Word Processors Are Evil And Should Not Exist!"
+          "title": "Is Adblock Piracy? Is Adblock Illegal?",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=9YOZmI-zWok",
+          "id": "https://www.youtube.com/watch?v=_MCJkJ1IsD8",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=9YOZmI-zWok",
-          "publishedOn": "2021-06-16T20:44:18.000Z",
+          "link": "https://www.youtube.com/watch?v=_MCJkJ1IsD8",
+          "publishedOn": "2022-02-01T20:40:20.000Z",
           "wordCount": null,
-          "title": "Learning Awk Is Essential For Linux Users"
+          "title": "Lock Your Terminal Sessions With Vlock",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=2QXkrLVsRmk",
+          "id": "https://www.youtube.com/watch?v=PP9hrM3mFcE",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=2QXkrLVsRmk",
-          "publishedOn": "2021-06-14T21:12:51.000Z",
+          "link": "https://www.youtube.com/watch?v=PP9hrM3mFcE",
+          "publishedOn": "2022-01-31T20:32:26.000Z",
           "wordCount": null,
-          "title": "The Beginner's Guide To SSH"
+          "title": "Linuxfx Brings Everything Wrong With Windows To Linux",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=IWzU82swez0",
+          "id": "https://www.youtube.com/watch?v=slTngJhb3Yo",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=IWzU82swez0",
-          "publishedOn": "2021-06-13T21:02:34.000Z",
+          "link": "https://www.youtube.com/watch?v=slTngJhb3Yo",
+          "publishedOn": "2022-01-30T18:25:08.000Z",
           "wordCount": null,
-          "title": "Why So Many People Lack Critical Thinking Skills"
+          "title": "Chat With Patrons (January 30, 2022)",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=kRkp-uJTK7s",
+          "id": "https://www.youtube.com/watch?v=2fhRNzN_M04",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=kRkp-uJTK7s",
-          "publishedOn": "2021-06-11T23:13:08.000Z",
+          "link": "https://www.youtube.com/watch?v=2fhRNzN_M04",
+          "publishedOn": "2022-01-29T18:37:34.000Z",
           "wordCount": null,
-          "title": "What Are The Benefits Of Emacs Over Vim?"
+          "title": "The Worst Types of YouTube Comments",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=VaG4sCXTkrw",
+          "id": "https://www.youtube.com/watch?v=79UImvGueV0",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=VaG4sCXTkrw",
-          "publishedOn": "2021-06-10T18:20:00.000Z",
+          "link": "https://www.youtube.com/watch?v=79UImvGueV0",
+          "publishedOn": "2022-01-27T19:37:36.000Z",
           "wordCount": null,
-          "title": "Switch To A Trackball Mouse And Save Your Wrists"
+          "title": "Nuclear Music Streaming App For Windows, Mac, Linux",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=jv0sDkswwrY",
+          "id": "https://www.youtube.com/watch?v=4v4Mcncvsac",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=jv0sDkswwrY",
-          "publishedOn": "2021-06-09T18:20:54.000Z",
+          "link": "https://www.youtube.com/watch?v=4v4Mcncvsac",
+          "publishedOn": "2022-01-26T22:18:54.000Z",
           "wordCount": null,
-          "title": "\"Hey, DT! I Want A Distro In Between Ubuntu and Arch.\" (And Other Questions)"
+          "title": "Shell Aliases Every Linux User Needs",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=AuzRnT7tu28",
+          "id": "https://www.youtube.com/watch?v=S4Qx-mKdVaw",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=AuzRnT7tu28",
-          "publishedOn": "2021-06-07T20:52:09.000Z",
+          "link": "https://www.youtube.com/watch?v=S4Qx-mKdVaw",
+          "publishedOn": "2022-01-24T21:08:48.000Z",
           "wordCount": null,
-          "title": "A First Look At Two Editions Of Peux OS (Xfce, XMonad)"
+          "title": "Five Screenshot Applications For Linux",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=SWlMQaC7b-8",
+          "id": "https://www.youtube.com/watch?v=esm8iBczQEk",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=SWlMQaC7b-8",
-          "publishedOn": "2021-06-06T20:18:40.000Z",
+          "link": "https://www.youtube.com/watch?v=esm8iBczQEk",
+          "publishedOn": "2022-01-22T21:09:14.000Z",
           "wordCount": null,
-          "title": "Life Without The Internet? It's Actually BETTER! (Boomer Rant)"
+          "title": "The Off-Topic Live Stream (No Linux Allowed!) - DT LIVE",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=SVteSEjKytw",
+          "id": "https://www.youtube.com/watch?v=_ZXJQeogqf8",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=SVteSEjKytw",
-          "publishedOn": "2021-06-05T21:23:57.000Z",
+          "link": "https://www.youtube.com/watch?v=_ZXJQeogqf8",
+          "publishedOn": "2022-01-21T19:59:20.000Z",
           "wordCount": null,
-          "title": "Nyxt Is The Most Customizable Web Browser EVER"
+          "title": "Sauerbraten Is An Insanely Fun First Person Shooter",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=hv9l8t7_Pu4",
+          "id": "https://www.youtube.com/watch?v=zkmTpxVpj6Q",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=hv9l8t7_Pu4",
-          "publishedOn": "2021-06-04T20:11:22.000Z",
+          "link": "https://www.youtube.com/watch?v=zkmTpxVpj6Q",
+          "publishedOn": "2022-01-20T22:20:42.000Z",
           "wordCount": null,
-          "title": "Discover New Wallpapers And Set Them With Styli.sh"
+          "title": "Top Five Arch-Based Linux Distros 2022",
+          "imageUrl": null
         }
       ]
     },
@@ -351,103 +317,114 @@
       "siteUrl": "https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=Lk-uVEVGxOA",
+          "id": "https://www.youtube.com/watch?v=enopDSs3DRw",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=Lk-uVEVGxOA",
-          "publishedOn": "2021-06-18T12:52:09.000Z",
+          "link": "https://www.youtube.com/watch?v=enopDSs3DRw",
+          "publishedOn": "2022-02-10T14:00:13.000Z",
           "wordCount": null,
-          "title": "Fastify Crash Course | Node.js Framework"
+          "title": "Learn The MERN Stack - JWT Authentication",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=4sosXZsdy-s",
+          "id": "https://www.youtube.com/watch?v=-0exw-9YJBo",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=4sosXZsdy-s",
-          "publishedOn": "2021-06-09T13:28:51.000Z",
+          "link": "https://www.youtube.com/watch?v=-0exw-9YJBo",
+          "publishedOn": "2022-02-07T14:00:00.000Z",
           "wordCount": null,
-          "title": "Bootstrap 5 Crash Course | Website Build & Deploy"
+          "title": "Learn The MERN Stack - Express & MongoDB Rest API",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=lRogMYe7ZLg",
+          "id": "https://www.youtube.com/watch?v=H_pBvUFPceA",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=lRogMYe7ZLg",
-          "publishedOn": "2021-06-01T15:29:28.000Z",
+          "link": "https://www.youtube.com/watch?v=H_pBvUFPceA",
+          "publishedOn": "2022-02-01T14:30:06.000Z",
           "wordCount": null,
-          "title": "My First Freelance Gig Was a Disaster"
+          "title": "6 Of My Personal Tips When Learning To Code",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=ISv22NNL-aE",
+          "id": "https://www.youtube.com/watch?v=2QQGWYe7IDU",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=ISv22NNL-aE",
-          "publishedOn": "2021-05-26T12:58:14.000Z",
+          "link": "https://www.youtube.com/watch?v=2QQGWYe7IDU",
+          "publishedOn": "2022-01-24T14:00:01.000Z",
           "wordCount": null,
-          "title": "6 Hour Vue.js & Firebase Project - FireBlogs"
+          "title": "MongoDB Crash Course 2022",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=9JdP-S3crt8",
+          "id": "https://www.youtube.com/watch?v=3YW65K6LcIA",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=9JdP-S3crt8",
-          "publishedOn": "2021-05-19T12:32:21.000Z",
+          "link": "https://www.youtube.com/watch?v=3YW65K6LcIA",
+          "publishedOn": "2022-01-18T14:00:01.000Z",
           "wordCount": null,
-          "title": "The New Notion API | Node.js Video Schedule Project"
+          "title": "Flexbox Crash Course 2022",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=jQCk2yo10YY",
+          "id": "https://www.youtube.com/watch?v=EqzUcMzfV1w",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=jQCk2yo10YY",
-          "publishedOn": "2021-05-11T17:07:37.000Z",
+          "link": "https://www.youtube.com/watch?v=EqzUcMzfV1w",
+          "publishedOn": "2022-01-10T14:00:07.000Z",
           "wordCount": null,
-          "title": "Terminal Style Landing Page | WinBox.js"
+          "title": "Web Development In 2022 - A Practical Guide",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=3dHNOWTI7H8",
+          "id": "https://www.youtube.com/watch?v=vrho9n4Nd_E",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=3dHNOWTI7H8",
-          "publishedOn": "2021-05-06T15:40:03.000Z",
+          "link": "https://www.youtube.com/watch?v=vrho9n4Nd_E",
+          "publishedOn": "2021-12-25T17:46:23.000Z",
           "wordCount": null,
-          "title": "Angular Crash Course 2021"
+          "title": "Happy Holidays | Channel Update & Plans For 2022",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=BKQVqzhnP8I",
+          "id": "https://www.youtube.com/watch?v=d_BhzHVV4aQ",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=BKQVqzhnP8I",
-          "publishedOn": "2021-04-28T16:08:35.000Z",
+          "link": "https://www.youtube.com/watch?v=d_BhzHVV4aQ",
+          "publishedOn": "2021-12-16T15:31:57.000Z",
           "wordCount": null,
-          "title": "Overworking Yourself As A Developer | Mental & Physical Health"
+          "title": "Remix Crash Course | Full Stack React",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=m-MAIpnH9ag",
+          "id": "https://www.youtube.com/watch?v=k2Zk5cbiZhg",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=m-MAIpnH9ag",
-          "publishedOn": "2021-04-23T12:25:56.000Z",
+          "link": "https://www.youtube.com/watch?v=k2Zk5cbiZhg",
+          "publishedOn": "2021-12-04T19:26:37.000Z",
           "wordCount": null,
-          "title": "Build a Covid Tracker App With Vue.js & Tailwind"
+          "title": "React Router v6 Major Changes",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=QTHRWGn_sJw",
+          "id": "https://www.youtube.com/watch?v=x_n2FGNsm0o",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=QTHRWGn_sJw",
-          "publishedOn": "2021-04-10T14:00:27.000Z",
+          "link": "https://www.youtube.com/watch?v=x_n2FGNsm0o",
+          "publishedOn": "2021-11-23T13:59:34.000Z",
           "wordCount": null,
-          "title": "Build a Music Player | Vanilla JavaScript"
+          "title": "Build a Starbucks Landing Page Clone",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=MT-GJQIY3EU",
+          "id": "https://www.youtube.com/watch?v=mK7lDooAGJw",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=MT-GJQIY3EU",
-          "publishedOn": "2021-03-31T14:08:32.000Z",
+          "link": "https://www.youtube.com/watch?v=mK7lDooAGJw",
+          "publishedOn": "2021-11-15T17:57:53.000Z",
           "wordCount": null,
-          "title": "Laravel 8 REST API With Sanctum Authentication"
+          "title": "10 Ways To Be A Better Developer",
+          "imageUrl": null
         }
       ]
     },
@@ -457,139 +434,154 @@
       "siteUrl": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=9ZBfG3IDTD0",
+          "id": "https://www.youtube.com/watch?v=-myJTBiH5LI",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=9ZBfG3IDTD0",
-          "publishedOn": "2021-06-22T12:59:59.000Z",
+          "link": "https://www.youtube.com/watch?v=-myJTBiH5LI",
+          "publishedOn": "2022-02-12T18:36:15.000Z",
           "wordCount": null,
-          "title": "AMD’s gift to ALL gamers - FidelityFX Super Resolution"
+          "title": "I Hate This...",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=K07sEM6y4Uc",
+          "id": "https://www.youtube.com/watch?v=LmcPhzHBtSI",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=K07sEM6y4Uc",
-          "publishedOn": "2021-06-21T17:14:10.000Z",
+          "link": "https://www.youtube.com/watch?v=LmcPhzHBtSI",
+          "publishedOn": "2022-02-12T03:34:32.000Z",
           "wordCount": null,
-          "title": "This should be illegal… - Manufacturers are swapping SSD components"
+          "title": "Newegg... More Like Rotten Egg! - WAN Show February 11, 2022",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=cATjlaTS7uI",
+          "id": "https://www.youtube.com/watch?v=hegJlK-FL7I",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=cATjlaTS7uI",
-          "publishedOn": "2021-06-20T17:00:20.000Z",
+          "link": "https://www.youtube.com/watch?v=hegJlK-FL7I",
+          "publishedOn": "2022-02-10T18:00:42.000Z",
           "wordCount": null,
-          "title": "The longest unboxing we've ever done."
+          "title": "Nvidia Doesn't Want You to Do This",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=bVT_yjB6lDg",
+          "id": "https://www.youtube.com/watch?v=ir_GliLHuEg",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=bVT_yjB6lDg",
-          "publishedOn": "2021-06-19T16:29:17.000Z",
+          "link": "https://www.youtube.com/watch?v=ir_GliLHuEg",
+          "publishedOn": "2022-02-09T19:47:14.000Z",
           "wordCount": null,
-          "title": "My Midlife Crisis Car"
+          "title": "This External Radiator has a FATAL FLAW - #SHORTS",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=XEyHiU6djE0",
+          "id": "https://www.youtube.com/watch?v=EE4OCYOLjBc",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=XEyHiU6djE0",
-          "publishedOn": "2021-06-19T03:44:04.000Z",
+          "link": "https://www.youtube.com/watch?v=EE4OCYOLjBc",
+          "publishedOn": "2022-02-09T18:00:37.000Z",
           "wordCount": null,
-          "title": "Looks Like NVIDIA Lied.... - WAN Show Jun 18, 2021"
+          "title": "Why is EVERYONE Buying this $35 Gaming Keyboard?",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=ZlBnGVbHqis",
+          "id": "https://www.youtube.com/watch?v=ZK43RAc90ZA",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=ZlBnGVbHqis",
-          "publishedOn": "2021-06-18T17:36:00.000Z",
+          "link": "https://www.youtube.com/watch?v=ZK43RAc90ZA",
+          "publishedOn": "2022-02-08T23:40:42.000Z",
           "wordCount": null,
-          "title": "A 24 Hour Battery Life Laptop - HP Elite Folio Showcase"
+          "title": "I Want to Get Inside You! - Steam Deck Tear Down",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=DKit8qPNyio",
+          "id": "https://www.youtube.com/watch?v=HjZ4POvk14c",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=DKit8qPNyio",
-          "publishedOn": "2021-06-17T22:14:01.000Z",
+          "link": "https://www.youtube.com/watch?v=HjZ4POvk14c",
+          "publishedOn": "2022-02-07T18:00:04.000Z",
           "wordCount": null,
-          "title": "How to Build a PC - ASMR Edition"
+          "title": "Valve Left Me Unsupervised: Steam Deck Hardware Review",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=odZSCdNTFPw",
+          "id": "https://www.youtube.com/watch?v=minxwFqinpw",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=odZSCdNTFPw",
-          "publishedOn": "2021-06-17T01:55:03.000Z",
+          "link": "https://www.youtube.com/watch?v=minxwFqinpw",
+          "publishedOn": "2022-02-06T18:37:39.000Z",
           "wordCount": null,
-          "title": "Gaming on LEAKED Windows 11"
+          "title": "We ACTUALLY downloaded more RAM",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=2hOhccTqOhs",
+          "id": "https://www.youtube.com/watch?v=c_Ab2F8UwvQ",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=2hOhccTqOhs",
-          "publishedOn": "2021-06-15T19:27:13.000Z",
+          "link": "https://www.youtube.com/watch?v=c_Ab2F8UwvQ",
+          "publishedOn": "2022-02-05T17:06:58.000Z",
           "wordCount": null,
-          "title": "The 24\" M1 iMac has a DIRTY Secret - Full Review"
+          "title": "Finally Spending My YouTube Money",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=AYPkU9yFyJs",
+          "id": "https://www.youtube.com/watch?v=UfcTm6cfkFQ",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=AYPkU9yFyJs",
-          "publishedOn": "2021-06-14T17:34:15.000Z",
+          "link": "https://www.youtube.com/watch?v=UfcTm6cfkFQ",
+          "publishedOn": "2022-02-05T03:30:18.000Z",
           "wordCount": null,
-          "title": "Apple Makes its BEST Products WORSE on Purpose. Why?"
+          "title": "They Almost Got Away With It! - WAN Show February 04, 2022",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=i9ZnaA8DZDs",
+          "id": "https://www.youtube.com/watch?v=9EcvjFJFSwk",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=i9ZnaA8DZDs",
-          "publishedOn": "2021-06-13T17:02:41.000Z",
+          "link": "https://www.youtube.com/watch?v=9EcvjFJFSwk",
+          "publishedOn": "2022-02-03T20:05:13.000Z",
           "wordCount": null,
-          "title": "How Power Supplies Work - Turbo Nerd Edition"
+          "title": "The Steam Deck is Here. #SHORTS",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=u4bGGtnc6Ds",
+          "id": "https://www.youtube.com/watch?v=pqZFcrQTZ_E",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=u4bGGtnc6Ds",
-          "publishedOn": "2021-06-12T17:48:49.000Z",
+          "link": "https://www.youtube.com/watch?v=pqZFcrQTZ_E",
+          "publishedOn": "2022-02-03T17:59:22.000Z",
           "wordCount": null,
-          "title": "Turn your Outdated Computer into a Monitor! - Luna Display"
+          "title": "My dream FINALLY came True!",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=D10gTfBLrwg",
+          "id": "https://www.youtube.com/watch?v=KUj89sbov9g",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=D10gTfBLrwg",
-          "publishedOn": "2021-06-12T03:47:28.000Z",
+          "link": "https://www.youtube.com/watch?v=KUj89sbov9g",
+          "publishedOn": "2022-02-02T21:24:01.000Z",
           "wordCount": null,
-          "title": "Sharing our Own Troubling Experience - WAN Show Jun 11, 2021"
+          "title": "Unboxing the JerryRigEverything KNIFE! - #SHORTS",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=M61nRBFpwro",
+          "id": "https://www.youtube.com/watch?v=rZ72mj1WgS0",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=M61nRBFpwro",
-          "publishedOn": "2021-06-10T17:01:07.000Z",
+          "link": "https://www.youtube.com/watch?v=rZ72mj1WgS0",
+          "publishedOn": "2022-02-02T18:00:05.000Z",
           "wordCount": null,
-          "title": "Setting Up This Projector Was SO Much Work D: - LMG Lounge Update 2021"
+          "title": "Wait 'til you see the Bent Motherboard...",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=zC0TbZq_oIU",
+          "id": "https://www.youtube.com/watch?v=zo_uoFI1WXM",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=zC0TbZq_oIU",
-          "publishedOn": "2021-06-09T13:00:01.000Z",
+          "link": "https://www.youtube.com/watch?v=zo_uoFI1WXM",
+          "publishedOn": "2022-02-01T17:42:43.000Z",
           "wordCount": null,
-          "title": "People Will Literally Fight Over This - RTX 3070 Ti Review"
+          "title": "Fixing what YouTube couldn’t. - ThioJoe Spammer Purge",
+          "imageUrl": null
         }
       ]
     },
@@ -599,142 +591,157 @@
       "siteUrl": "https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=Lh9q3h2khlc",
+          "id": "https://www.youtube.com/watch?v=J5n2aS37rpE",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=Lh9q3h2khlc",
-          "publishedOn": "2021-06-22T15:12:58.000Z",
+          "link": "https://www.youtube.com/watch?v=J5n2aS37rpE",
+          "publishedOn": "2022-02-10T18:01:34.000Z",
           "wordCount": null,
-          "title": "Top 10 performance pitfalls - HTTP 203"
+          "title": "CSS Flexbox debugging tools | DevTools Tips",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=zfNrB0C3lF0",
+          "id": "https://www.youtube.com/watch?v=4pJahmCR8kQ",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=zfNrB0C3lF0",
-          "publishedOn": "2021-06-17T17:00:59.000Z",
+          "link": "https://www.youtube.com/watch?v=4pJahmCR8kQ",
+          "publishedOn": "2022-02-09T18:00:18.000Z",
           "wordCount": null,
-          "title": "What is the state of web frameworks in India (Hindi with English subtitles)"
+          "title": "Thinking on ways to solve SVG FAVICON",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=PPJKljH1dn8",
+          "id": "https://www.youtube.com/watch?v=VLjOIiOt7Do",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=PPJKljH1dn8",
-          "publishedOn": "2021-06-10T17:05:24.000Z",
+          "link": "https://www.youtube.com/watch?v=VLjOIiOt7Do",
+          "publishedOn": "2022-02-01T18:00:37.000Z",
           "wordCount": null,
-          "title": "Advanced patterns for Progressive Web Apps (Spanish with English subtitles)"
+          "title": "New in Chrome 98: Per-element opt-out for auto-dark, COLRv1, and more!",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=oHcTn83M1ls",
+          "id": "https://www.youtube.com/watch?v=YqkIS88VulM",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=oHcTn83M1ls",
-          "publishedOn": "2021-06-09T17:01:09.000Z",
+          "link": "https://www.youtube.com/watch?v=YqkIS88VulM",
+          "publishedOn": "2022-01-27T18:01:32.000Z",
           "wordCount": null,
-          "title": "Thinking on ways to solve COLOR SCHEMES"
+          "title": "Chrome 98 - What’s New in DevTools",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=PZryHH8roIY",
+          "id": "https://www.youtube.com/watch?v=kZiS1QStIWc",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=PZryHH8roIY",
-          "publishedOn": "2021-06-08T14:41:15.000Z",
+          "link": "https://www.youtube.com/watch?v=kZiS1QStIWc",
+          "publishedOn": "2022-01-19T18:00:25.000Z",
           "wordCount": null,
-          "title": "From nothin’ to gzip - HTTP 203"
+          "title": "Thinking on ways to solve a DARK/LIGHT THEME SWITCH",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=kzJfiKQyD24",
+          "id": "https://www.youtube.com/watch?v=t4pDjqhG6fE",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=kzJfiKQyD24",
-          "publishedOn": "2021-06-03T17:00:59.000Z",
+          "link": "https://www.youtube.com/watch?v=t4pDjqhG6fE",
+          "publishedOn": "2022-01-13T18:13:12.000Z",
           "wordCount": null,
-          "title": "Deep dive into the PWA install flow"
+          "title": "Discover and fix low contrast text with DevTools | DevTools Tips",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=MY8LZ49D76c",
+          "id": "https://www.youtube.com/watch?v=sOq92prx00w",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=MY8LZ49D76c",
-          "publishedOn": "2021-05-27T17:07:34.000Z",
+          "link": "https://www.youtube.com/watch?v=sOq92prx00w",
+          "publishedOn": "2022-01-12T19:12:20.000Z",
           "wordCount": null,
-          "title": "Web Audio API 드럼머신 만들기 (Korean with English subtitles)"
+          "title": "Workbox TypeScript - Unpacking the Workbox",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=d1SJL51FFxQ",
+          "id": "https://www.youtube.com/watch?v=eXaog4gUIXI",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=d1SJL51FFxQ",
-          "publishedOn": "2021-05-26T18:01:15.000Z",
+          "link": "https://www.youtube.com/watch?v=eXaog4gUIXI",
+          "publishedOn": "2022-01-04T20:14:44.000Z",
           "wordCount": null,
-          "title": "Angular DevTools | Demo"
+          "title": "New in Chrome 97: Web Transport, Script type Detection, and more!",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=-7k3H2GxE5E",
+          "id": "https://www.youtube.com/watch?v=PYSOnC2CrD8",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=-7k3H2GxE5E",
-          "publishedOn": "2021-05-26T14:12:22.000Z",
+          "link": "https://www.youtube.com/watch?v=PYSOnC2CrD8",
+          "publishedOn": "2022-01-04T17:10:56.000Z",
           "wordCount": null,
-          "title": "Progressively loading images - HTTP 203"
+          "title": "Cross-fading DOM elements | HTTP 203",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=vy6FXa0n1r0",
+          "id": "https://www.youtube.com/watch?v=cGotLGL1-Ko",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=vy6FXa0n1r0",
-          "publishedOn": "2021-05-25T23:00:13.000Z",
+          "link": "https://www.youtube.com/watch?v=cGotLGL1-Ko",
+          "publishedOn": "2022-01-03T18:00:25.000Z",
           "wordCount": null,
-          "title": "New in Chrome 91: File System Access API improvements, Google IO, and more"
+          "title": "Chrome 97 - What’s New in DevTools",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=YCrEmhfwsgg",
+          "id": "https://www.youtube.com/watch?v=rMUayh1QPYs",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=YCrEmhfwsgg",
-          "publishedOn": "2021-05-24T23:45:19.000Z",
+          "link": "https://www.youtube.com/watch?v=rMUayh1QPYs",
+          "publishedOn": "2021-12-30T18:16:39.000Z",
           "wordCount": null,
-          "title": "[Bahasa Melayu] Chrome 91 - Fungsi-fungsi terbaru DevTools"
+          "title": "Record and replay user flow with the Recorder panel | DevTools Tips",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=Givhtk3rObE",
+          "id": "https://www.youtube.com/watch?v=Uh95jZPTDfw",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=Givhtk3rObE",
-          "publishedOn": "2021-05-24T23:41:43.000Z",
+          "link": "https://www.youtube.com/watch?v=Uh95jZPTDfw",
+          "publishedOn": "2021-12-27T08:00:02.000Z",
           "wordCount": null,
-          "title": "Chrome 91 - What’s New in DevTools"
+          "title": "Generating your color palette in CSS | HTTP 203",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=b-osLoWii2M",
+          "id": "https://www.youtube.com/watch?v=KBQz1OSpRv8",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=b-osLoWii2M",
-          "publishedOn": "2021-05-24T20:26:46.000Z",
+          "link": "https://www.youtube.com/watch?v=KBQz1OSpRv8",
+          "publishedOn": "2021-12-21T08:00:44.000Z",
           "wordCount": null,
-          "title": "Web runtime performance | Q&A"
+          "title": "Responsive images & art direction - Designing in the Browser",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=5CLyAX2CTLc",
+          "id": "https://www.youtube.com/watch?v=TuR27BxCRVk",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=5CLyAX2CTLc",
-          "publishedOn": "2021-05-24T20:24:43.000Z",
+          "link": "https://www.youtube.com/watch?v=TuR27BxCRVk",
+          "publishedOn": "2021-12-16T18:00:20.000Z",
           "wordCount": null,
-          "title": "A whirlwind tour through Project Fugu APIs | Workshop"
+          "title": "Authoring colors with DevTools | DevTools Tips",
+          "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=Gv2H3cUz_DM",
+          "id": "https://www.youtube.com/watch?v=ZCVgDKjtgl0",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=Gv2H3cUz_DM",
-          "publishedOn": "2021-05-24T20:20:53.000Z",
+          "link": "https://www.youtube.com/watch?v=ZCVgDKjtgl0",
+          "publishedOn": "2021-12-15T18:37:13.000Z",
           "wordCount": null,
-          "title": "Privacy sandbox | Q&A"
+          "title": "Choosing the right caching strategy - Unpacking the Workbox",
+          "imageUrl": null
         }
       ]
     }
   ],
-  "cliVersion": "1.11.0"
+  "cliVersion": "1.13.0"
 }

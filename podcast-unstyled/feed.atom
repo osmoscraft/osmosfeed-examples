@@ -1,380 +1,399 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-23T05:44:00.702Z</id>
+    <id>urn:2022-02-13T05:31:45.438Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T05:44:00.702Z</updated>
-    <generator>osmosfeed 1.11.0</generator>
+    <updated>2022-02-13T05:31:45.438Z</updated>
+    <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[468: Is Sass Still Cool? Animation vs Transition, Animated Tables, and Dark Mode in Email]]></title>
-        <id>https://shoptalkshow.com/?p=4844</id>
-        <link href="https://shoptalkshow.com/468/"/>
-        <updated>2021-06-21T13:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Let's talk Sass, nesting, animation vs transition, animated tables, scroll snap points, progress meters, viewing emails in dark mode, and coded prototypes.]]></summary>
-        <author>
-            <name>ShopTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hasty Treat - CSRF Explained]]></title>
-        <id>6ecc7d78-2175-4e1b-8bbe-6d6125ef26eb</id>
-        <link href="https://traffic.libsyn.com/secure/syntax/Syntax363.mp3"/>
-        <updated>2021-06-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this Hasty Treat, Scott and Wes talk about CSRF (Cross Site Request Forgery)!
- Prismic - Sponsor
-  Prismic is a Headless CMS that makes it easy to build website pages as a set of components. Break pages into sections of components using React, Vue, or whatever you like. Make corresponding Slices in Prismic. Start building pages dynamically in minutes. Get started at prismic.io/syntax.
-  Sentry - Sponsor
- If you want to know what’s happening with your code, track errors and monitor performance with Sentry. Sentry’s Application Monitoring platform helps developers see performance issues, fix errors faster, and optimize their code health. Cut your time on error resolution from hours to minutes. It works with any language and integrates with dozens of other services. Syntax listeners new to…]]></summary>
-        <author>
-            <name>Syntax - Tasty Web Development Treats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predictions!]]></title>
-        <id>cd7d7492-0314-4781-8f7b-1b685a8e6544</id>
-        <link href="https://www.npr.org/2021/06/17/1007813310/predictions"/>
-        <updated>2021-06-18T21:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Two forecasters predict the future of the U.S. economy — and promise to come back on the show to see who was right, and who was wrong. | Subscribe to our weekly newsletter here.]]></summary>
+        <title type="html"><![CDATA[Our Valentines 2022]]></title>
+        <id>3a5706a9-0436-4dc7-bab6-cd75e7cab047</id>
+        <link href="https://www.npr.org/2022/02/11/1080224238/our-valentines-2022"/>
+        <updated>2022-02-11T23:03:39.000Z</updated>
+        <summary type="html"><![CDATA[We profess our love for our curiosities, obsessions, and the things we wish we'd thought of first. | Subscribe to our weekly newsletter here.]]></summary>
         <author>
             <name>Planet Money</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Uncle Jamie Broke Jeopardy (Update)]]></title>
-        <id>da196f33-7630-45e9-bf9d-fc6c1f2c62c8</id>
-        <link href="https://www.npr.org/2021/06/15/1007007183/how-uncle-jamie-broke-jeopardy-update"/>
-        <updated>2021-06-16T21:01:02.000Z</updated>
-        <summary type="html"><![CDATA[James Holzhauer took a math degree, a gambling career, and a buzzer, and turned it into a fortune on a game show. | Subscribe to our weekly newsletter here.]]></summary>
+        <title type="html"><![CDATA[A SWIFT getaway]]></title>
+        <id>d6bef132-b63b-40ea-8f57-dc243abc126e</id>
+        <link href="https://www.npr.org/2022/02/09/1079528331/a-swift-getaway"/>
+        <updated>2022-02-10T00:29:19.000Z</updated>
+        <summary type="html"><![CDATA[In 2016, thieves tried to steal nearly a billion dollars from the Bank of Bangladesh's reserves without ever entering the building. And six years later, justice hasn't been so SWIFT. | Subscribe to our weekly newsletter here.]]></summary>
         <author>
             <name>Planet Money</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Container Queries, Layers, Scoping and More with Miriam Suzanne]]></title>
-        <id>1985c21e-5b3f-47ff-8cb1-93b742f3e43e</id>
-        <link href="https://traffic.libsyn.com/secure/syntax/Syntax362.mp3"/>
-        <updated>2021-06-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of Syntax, Scott and Wes talk with Miriam Suzanne about all things CSS — container queries, layers, scoping, and more!
- Prismic - Sponsor
-  Prismic is a Headless CMS that makes it easy to build website pages as a set of components. Break pages into sections of components using React, Vue, or whatever you like. Make corresponding Slices in Prismic. Start building pages dynamically in minutes. Get started at prismic.io/syntax.
-  Sentry - Sponsor
- If you want to know what’s happening with your code, track errors and monitor performance with Sentry. Sentry’s Application Monitoring platform helps developers see performance issues, fix errors faster, and optimize their code health. Cut your time on error resolution from hours to minutes. It works with any language and integrates …]]></summary>
-        <author>
-            <name>Syntax - Tasty Web Development Treats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[467: New Frameworks, Astro, New React, and WWDC 21 Thoughts]]></title>
-        <id>https://shoptalkshow.com/?p=4820</id>
-        <link href="https://shoptalkshow.com/467/"/>
-        <updated>2021-06-14T13:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Where are my paaaants? What to do with new frameworks? What to do with new React? Building in Astro. And WWDC 2021 reactions.]]></summary>
-        <author>
-            <name>ShopTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hasty Treat - What is SvelteKit?]]></title>
-        <id>53515cd5-f5c0-4a11-af42-a0780c009a3e</id>
-        <link href="https://traffic.libsyn.com/secure/syntax/Syntax361.mp3"/>
-        <updated>2021-06-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this Hasty Treat, Scott and Wes talk about SvelteKit — what it is and why you might want to use it.
- Sanity - Sponsor
-  Sanity.io is a real-time headless CMS with a fully customizable Content Studio built in React. Get a Sanity powered site up and running in minutes at sanity.io/create. Get an awesome supercharged free developer plan on sanity.io/syntax.
-  LogRocket - Sponsor
-  LogRocket lets you replay what users do on your site, helping you reproduce bugs and fix issues faster. It’s an exception tracker, a session re-player and a performance monitor. Get 14 days free at logrocket.com/syntax.
-  Show Notes
-  03:28 - What is it?
-  
- Total platform for building Svelte apps
-  Built in Vite.js 
-  Includes all of the Vite goodness but it hides behind the scenes for the most part
-  
-  Host anywhere
-  
- 05:16 - Is it CSR, SSR, SSG, WTF?!
-  
- All of the above. Uses adapters to control the output:
-  
- kit: {         // hydrate the 
- element in src/app.html         target: '#svelte',         adapter: adapter() }  
-  09:45 - What you get out of the box
-  
- File-based routing
-  API routes
-  Layouts and layout resets
-  Fancy file titles [slug] __layout
-  Code splitting & preloading
-  PostCSS
-  TypeScript support
-  
- 17:03 - Neat small things
-  
- Glob import
-  https://github.com/svelte-add/svelte-add
-  
- Links
-  
- SvelteKit
-  Next.js
-  Gatsby.js
-  Sapper
-  tailwindcss
-  @chriscoyier
-  
- Tweet us your tasty treats!
-  
- Scott’s Instagram
-  LevelUpTutorials Instagram
-  Wes’ Instagram
-  Wes’ Twitter
-  Wes’ Facebook
-  Scott’s Twitter
-  Make sure to include @SyntaxFM in your tweets]]></summary>
-        <author>
-            <name>Syntax - Tasty Web Development Treats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Used Car Talk]]></title>
-        <id>ed5ed02d-00bf-4b86-bf4f-bfff070ffdd5</id>
-        <link href="https://www.npr.org/2021/06/11/1005600579/used-car-talk"/>
-        <updated>2021-06-11T20:30:32.000Z</updated>
-        <summary type="html"><![CDATA[How supply and demand stalled out the used car industry. | Subscribe to our weekly newsletter here.]]></summary>
-        <author>
-            <name>Planet Money</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Stuff Gets Cheaper (Classic)]]></title>
-        <id>6f6e0893-fb18-4126-92c4-1712a3aa13e7</id>
-        <link href="https://www.npr.org/2021/06/09/1004857510/how-stuff-gets-cheaper-classic"/>
-        <updated>2021-06-09T21:59:26.000Z</updated>
-        <summary type="html"><![CDATA[In the world of consumer electronics, it pays to be cheap. | Subscribe to our weekly newsletter here.]]></summary>
-        <author>
-            <name>Planet Money</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Potluck - Immutability × Turning Off Your Brain × Types vs Interfaces × Hooks vs Components × Making the Most of Your First Job × Confidence in Svelte × More!]]></title>
-        <id>a78c3c2a-a052-480e-98db-14429a7eb3e5</id>
-        <link href="https://traffic.libsyn.com/secure/syntax/Syntax360.mp3"/>
-        <updated>2021-06-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s another Potluck! In this episode, Scott and Wes answer your questions about immutability, turning off your brain, managing copy on a website, problem-solving, types vs interfaces, hooks vs components, and more!
- Freshbooks - Sponsor
-  Get a 30 day free trial of Freshbooks at freshbooks.com/syntax and put SYNTAX in the “How did you hear about us?” section.
-  LogRocket - Sponsor
-  LogRocket lets you replay what users do on your site, helping you reproduce bugs and fix issues faster. It’s an exception tracker, a session re-player and a performance monitor. Get 14 days free at logrocket.com/syntax.
-  Coudinary - Sponsor
-   Cloudinary is the best way to manage images and videos in the cloud. Edit and transform for any use case, from performance to personalization, using Cloudinary’s APIs, …]]></summary>
-        <author>
-            <name>Syntax - Tasty Web Development Treats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[466: Tabs In Component Libraries, Grouping @media Queries, and When is Software Finished?]]></title>
-        <id>https://shoptalkshow.com/?p=4805</id>
-        <link href="https://shoptalkshow.com/466/"/>
-        <updated>2021-06-07T13:02:24.000Z</updated>
-        <summary type="html"><![CDATA[What's the best way to include tabs as part of a component library? D-d-d-discord update on Alex's CSS-Trickz clone. Do you group your @media query items together or spread them around? And is software ever truly finished?]]></summary>
-        <author>
-            <name>ShopTalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hasty Treat - Making a Vaccine Bot with JavaScript]]></title>
-        <id>faa42fdd-8215-40e8-adc5-07e176bba6db</id>
-        <link href="https://traffic.libsyn.com/secure/syntax/Syntax359.mp3"/>
-        <updated>2021-06-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this Hasty Treat, Scott and Wes talk about Wes’ experiment building a vaccine bot!
- Sanity - Sponsor
-  Sanity.io is a real-time headless CMS with a fully customizable Content Studio built in React. Get a Sanity powered site up and running in minutes at sanity.io/create. Get an awesome supercharged free developer plan on sanity.io/syntax.
-  Sentry - Sponsor
+        <title type="html"><![CDATA[Creator of Wordle - Josh Wardle]]></title>
+        <id>a7b0e8a9-e79e-435c-b03d-f2846d126535</id>
+        <link href="https://syntax.fm"/>
+        <updated>2022-02-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of Syntax, Wes and Scott talk with the creator of Wordle, Josh Wardle. What's the tech stack for Wordle? Does he care about the clones of Wordle? And how did selling Wordle work?
+ Sentry - Sponsor
  If you want to know what’s happening with your code, track errors and monitor performance with Sentry. Sentry’s Application Monitoring platform helps developers see performance issues, fix errors faster, and optimize their code health. Cut your time on error resolution from hours to minutes. It works with any language and integrates with dozens of other services. Syntax listeners new to Sentry can get two months for free by visiting Sentry.io and using the coupon code TASTYTREAT during sign up.
-  Show Notes
-  07:32 - First step
-  
- Finding the data. Open up dev tools.
-  Copy as Node.js Fetch in Chrome
-  Two ways to do this - Puppeteer, or raw requests, or a mix.
-  
- 11:03 - Variablizing it
-  
- Store IDs
-  Booking form IDs
-  Vaccine IDs
-  
- 12:56 - Finding out any restrictions
-  
- Is there a cookie?
-  Is there an XSRF?
-  Do these things change?
-  How often can you hit it?
-  
- 15:20 - Caching
-  
- Array variable
-  
- 16:59 - Delivering the notifications
-  
- Telegram
-  
- Links
-  
- https://github.com/wesbos/vaxbot
-  
- Tweet us your tasty treats!
-  
- Scott’s Instagram
-  LevelUpTutorials Instagram
-  Wes’ Instagram
-  Wes’ Twitter
-  Wes’ Facebook
-  Scott’s Twitter
-  Make sure to include @SyntaxFM in your tweets]]></summary>
+ Sanity - Sponsor
+ Sanity.io is a real-time headless CMS with a fully customizable Con…]]></summary>
         <author>
             <name>Syntax - Tasty Web Development Treats</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amateur Hour at the Supreme Court]]></title>
-        <id>f7a7318b-c55a-4186-abc3-9e1aeeffa7e4</id>
-        <link href="https://www.npr.org/2021/06/04/1003279342/amateur-hour-at-the-supreme-court"/>
-        <updated>2021-06-04T22:50:48.000Z</updated>
-        <summary type="html"><![CDATA[College athletes are considered amateur players. And amateurs don't make any money. But can they get more education paid for at least?  | Subscribe to our weekly newsletter here.]]></summary>
-        <author>
-            <name>Planet Money</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Wall Street]]></title>
-        <id>74100ff6-7806-403c-a61d-7fbbb1dc952c</id>
-        <link href="https://www.npr.org/2021/06/02/1002538572/black-wall-street"/>
-        <updated>2021-06-02T20:25:09.000Z</updated>
-        <summary type="html"><![CDATA[100 years ago, Black Wall Street was destroyed. But how was it built? And what does it take to get restitution? | Subscribe to our weekly newsletter here.]]></summary>
-        <author>
-            <name>Planet Money</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React + TypeScript]]></title>
-        <id>bf8d27b4-4062-488a-96ae-33ab11b1b4c5</id>
-        <link href="https://traffic.libsyn.com/secure/syntax/Syntax358.mp3"/>
-        <updated>2021-06-02T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of Syntax, Scott and Wes talk about using React with Typescript — how to set it up, components, state, props, passing data, custom hooks, and more!
- Freshbooks - Sponsor
-  Get a 30 day free trial of Freshbooks at freshbooks.com/syntax and put SYNTAX in the “How did you hear about us?” section.
-  Sentry - Sponsor
- If you want to know what’s happening with your code, track errors and monitor performance with Sentry. Sentry’s Application Monitoring platform helps developers see performance issues, fix errors faster, and optimize their code health. Cut your time on error resolution from hours to minutes. It works with any language and integrates with dozens of other services. Syntax listeners new to Sentry can get two months for free by visiting Sentry.io and using the coupon c…]]></summary>
-        <author>
-            <name>Syntax - Tasty Web Development Treats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[465: Linters, Delivering HTML in a Single File, Specialist or Generalist, and Social Image Previews]]></title>
-        <id>https://shoptalkshow.com/?p=4786</id>
-        <link href="https://shoptalkshow.com/465/"/>
-        <updated>2021-05-31T16:45:40.000Z</updated>
-        <summary type="html"><![CDATA[We're talking about linters, should we deliver single file HTML? Should you focus on a specific tool or be more general? And we revisit social image previews.]]></summary>
+        <title type="html"><![CDATA[501: Cyber Pink, Configuration Based UIs, Deleting Twitter for Time, and Lurking in Discords]]></title>
+        <id>https://shoptalkshow.com/?p=5620</id>
+        <link href="https://shoptalkshow.com/501/"/>
+        <updated>2022-02-07T18:33:51.000Z</updated>
+        <summary type="html"><![CDATA[We're comparing our 'fits, deleting Twitter, and lurking in Discords. And wondering about how much customization you should have over an app's UI? Do you expect it? Is taking ownership of Babel transform a smart thing to do? What are design tokens really? And how do we get to cyber pink?]]></summary>
         <author>
             <name>ShopTalk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hasty Treat - How to Make Money as a Creator]]></title>
-        <id>3b8edf64-2c6a-49c6-a3b6-8cdf59a885f8</id>
-        <link href="https://traffic.libsyn.com/secure/syntax/Syntax357.mp3"/>
-        <updated>2021-05-31T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this Hasty Treat, Scott and Wes talk about making money as a creator — how to do what you love, make money doing it, and not feel yucky about it!
- Deque - Sponsor
-  Deque’s axe DevTools makes accessibility testing easy and doesn’t require special expertise. Find and fix issues while you code. Get started with a free trial of axe DevTools Pro at deque.com/syntax. No credit card needed.
-  LogRocket - Sponsor
-  LogRocket lets you replay what users do on your site, helping you reproduce bugs and fix issues faster. It’s an exception tracker, a session re-player and a performance monitor. Get 14 days free at logrocket.com/syntax.
-  Show Notes
-  06:37 - Community supported
+        <title type="html"><![CDATA[Pros + Cons of JavaScript Servers, Serverless, and Cloudflare Workers]]></title>
+        <id>e79ee555-3480-4699-b1bd-9c9d600b0e47</id>
+        <link href="https://syntax.fm"/>
+        <updated>2022-02-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this Hasty Treat, Scott and Wes talk about the pros and cons of JavaScript servers, Serverless, and Cloudflare Workers.
+  Hashnode - Sponsor
+ Everything you need to start blogging as a developer. Own your content, share ideas, and connect with the global dev community! Hashnode is a free developer blogging platform that allows you to publish articles on your own domain and helps you stay connected with a global developer community.
+ Hashnode: Everything you need to start blogging as a developer!
+ Linode - Sponsor
+ Whether you’re working on a personal project or managing enterprise infrastructure, you deserve simple, affordable, and accessible cloud computing solutions that allow you to take your project to the next level. Simplify your cloud infrastructure with Linode’s Linux virtual machines and develop, deploy, and scale your modern applications faster and easier. Get started on Linode today with a $100 in free credit for listeners of Syntax. You can find all the details at linode.com/syntax. Linode has 11 global data centers and provides 24/7/365 human support with no tiers or hand-offs regardless of your plan size. In addition to shared and dedicated compute instances, you can use your $100 in credit on S3-compatible object storage, Managed Kubernetes, and more. Visit linode.com/syntax and click on the “Create Free Account” button to get started.
+ Show Notes
   
- Sell licenses 
-  Premium plugin
-  Single payment
-  $x per year
+00:26:13 Welcome
+ 01:12:15 Sponsor: Hashnode
+ 02:27:10 Sponsor: Linode
+ 03:30:09 Topic introduction
+ Netlify Functions
+ Fastify
+ AWS Lambda
+ 09:46:02 Hosted Linux servers
+ 13:41:11 Serverless functions
+ MongoDB
+ SvelteKit
+ 16:34:02 Connecting to a database in serverless
+ 20:14:14 Cloudflare Workers
+ Cloudflare Workers
+ Works with Workers
+ 25:39:09 What do we recommend?
+ Render.com
   
-  Sell training 
-  Online
-  In-person
+Tweet us your tasty treats
   
-  Sell support
-  Donation-supported 
-  Patreon (usually has bonus content)
-  Tips
-  Open Collective
-  
-  Sell merch 
-  Teespring
-  
-  
- 16:00 - Corporation supported
-  
- Display ads
-  Sponsored segments
-  Corporate sponsors
-  Sponsored content
-  Interesting collabs 
-  Stickers
-  
-  
- Links
-  
-  Syntax 330: React Query + More React with Tanner Linsley
-  Syntax 340: Servers with Matt from Caddy
-  Wes’ CSS Grid Course
-  
- Tweet us your tasty treats!
-  
- Scott’s Instagram
-  LevelUpTutorials Instagram
-  Wes’ Instagram
-  Wes’ Twitter
-  Wes’ Facebook
-  Scott’s Twitter
-  Make sure to include @SyntaxFM in your tweets]]></summary>
+Scott's Instagram
+ LevelUpTutorials Instagram
+ Wes' Instagram
+ Wes' Twitter
+ Wes' Facebook
+ Scott's Twitter
+ Make sure to include @SyntaxFM in your tweets]]></summary>
         <author>
             <name>Syntax - Tasty Web Development Treats</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Hack to Fool Them All]]></title>
-        <id>7d7c5ffb-b9b6-4c06-b395-d93ff2b2a1bd</id>
-        <link href="https://www.npr.org/2021/05/28/1001402799/one-hack-to-fool-them-all"/>
-        <updated>2021-05-28T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How a single hack pried open the networks of giant corporations and the U.S. government itself. | Subscribe to our weekly newsletter here.]]></summary>
+        <title type="html"><![CDATA[Uncle Sam wants YOU to fight inflation]]></title>
+        <id>32c43e99-c523-4876-a3b0-cc6d1e4d903b</id>
+        <link href="https://www.npr.org/2022/02/04/1078374263/uncle-sam-wants-you-to-fight-inflation"/>
+        <updated>2022-02-05T00:07:07.000Z</updated>
+        <summary type="html"><![CDATA[How war bonds, controlled prices, and a national network of nosy neighbors helped beat inflation during WWII. Subscribe to our weekly newsletter here.]]></summary>
         <author>
             <name>Planet Money</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Runaway Recommendation Engine]]></title>
-        <id>da7179ff-69a3-418f-ae58-90c6f2b5abe0</id>
-        <link href="https://www.npr.org/2021/05/26/1000529597/runaway-recommendation-engine"/>
-        <updated>2021-05-26T23:08:02.000Z</updated>
-        <summary type="html"><![CDATA[Recommendation systems have changed how we choose what we want. But are they choosing what we want? | Subscribe to our weekly newsletter here.]]></summary>
+        <title type="html"><![CDATA[The M&M anomaly (Classic)]]></title>
+        <id>9d68d2ba-9a8d-4cbb-9ebc-b21ac6c59cfc</id>
+        <link href="https://www.npr.org/2022/02/02/1077646249/the-m-m-anomaly-classic"/>
+        <updated>2022-02-02T19:59:28.000Z</updated>
+        <summary type="html"><![CDATA[Despite costing the same price, a pack of peanut butter M&M's weighs 0.06 ounces less than a pack of milk chocolate M&M's. A trade secret explains why. | Subscribe to our weekly newsletter here.]]></summary>
         <author>
             <name>Planet Money</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bike Shedding — Developer Opinions Explained]]></title>
-        <id>bcec3385-40fd-477d-87ab-20f47d3a3e07</id>
-        <link href="https://traffic.libsyn.com/secure/syntax/Syntax356.mp3"/>
-        <updated>2021-05-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of Syntax, Scott and Wes bike shed some common developer opinions.
- Prismic - Sponsor
-  Prismic is a Headless CMS that makes it easy to build website pages as a set of components. Break pages into sections of components using React, Vue, or whatever you like. Make corresponding Slices in Prismic. Start building pages dynamically in minutes. Get started at prismic.io/syntax.
-  LogRocket - Sponsor
-  LogRocket lets you replay what users do on your site, helping you reproduce bugs and fix issues faster. It’s an exception tracker, a session re-player and a performance monitor. Get 14 days free at logrocket.com/syntax.
-  Mux - Sponsor
-  Mux Video is an API-first platform that makes it easy for any developer to build beautiful video. Powered by data and designed by video experts, …]]></summary>
+        <title type="html"><![CDATA[Syntax Highlight]]></title>
+        <id>952cfda5-f54e-4536-bee3-b60c0f718e4c</id>
+        <link href="https://syntax.fm"/>
+        <updated>2022-02-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of Syntax, Scott and Wes review your portfolios and websites including some from Harryxli, Austin Baird, Jacks Portfolio, and more!
+ Linode - Sponsor
+ Whether you’re working on a personal project or managing enterprise infrastructure, you deserve simple, affordable, and accessible cloud computing solutions that allow you to take your project to the next level. Simplify your cloud infrastructure with Linode’s Linux virtual machines and develop, deploy, and scale your modern applications faster and easier. Get started on Linode today with a $100 in free credit for listeners of Syntax. You can find all the details at linode.com/syntax. Linode has 11 global data centers and provides 24/7/365 human support with no tiers or hand-offs regardless of your plan size. In addition to s…]]></summary>
         <author>
             <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[500: Front-End Web Professionals Excited to Talk Front-End Web Design And All It’s High Dramatic Fashions]]></title>
+        <id>https://shoptalkshow.com/?p=5575</id>
+        <link href="https://shoptalkshow.com/500/"/>
+        <updated>2022-01-31T13:00:36.000Z</updated>
+        <summary type="html"><![CDATA[We're celebrating episode 500 by looking back at the previous eras of ShopTalk Show including why we started the show, how it's changed over the years, and how the tech and our lives have changed as well.]]></summary>
+        <author>
+            <name>ShopTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teamwork Makes The Dream Work]]></title>
+        <id>f14a606a-6ffd-4a58-a43d-b57bd3b44e04</id>
+        <link href="https://syntax.fm"/>
+        <updated>2022-01-31T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this Hasty Treat, Scott and Wes are inspired by a Reddit post to talk about how to work better with your team.
+ Sentry - Sponsor
+ If you want to know what’s happening with your code, track errors and monitor performance with Sentry. Sentry’s Application Monitoring platform helps developers see performance issues, fix errors faster, and optimize their code health. Cut your time on error resolution from hours to minutes. It works with any language and integrates with dozens of other services. Syntax listeners new to Sentry can get two months for free by visiting Sentry.io and using the coupon code TASTYTREAT during sign up.
+ Sanity - Sponsor
+ Sanity.io is a real-time headless CMS with a fully customizable Content Studio built in React. Get a Sanity powered site up and running in minutes at sanity.io/create. Get an awesome supercharged free developer plan on sanity.io/syntax.
+ Show Notes
+  
+00:24 Welcome
+ 01:57 Sponsor: Sentry
+ 03:26 Sponsor: Sanity
+ 04:48 Summary of the Reddit post
+ 06:46 We are a team
+ 09:05 Coding with ego
+ 12:32 Follow the leader
+ 13:59 Getting better at asking questions
+ 15:01 Ask for clarity
+ 15:43 Understanding the guidelines
+ 18:12 Interpersonal tips
+ 19:49 Celebrating wins
+  
+Tweet us your tasty treats
+  
+Scott's Instagram
+ LevelUpTutorials Instagram
+ Wes' Instagram
+ Wes' Twitter
+ Wes' Facebook
+ Scott's Twitter
+ Make sure to include @SyntaxFM in your tweets]]></summary>
+        <author>
+            <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Spider-Man Problem]]></title>
+        <id>b85424c8-a701-46bc-82bf-7f3988f3deb0</id>
+        <link href="https://www.npr.org/2022/01/28/1076531156/the-spider-man-problem"/>
+        <updated>2022-01-29T01:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Spider-Man isn't the first film franchise to be rebooted over and over again. But the infamous off-screen drama between Marvel Studios and Sony Pictures explains why it happens so frequently. | Subscribe to our weekly newsletter here.]]></summary>
+        <author>
+            <name>Planet Money</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two indicators: supply chain solutions]]></title>
+        <id>7eaf3b0f-51f8-47bf-b3a2-6f858c31f389</id>
+        <link href="https://www.npr.org/2022/01/26/1075879342/two-indicators-supply-chain-solutions"/>
+        <updated>2022-01-26T22:27:51.000Z</updated>
+        <summary type="html"><![CDATA[Two stories about people trying to overcome supply chain challenges. We follow a ship that is forced to get creative to bypass clogged ports, and we visit a warehouse that is running out of space. | Subscribe to our weekly newsletter here.]]></summary>
+        <author>
+            <name>Planet Money</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monorepos! Workspaces, pnpm, turborepo + more!]]></title>
+        <id>c38ba001-5d90-46f3-89a3-09e09c1c1a98</id>
+        <link href="https://syntax.fm"/>
+        <updated>2022-01-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of Syntax, Scott and Wes talk all about monorepos - the why's and the how's of using them on your projects.
+ Kontent by Kentico - Sponsor
+ Kontent by Kentico is a headless CMS that provides live editing experience to non-technical users and hands you the technical tools to build websites, mobile apps, voice assistants, or anything else where you need content. Use REST API or GraphQL and get your content via the global Fastly CDN. Designed to unify all your content and operations, in compliance with ISO27001 and SOC2Type2 certifications.Spin up a new project today and discover Kontent.
+  LogRocket - Sponsor
+ LogRocket lets you replay what users do on your site, helping you reproduce bugs and fix issues faster. It's an exception tracker, a session re-player and a performance monitor. Get 14 days free at logrocket.com/syntax.
+  Freshbooks - Sponsor
+ Get a 30 day free trial of Freshbooks at freshbooks.com/syntax and put SYNTAX in the "How did you hear about us?" section.
+ Show Notes
+  
+00:11 Welcome
+ 01:46 Our experiences with monorepos
+ 05:04 Why use monorepos?
+ 09:37 How long have we been using monorepos?
+ 10:16 Tools for starting a monorepo
+ pnpm
+ Nom link
+ 16:22 Sponsor: Kontent by Kentico
+ 17:33 What's the process for managing libraries?
+ 20:10 Installing / uninstalling things
+ 21:07 Shared dependencies
+ 27:45 Sponsor: LogRocket "ui:dev": "pnpm recursive run dev --filter @leveluptuts/ui", "update": "pnpm recursive up -L -i"
+ 29:23 Turborepo
+ Turborepo
+ 39:32 nX
+ nx
+ 45:38 Sponsor: Freshbooks
+ 46:32 Lerna
+ Lerna
+ 48:09 Rushjs
+ Rushjs
+ 52:35 Sick Picks
+ 59:17 Shameless Plugs
+  
+××× SIIIIICK ××× PIIIICKS ×××
+  
+Scott: Wyze v3, 10 micro sd
+ Wes: Tineco A11 Vaccum
+  
+Shameless Plugs
+  
+Scott: Astro Course - Sign up for the year and save 50%!
+ Wes: All Courses
+  
+Tweet us your tasty treats
+  
+Scott's Instagram
+ LevelUpTutorials Instagram
+ Wes' Instagram
+ Wes' Twitter
+ Wes' Facebook
+ Scott's Twitter
+ Make sure to include @SyntaxFM in your tweets]]></summary>
+        <author>
+            <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[499: Melanie Sumner on Ember, Accessibility, and the Web]]></title>
+        <id>https://shoptalkshow.com/?p=5548</id>
+        <link href="https://shoptalkshow.com/499/"/>
+        <updated>2022-01-24T14:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Long time listener, first time guest Melanie Sumner joins us to chat about her work on Ember, enterprise work, the importance of accessibility, and the web.]]></summary>
+        <author>
+            <name>ShopTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updating Project Dependencies]]></title>
+        <id>f185a779-ebc5-45fd-8987-1510b93135da</id>
+        <link href="https://traffic.libsyn.com/secure/syntax/Syntax_-_425.mp3"/>
+        <updated>2022-01-24T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this Hasty Treat, Scott and Wes talk about their process for updating project dependencies.
+  Sponsor - LogRocket
+ LogRocket lets you replay what users do on your site, helping you reproduce bugs and fix issues faster. It's an exception tracker, a session re-player and a performance monitor. Get 14 days free at logrocket.com/syntax.
+  Sponsor - MagicBell
+ MagicBell is the the notification inbox for your product. Add a MagicBell to your product for announcements, billing, workflow, and other notifications. The free plan supports up to 100 Monthly Active Users - use the coupon code SYNTAXFM for 10% off the first 12 months.
+ Show Notes
+  
+00:25 Weeeeelcome
+ 00:52 Sponsor: LogRocket
+ 01:29 Sponsor: Magic Bell
+ 03:32 What are dependancies?
+ 04:04 Wes updates all the things
+ 05:30 How to check if there are any updates
+ 07:05 Upgrade isolated, Minor deps first.
+ 09:16 Upgrade Minor groups after that
+ 09:56 Then upgrade Major dependencies
+ 14:47 Finally upgrade any stand along dependencies
+ 15:44 Test test test
+ 16:19 Watch error logging
+ 17:05 Pray
+  
+Tweet us your tasty treats
+  
+Scott's Instagram
+ LevelUpTutorials Instagram
+ Wes' Instagram
+ Wes' Twitter
+ Wes' Facebook
+ Scott's Twitter
+ Make sure to include @SyntaxFM in your tweets]]></summary>
+        <author>
+            <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Soul Train' and the business of Black joy]]></title>
+        <id>82cfc732-4fd0-4a86-a34e-bf7ac2435068</id>
+        <link href="https://www.npr.org/2022/01/21/1074784689/soul-train-and-the-business-of-black-joy"/>
+        <updated>2022-01-21T22:35:28.000Z</updated>
+        <summary type="html"><![CDATA[When Soul Train first launched in 1970, Black audiences weren't understood as a viable target market. Don Cornelius changed that forever with his weekly TV dance show. | Subscribe to our weekly newsletter here.]]></summary>
+        <author>
+            <name>Planet Money</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patent racism (classic)]]></title>
+        <id>3a045bf8-601a-4659-af79-1d32396527d4</id>
+        <link href="https://www.npr.org/2022/01/19/1074167628/patent-racism-classic"/>
+        <updated>2022-01-19T22:08:32.000Z</updated>
+        <summary type="html"><![CDATA[Economist Lisa Cook has been nominated to serve on the Federal Reserve board. In 2020, she talked to us about proving that racism stifles innovation. | Subscribe to our weekly newsletter here.]]></summary>
+        <author>
+            <name>Planet Money</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Year, New You. What to Focus on in 2022.]]></title>
+        <id>2a5c24d8-7266-4b4c-a546-8e4be35b339b</id>
+        <link href="https://traffic.libsyn.com/secure/syntax/Syntax_-_424.mp3"/>
+        <updated>2022-01-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of Syntax, Scott and Wes talk through what to focus on at a beginner, intermediate, and advanced levels of coding skills.
+ Sentry - Sponsor
+ If you want to know what’s happening with your code, track errors and monitor performance with Sentry. Sentry’s Application Monitoring platform helps developers see performance issues, fix errors faster, and optimize their code health. Cut your time on error resolution from hours to minutes. It works with any language and integrates with dozens of other services. Syntax listeners new to Sentry can get two months for free by visiting Sentry.io and using the coupon code TASTYTREAT during sign up.
+ Linode - Sponsor
+ Whether you’re working on a personal project or managing enterprise infrastructure, you deserve simple, affordable, and acce…]]></summary>
+        <author>
+            <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[498: Prepping for 500, Git Journey, Git Hooks, Parcel CSS, and some Healthy Picks]]></title>
+        <id>https://shoptalkshow.com/?p=5520</id>
+        <link href="https://shoptalkshow.com/498/"/>
+        <updated>2022-01-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chris and Dave are speaking at An Event Apart Seattle - you should come! We've got some COVID updates, Chris' Git journey, issues with Git Hooks, Commit Lint, take a look at Parcel CSS, and pick some fav things.]]></summary>
+        <author>
+            <name>ShopTalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS + JS Hacks We’re Fine With]]></title>
+        <id>ddfd8cad-807b-44fc-b153-4fcb75844119</id>
+        <link href="https://traffic.libsyn.com/secure/syntax/Syntax_-_423.mp3"/>
+        <updated>2022-01-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this Hasty Treat, Scott and Wes talk about CSS + JS Hacks that they're ok with using.
+  Sponsor - Freshbooks
+ Get a 30 day free trial of Freshbooks at freshbooks.com/syntax and put SYNTAX in the "How did you hear about us?" section.
+ Sponsor - Sentry
+ If you want to know what’s happening with your code, track errors and monitor performance with Sentry. Sentry’s Application Monitoring platform helps developers see performance issues, fix errors faster, and optimize their code health. Cut your time on error resolution from hours to minutes. It works with any language and integrates with dozens of other services. Syntax listeners new to Sentry can get two months for free by visiting Sentry.io and using the coupon code TASTYTREAT during sign up.
+ Show Notes
+  
+00:53 What are the things in web dev, that feel wrong or hacky when starting out, but are actually totally accepted to do?
+ 02:09 Sponsor: Sentry
+ 03:12 Sponsor: Freshbooks
+ 05:32 Negative margins in CSS
+ 07:53 Not Passing a radix to parseInt()
+ 10:17 -50% translation 50% direction
+ 11:27 Overwriting Arguments in a function
+ 13:20 non-standard-element
+ 17:26 Button must have a type
+ 18:56 Triangles out of borders
+ 20:40 Overflow:hidden to clear a float
+ 20:55 Always pass noopener to links!
+ 22:16 Inline styles
+  
+Tweet us your tasty treats
+  
+Scott's Instagram
+ LevelUpTutorials Instagram
+ Wes' Instagram
+ Wes' Twitter
+ Wes' Facebook
+ Scott's Twitter
+ Make sure to include @SyntaxFM in your tweets]]></summary>
+        <author>
+            <name>Syntax - Tasty Web Development Treats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The rapid testing show]]></title>
+        <id>448f08d3-6d76-4107-b0d9-1578bae99823</id>
+        <link href="https://www.npr.org/2022/01/14/1073227859/the-rapid-testing-show"/>
+        <updated>2022-01-15T02:38:35.000Z</updated>
+        <summary type="html"><![CDATA[The Planet Money team fans out across the nation with one goal: to get a Covid test in 24 hours. It is easier said than done. | Subscribe to our weekly newsletter here.]]></summary>
+        <author>
+            <name>Planet Money</name>
         </author>
     </entry>
 </feed>
