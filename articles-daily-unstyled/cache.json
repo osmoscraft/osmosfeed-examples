@@ -21,7 +21,7 @@
           "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …\n9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/",
           "publishedOn": "2022-02-11T23:11:28.000Z",
-          "wordCount": 951,
+          "wordCount": 943,
           "title": "9 New React and JavaScript Links for February 2022",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363396"
         },
@@ -31,7 +31,7 @@
           "description": "Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:\n.el {\n  transform: translate(100px) scale(1.5) skew(5deg);\n}\nNow imagine you don’t always want all the transform values to be applied, so some …\nMulti-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/optional-custom-property-values-trick/",
           "publishedOn": "2022-02-11T15:30:11.000Z",
-          "wordCount": 782,
+          "wordCount": 774,
           "title": "Multi-Value CSS Properties With Optional Custom Property Values",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363027"
         },
@@ -51,7 +51,7 @@
           "description": "This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.\nSee, there was a little smattering of internet drama …\nDevelopers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/developers-speculating-about-the-long-distant-future-2022/",
           "publishedOn": "2022-02-10T21:45:09.000Z",
-          "wordCount": 798,
+          "wordCount": 790,
           "title": "Developers Speculating About the Long-Distant Future: 2022",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363480"
         },
@@ -61,7 +61,7 @@
           "description": "I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …\nHelpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/nextjs-chrome-extension-starter/",
           "publishedOn": "2022-02-10T15:24:02.000Z",
-          "wordCount": 1296,
+          "wordCount": 1288,
           "title": "Helpful Tips for Starting a Next.js Chrome Extension",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363079"
         },
@@ -71,7 +71,7 @@
           "description": "(This is a sponsored post.)\nCloudinary is a host for your digital assets like images and video. If you don’t already know them, you should, because you can build it into the asset management you almost certainly need to …\nA Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/",
           "publishedOn": "2022-02-10T15:23:31.000Z",
-          "wordCount": 890,
+          "wordCount": 882,
           "title": "A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362991"
         },
@@ -81,7 +81,7 @@
           "description": "Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …\nSVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/svgcode-raster-to-vector/",
           "publishedOn": "2022-02-09T21:39:41.000Z",
-          "wordCount": 830,
+          "wordCount": 822,
           "title": "SVGcode for “Live Tracing” Raster Images",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362777"
         },
@@ -101,7 +101,7 @@
           "description": "There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:\n@media (prefers-reduced-motion: reduce) {\n  * {\n    animation-duration: 0.01ms !important;\n    animation-iteration-count: 1 !important;\n    transition-duration: 0.01ms !important;\n    scroll-behavior: auto !important;\n  \n…\nNo Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/",
           "publishedOn": "2022-02-08T20:55:51.000Z",
-          "wordCount": 1189,
+          "wordCount": 1181,
           "title": "No Motion Isn’t Always prefers-reduced-motion",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363057"
         },
@@ -352,5 +352,5 @@
       ]
     }
   ],
-  "cliVersion": "1.13.0"
+  "cliVersion": "1.14.1"
 }

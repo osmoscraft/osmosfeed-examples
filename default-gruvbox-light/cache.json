@@ -31,7 +31,7 @@
           "description": "Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:\n.el {\n  transform: translate(100px) scale(1.5) skew(5deg);\n}\nNow imagine you don’t always want all the transform values to be applied, so some …\nMulti-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/optional-custom-property-values-trick/",
           "publishedOn": "2022-02-11T15:30:11.000Z",
-          "wordCount": 782,
+          "wordCount": 774,
           "title": "Multi-Value CSS Properties With Optional Custom Property Values",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363027"
         },
@@ -41,7 +41,7 @@
           "description": "I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …\nA Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/new-css-color-features-preview/",
           "publishedOn": "2022-02-10T23:01:55.000Z",
-          "wordCount": 2660,
+          "wordCount": 2724,
           "title": "A Whistle-Stop Tour of 4 New CSS Color Features",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362285"
         },
@@ -71,7 +71,7 @@
           "description": "(This is a sponsored post.)\nCloudinary is a host for your digital assets like images and video. If you don’t already know them, you should, because you can build it into the asset management you almost certainly need to …\nA Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/",
           "publishedOn": "2022-02-10T15:23:31.000Z",
-          "wordCount": 890,
+          "wordCount": 882,
           "title": "A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362991"
         },
@@ -101,7 +101,7 @@
           "description": "There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:\n@media (prefers-reduced-motion: reduce) {\n  * {\n    animation-duration: 0.01ms !important;\n    animation-iteration-count: 1 !important;\n    transition-duration: 0.01ms !important;\n    scroll-behavior: auto !important;\n  \n…\nNo Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/",
           "publishedOn": "2022-02-08T20:55:51.000Z",
-          "wordCount": 1189,
+          "wordCount": 1181,
           "title": "No Motion Isn’t Always prefers-reduced-motion",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363057"
         },
@@ -131,7 +131,7 @@
           "description": "A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!\nTom’s generator does two things that help make a gradient better:\nYou \n…\nUsing Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter.",
           "link": "https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/",
           "publishedOn": "2022-02-07T21:46:18.000Z",
-          "wordCount": 630,
+          "wordCount": 616,
           "title": "Using Different Color Spaces for Non-Boring Gradients",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363102"
         },
@@ -352,5 +352,5 @@
       ]
     }
   ],
-  "cliVersion": "1.13.0"
+  "cliVersion": "1.14.1"
 }

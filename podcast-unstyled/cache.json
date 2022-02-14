@@ -148,24 +148,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "448f08d3-6d76-4107-b0d9-1578bae99823",
-          "author": null,
-          "description": "The Planet Money team fans out across the nation with one goal: to get a Covid test in 24 hours. It is easier said than done. | Subscribe to our weekly newsletter here.",
-          "link": "https://www.npr.org/2022/01/14/1073227859/the-rapid-testing-show",
-          "publishedOn": "2022-01-15T02:38:35.000Z",
-          "wordCount": null,
-          "title": "The rapid testing show",
-          "itunes": {
-            "duration": "1238"
-          },
-          "enclosure": {
-            "url": "https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2022/01/20220114_pmoney_pmpod_1501.mp3?awCollectionId=510289&awEpisodeId=1073227859&orgId=1&topicId=1006&d=1238&p=510289&story=1073227859&t=podcast&e=1073227859&size=19809681&ft=pod&f=510289",
-            "length": "19809681",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -400,5 +382,5 @@
       ]
     }
   ],
-  "cliVersion": "1.13.0"
+  "cliVersion": "1.14.1"
 }

@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <title>osmos::feed</title>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="robots" content="noindex, nofollow" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-  <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
-  <link href="index.css" rel="stylesheet" />
-  <style>
+  <head>
+    <title>osmos::feed</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
+    <link href="index.css" rel="stylesheet" />
+    <style>
   :root {
     /**
      * Solarized Light
@@ -42,401 +42,622 @@
   }
 </style>
 
-</head>
+  </head>
 
-<body>
-<!-- %after-body-begin.html% -->
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-12">2022-02-12</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Your CSS reset needs text-size-adjust (probably)</span>
-                    <span class="article-reading-time">2 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363498" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Kilian Valkhof:
+  <body>
+    <!-- %after-body-begin.html% -->
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-12 datetime="2022-02-12T00:46:40.000Z">2022-02-12</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-12 datetime="2022-02-12T00:46:40.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363498"
+                        open
+                      >
+                        <summary class="article-expander__title">Your CSS reset needs text-size-adjust (probably)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363498" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Kilian Valkhof:
 […] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a 
 …
 Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-11">2022-02-11</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>9 New React and JavaScript Links for February 2022</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363396" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-11 datetime="2022-02-11T23:11:28.000Z">2022-02-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-11 datetime="2022-02-11T23:11:28.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363396"
+                        open
+                      >
+                        <summary class="article-expander__title">9 New React and JavaScript Links for February 2022</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363396" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
 9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Multi-Value CSS Properties With Optional Custom Property Values</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/optional-custom-property-values-trick/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363027" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363027"
+                        open
+                      >
+                        <summary class="article-expander__title">Multi-Value CSS Properties With Optional Custom Property Values</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/optional-custom-property-values-trick/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363027" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:
 .el {
   transform: translate(100px) scale(1.5) skew(5deg);
 }
 Now imagine you don’t always want all the transform values to be applied, so some …
 Multi-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://daverupert.com">daverupert.com</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Six end of week links</span>
-                    <span class="article-reading-time">1 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/02/week-links-2/">
-                  <div class="article-summary-box-inner media-object">
-                    <span class="media-object__text">Another week, more links. I’ve split this up a bit and added a section of cool (open source) projects.
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >freeCodeCamp.org</button>
+                  <a class="source-heading__link" href="https://www.freecodecamp.org/news">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="62062b0b56125b0677c63fe4"
+                        open
+                      >
+                        <summary class="article-expander__title">How to Open Task Manager on Mac – Apple Shortcut Tutorial</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-open-task-manager-on-mac-apple-shortcut-tutorial/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.freecodecamp.org/news/content/images/2022/02/nadine-shaabana-DRzYMtae-vA-unsplash.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Having problems with our computers is never fun. And what&#x27;s often worse than the problems themselves is that they seem to occur when we&#x27;re in the middle of an important task that needs to get done. The computer starts to significanlty slow down and an app we are using might</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="61f587bbf2ed6b06db5a8380"
+                        open
+                      >
+                        <summary class="article-expander__title">How to Deploy AWS Infrastructure with Terraform and Github Actions – A Multi-Environment CI/CD Guide</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-deploy-aws-infrastructure-with-terraform-and-github-actions-a-practical-multi-environment-ci-cd-guide/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.freecodecamp.org/news/content/images/2022/02/pexels-pixabay-163235.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Recently, I&#x27;ve been considering developing a complete end-to-end green field DevOps personal lab project.  The term &quot;greenfield software project&quot; refers to the development of a system for a new product that requires development from scratch with no legacy code.  This is a method you use when you are</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="6203730c56125b0677c632a1"
+                        open
+                      >
+                        <summary class="article-expander__title">How to Fork a GitHub Repository – A Complete Workflow</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-fork-a-github-repository/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.freecodecamp.org/news/content/images/2022/02/freeCodeCamp-Cover.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>GitHub is a great application that helps you manage your Git repositories. You can also use it to contribute to the open source ecosystem and collaborate with other contributors.  Public repositories on GitHub often get lots of attention from contributors, and this helps enhance the project. So how can</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="6204325356125b0677c637f0"
+                        open
+                      >
+                        <summary class="article-expander__title">parseInt() in JavaScript – JS String to Int Example</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/parseint-in-javascript-js-string-to-int-example/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.freecodecamp.org/news/content/images/2022/02/parseint.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>In this tutorial, we will talk about the parseInt function in JavaScript. This function parses (break down) a string and returns an integer or NaN (Not a Number).  How the parseInt function works The main purpose of using the parseInt function is to extract a number from a string.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >daverupert.com</button>
+                  <a class="source-heading__link" href="https://daverupert.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://daverupert.com/2022/02/week-links-2/"
+                        open
+                      >
+                        <summary class="article-expander__title">Six end of week links</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/02/week-links-2/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Another week, more links. I’ve split this up a bit and added a section of cool (open source) projects.
 EVERY Gundam Timeline Explained - Tim Lyu breaks down every Gundam timeline and series in an incredible and obsessive fashion. I also watched his Evangelion breakdown too. youtube.com
 Scams, Art Theft and NFTs - I like Brad Colbow’s thinking, from an artist’s perspective, around NFTs. youtube.com
 Make Free Stuff - Max Böck touches on one of my biggest concerns with Web3 in that it attempts “to impose even more artificial locks and transactions on users, to extract even more money”, getting away from the Web’s anti-capitalist beginnings. mxb.dev
 Omnichord - Jake Albaugh makes a free musical instrument using the Web Audio API. And it’s fun. Also, subdomains rule. omnichord.jake.fun
 nuxt-cms-template - Alex Riviere and Andrew Walpole figured out how to integrate Netlify CMS’s block-based editor and preview feature with a Nuxt application. It may not sound like a big deal but getting a React app and a Nuxt app working together without creating a turducken is pretty intuitive. github.com
 Accessible document workflow iwth Eleventy and Prince - Larry Hudson shows how to turn an Eleventy site into an accessible PDF using Prince. 11ty-prince-pdf-example.netlify.app</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.freecodecamp.org/news">freeCodeCamp.org</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>How to Open Task Manager on Mac – Apple Shortcut Tutorial</span>
-                    <span class="article-reading-time">6 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-open-task-manager-on-mac-apple-shortcut-tutorial/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://www.freecodecamp.org/news/content/images/2022/02/nadine-shaabana-DRzYMtae-vA-unsplash.jpg" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Having problems with our computers is never fun. And what&#x27;s often worse than the problems themselves is that they seem to occur when we&#x27;re in the middle of an important task that needs to get done. The computer starts to significanlty slow down and an app we are using might</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>How to Deploy AWS Infrastructure with Terraform and Github Actions – A Multi-Environment CI/CD Guide</span>
-                    <span class="article-reading-time">9 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-deploy-aws-infrastructure-with-terraform-and-github-actions-a-practical-multi-environment-ci-cd-guide/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://www.freecodecamp.org/news/content/images/2022/02/pexels-pixabay-163235.jpg" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Recently, I&#x27;ve been considering developing a complete end-to-end green field DevOps personal lab project.  The term &quot;greenfield software project&quot; refers to the development of a system for a new product that requires development from scratch with no legacy code.  This is a method you use when you are</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>How to Fork a GitHub Repository – A Complete Workflow</span>
-                    <span class="article-reading-time">4 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-to-fork-a-github-repository/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://www.freecodecamp.org/news/content/images/2022/02/freeCodeCamp-Cover.png" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">GitHub is a great application that helps you manage your Git repositories. You can also use it to contribute to the open source ecosystem and collaborate with other contributors.  Public repositories on GitHub often get lots of attention from contributors, and this helps enhance the project. So how can</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>parseInt() in JavaScript – JS String to Int Example</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/parseint-in-javascript-js-string-to-int-example/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://www.freecodecamp.org/news/content/images/2022/02/parseint.png" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">In this tutorial, we will talk about the parseInt function in JavaScript. This function parses (break down) a string and returns an integer or NaN (Not a Number).  How the parseInt function works The main purpose of using the parseInt function is to extract a number from a string.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-10">2022-02-10</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>A Whistle-Stop Tour of 4 New CSS Color Features</span>
-                    <span class="article-reading-time">9 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/new-css-color-features-preview/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362285" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-10 datetime="2022-02-10T23:01:55.000Z">2022-02-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-10 datetime="2022-02-10T23:01:55.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;362285"
+                        open
+                      >
+                        <summary class="article-expander__title">A Whistle-Stop Tour of 4 New CSS Color Features</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/new-css-color-features-preview/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362285" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I was just writing in my “What’s new in since CSS3?” article about recent and possible future changes to CSS colors. It’s weirdly a lot. There are just as many or more new and upcoming ways to define colors than …
 A Whistle-Stop Tour of 4 New CSS Color Features originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Developers Speculating About the Long-Distant Future: 2022</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/developers-speculating-about-the-long-distant-future-2022/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363480" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363480"
+                        open
+                      >
+                        <summary class="article-expander__title">Developers Speculating About the Long-Distant Future: 2022</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/developers-speculating-about-the-long-distant-future-2022/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363480" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>This is a wonderful roundup from Jeremy, who I picture circling January 1, 2022, in red marker on a giant paper calendar back in 2008 and patiently counting the days.
 See, there was a little smattering of internet drama …
 Developers Speculating About the Long-Distant Future: 2022 originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Helpful Tips for Starting a Next.js Chrome Extension</span>
-                    <span class="article-reading-time">4 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/nextjs-chrome-extension-starter/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363079" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363079"
+                        open
+                      >
+                        <summary class="article-expander__title">Helpful Tips for Starting a Next.js Chrome Extension</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/nextjs-chrome-extension-starter/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363079" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I recently rewrote one of my projects — Minimal Theme for Twitter — as a Next.js Chrome extension because I wanted to use React for the pop-up. Using React would allow me to clearly separate my extension’s pop-up component and …
 Helpful Tips for Starting a Next.js Chrome Extension originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362991" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">(This is a sponsored post.)
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;362991"
+                        open
+                      >
+                        <summary class="article-expander__title">A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/a-chrome-extension-for-cloudinary-that-helps-you-pluck-out-useful-media-urls-from-your-library-quickly/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362991" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>(This is a sponsored post.)
 Cloudinary is a host for your digital assets like images and video. If you don’t already know them, you should, because you can build it into the asset management you almost certainly need to …
 A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs From Your Library Quickly originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.freecodecamp.org/news">freeCodeCamp.org</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Learn to Code in Japanese – The Japanese freeCodeCamp Curriculum is Now Live</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/learn-programming-freecodecamp-japanese-released/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://www.freecodecamp.org/news/content/images/2022/02/japanese_certs.png" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">The Japanese freeCodeCamp curriculum [https://www.freecodecamp.org/japanese/learn] is now live. In Japan, I have seen many comments, tweets, and blog posts saying &quot;freeCodeCamp looks awesome, but unfortunately, I can&#x27;t use it because I can&#x27;t read English.&quot; Currently, most information and learning resources related to programming are in English. But we want freeCodeCamp</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>JavaScript Execution Context – How JS Works Behind The Scenes</span>
-                    <span class="article-reading-time">11 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://www.freecodecamp.org/news/content/images/2022/02/header.png" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">All JavaScript code needs to be hosted and run in some kind of environment. In most cases, that environment would be a web browser.  For any piece of JavaScript code to be executed in a web browser, a lot of processes take place behind the scenes. In this article,</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>What is Antimalware Service Executable? Why is it High CPU Disk Usage?</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/what-is-antimalware-service-executable-why-is-it-high-cpu-disk-usage/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://www.freecodecamp.org/news/content/images/2022/02/cpu-4393376_1920.jpg" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Antimalware service executable is a component of Windows Security that runs in the background. But sometimes antimalware service executable can impact Windows 10 computers negatively by using too much CPU. In this guide, I will show you what antimalware service executable is, why it uses so much CPU, and how</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>How to Add Supabase Authentication to a Vue App</span>
-                    <span class="article-reading-time">7 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/add-supabase-authentication-to-vue/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://www.freecodecamp.org/news/content/images/2022/02/Getting-Started-with-supabase-blog@2x.jpg" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">In this post we will walk through getting authentication set up using Supabase and Vue 3.  This will also work with Vue 2, but you&#x27;ll need to move things around to work with the options API. I am using Vue 3 as it is now the default version [https://blog.vuejs.org/posts/vue-3-as-the-new-default.html].</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Markdown Cheat Sheet – How to Write in Markdown with Examples</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/markdown-cheat-sheet/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://www.freecodecamp.org/news/content/images/2022/01/Copy-of-Copy-of-Cron-jobs-Linux.png" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Markdown has gained popularity because it&#x27;s easy to use and it&#x27;s widely accepted across platforms.  You can use markdown to write content that can be conveyed in plain text. A good example would be a blog post. In this article, you&#x27;ll learn what markdown is and how to use</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Blockchain APIs - How to Query on the Blockchain</span>
-                    <span class="article-reading-time">2 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/blockchain-apis-how-to-query-on-the-blockchain/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://www.freecodecamp.org/news/content/images/2022/02/blockchainapis.png" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">If you wanna build apps on the blockchain, you are likely going to need a way to query data. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to query data on the blockchain in order to build your own decentralized apps. Ania Kubów</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-09">2022-02-09</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>SVGcode for “Live Tracing” Raster Images</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/svgcode-raster-to-vector/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362777" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >freeCodeCamp.org</button>
+                  <a class="source-heading__link" href="https://www.freecodecamp.org/news">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="61fd8a56f2ed6b06db5acd03"
+                        open
+                      >
+                        <summary class="article-expander__title">Learn to Code in Japanese – The Japanese freeCodeCamp Curriculum is Now Live</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/learn-programming-freecodecamp-japanese-released/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.freecodecamp.org/news/content/images/2022/02/japanese_certs.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The Japanese freeCodeCamp curriculum [https://www.freecodecamp.org/japanese/learn] is now live. In Japan, I have seen many comments, tweets, and blog posts saying &quot;freeCodeCamp looks awesome, but unfortunately, I can&#x27;t use it because I can&#x27;t read English.&quot; Currently, most information and learning resources related to programming are in English. But we want freeCodeCamp</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="61fc8bbef2ed6b06db5ac470"
+                        open
+                      >
+                        <summary class="article-expander__title">JavaScript Execution Context – How JS Works Behind The Scenes</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.freecodecamp.org/news/content/images/2022/02/header.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>All JavaScript code needs to be hosted and run in some kind of environment. In most cases, that environment would be a web browser.  For any piece of JavaScript code to be executed in a web browser, a lot of processes take place behind the scenes. In this article,</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;11
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="6204e89c56125b0677c639a4"
+                        open
+                      >
+                        <summary class="article-expander__title">What is Antimalware Service Executable? Why is it High CPU Disk Usage?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/what-is-antimalware-service-executable-why-is-it-high-cpu-disk-usage/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.freecodecamp.org/news/content/images/2022/02/cpu-4393376_1920.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Antimalware service executable is a component of Windows Security that runs in the background. But sometimes antimalware service executable can impact Windows 10 computers negatively by using too much CPU. In this guide, I will show you what antimalware service executable is, why it uses so much CPU, and how</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="6203e7fe56125b0677c6337b"
+                        open
+                      >
+                        <summary class="article-expander__title">How to Add Supabase Authentication to a Vue App</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/add-supabase-authentication-to-vue/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.freecodecamp.org/news/content/images/2022/02/Getting-Started-with-supabase-blog@2x.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>In this post we will walk through getting authentication set up using Supabase and Vue 3.  This will also work with Vue 2, but you&#x27;ll need to move things around to work with the options API. I am using Vue 3 as it is now the default version [https://blog.vuejs.org/posts/vue-3-as-the-new-default.html].</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="61f43d0ff2ed6b06db5a7157"
+                        open
+                      >
+                        <summary class="article-expander__title">Markdown Cheat Sheet – How to Write in Markdown with Examples</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/markdown-cheat-sheet/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.freecodecamp.org/news/content/images/2022/01/Copy-of-Copy-of-Cron-jobs-Linux.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Markdown has gained popularity because it&#x27;s easy to use and it&#x27;s widely accepted across platforms.  You can use markdown to write content that can be conveyed in plain text. A good example would be a blog post. In this article, you&#x27;ll learn what markdown is and how to use</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="6204203956125b0677c6377b"
+                        open
+                      >
+                        <summary class="article-expander__title">Blockchain APIs - How to Query on the Blockchain</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/blockchain-apis-how-to-query-on-the-blockchain/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.freecodecamp.org/news/content/images/2022/02/blockchainapis.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>If you wanna build apps on the blockchain, you are likely going to need a way to query data. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to query data on the blockchain in order to build your own decentralized apps. Ania Kubów</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-09 datetime="2022-02-09T21:39:41.000Z">2022-02-09</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-09 datetime="2022-02-09T21:39:41.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;362777"
+                        open
+                      >
+                        <summary class="article-expander__title">SVGcode for “Live Tracing” Raster Images</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/svgcode-raster-to-vector/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362777" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
 SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>How to Make CSS Slanted Containers</span>
-                    <span class="article-reading-time">4 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/css-slanted-containers/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362940" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;362940"
+                        open
+                      >
+                        <summary class="article-expander__title">How to Make CSS Slanted Containers</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/css-slanted-containers/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362940" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
 How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-08">2022-02-08</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>No Motion Isn’t Always prefers-reduced-motion</span>
-                    <span class="article-reading-time">4 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363057" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-08 datetime="2022-02-08T20:55:51.000Z">2022-02-08</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-08 datetime="2022-02-08T20:55:51.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363057"
+                        open
+                      >
+                        <summary class="article-expander__title">No Motion Isn’t Always prefers-reduced-motion</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363057" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:
 @media (prefers-reduced-motion: reduce) {
   * {
     animation-duration: 0.01ms !important;
@@ -446,244 +667,395 @@ How to Make CSS Slanted Containers originally published on CSS-Tricks. You shoul
   
 …
 No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Replace JavaScript Dialogs With the New HTML Dialog Element</span>
-                    <span class="article-reading-time">13 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362672" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;362672"
+                        open
+                      >
+                        <summary class="article-expander__title">Replace JavaScript Dialogs With the New HTML Dialog Element</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362672" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.
 Let me explain.
 I recently worked on a project with a lot of …
 Replace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Netlify Has Scheduled Functions</span>
-                    <span class="article-reading-time">2 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/netlify-has-scheduled-functions/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363380" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">(This is a sponsored post.)
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363380"
+                        open
+                      >
+                        <summary class="article-expander__title">Netlify Has Scheduled Functions</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/netlify-has-scheduled-functions/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363380" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>(This is a sponsored post.)
 Hey! Scheduled Functions are cool! Think of them like a CRON job. I want this code to run every Monday at 2pm. I want this code run every hour on the hour. That kind …
 Netlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://daverupert.com">daverupert.com</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Before I go: When it comes to complaining about web browsers</span>
-                    <span class="article-reading-time">5 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/02/complaining-about-web-browsers/">
-                  <div class="article-summary-box-inner media-object">
-                    <span class="media-object__text">I’m not planning on leaving the industry (yet), but before I go I’d like to offer up what I know when it comes to complaining about web browsers.
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >daverupert.com</button>
+                  <a class="source-heading__link" href="https://daverupert.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://daverupert.com/2022/02/complaining-about-web-browsers/"
+                        open
+                      >
+                        <summary class="article-expander__title">Before I go: When it comes to complaining about web browsers</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/02/complaining-about-web-browsers/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>I’m not planning on leaving the industry (yet), but before I go I’d like to offer up what I know when it comes to complaining about web browsers.
 I have logged hundreds of hours complaining about browsers on Twitter, on podcasts, and on this blog. I have logged thousands more hours trying to keep up with browsers and I frequently interact with people who write specs and make browsers. I have not been 100% successful in my efforts to get a  element as my legacy but I have learned a lot about giving feedback to web browsers.
 Browsers are really complex
 Eric Meyer recently put it very well…
 [W]eb browsers are actually 60fps+ rendering environments.  They’re First-Person Scrollers.
 When you complain about browsers, the first thing you must know is: Browsers are big, complex pieces of s…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-07">2022-02-07</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Using Different Color Spaces for Non-Boring Gradients</span>
-                    <span class="article-reading-time">2 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363102" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-07 datetime="2022-02-07T21:46:18.000Z">2022-02-07</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-07 datetime="2022-02-07T21:46:18.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;363102"
+                        open
+                      >
+                        <summary class="article-expander__title">Using Different Color Spaces for Non-Boring Gradients</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/363102" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!
 Tom’s generator does two things that help make a gradient better:
 You 
 …
 Using Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>CSS Scroll Snap Slide Deck That Supports Live Coding</span>
-                    <span class="article-reading-time">15 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/css-scroll-snap-slide-deck/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362616" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;362616"
+                        open
+                      >
+                        <summary class="article-expander__title">CSS Scroll Snap Slide Deck That Supports Live Coding</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/css-scroll-snap-slide-deck/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362616" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …
 CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-04">2022-02-04</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>A Deep Introduction to WordPress Block Themes</span>
-                    <span class="article-reading-time">21 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362799" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
-A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://daverupert.com">daverupert.com</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Five links for a Friday afternoon</span>
-                    <span class="article-reading-time">1 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/02/friday-links-1/">
-                  <div class="article-summary-box-inner media-object">
-                    <span class="media-object__text">Inspired by Kottke’s Quick Links, Jeremy Keith’s Links, and my desire to get off Twitter as the primary means of sharing interesting links, I’m trying a new weekly-ish post format. I also have a process for collecting links in Notion that should make this easy to sustain.
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-04 datetime="2022-02-04T20:28:00.000Z">2022-02-04</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-04 datetime="2022-02-04T20:28:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >daverupert.com</button>
+                  <a class="source-heading__link" href="https://daverupert.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://daverupert.com/2022/02/friday-links-1/"
+                        open
+                      >
+                        <summary class="article-expander__title">Five links for a Friday afternoon</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/02/friday-links-1/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Inspired by Kottke’s Quick Links, Jeremy Keith’s Links, and my desire to get off Twitter as the primary means of sharing interesting links, I’m trying a new weekly-ish post format. I also have a process for collecting links in Notion that should make this easy to sustain.
 Margo by HEX. What a gorgeous font! futurefonts.xyz
 The Cutting Edge - July 1985; an MTV documentary about the Austin, TX music scene. Goes to show that Austin is the same as it ever was: cool, indie, weird, non-coastal,  constantly growing, and perpetually worried about the vibe of the city changing. vimeo.com
 Did I complete my 30 day game making challenge?. Mark Brown teaches a lot about prototypes, MVPs, getting feedback, and how killing momentum is easy. youtube.com
 Line Goes Up - The Problem with NFTs. A stoic look at some of the large and systemic problems that NFTs and cryptocurrency have. youtube.com
 The secret lab making the most sustainable food in the world. Solein is a new form of food that turns CO₂ into a protein which sounds sci-fi, but may be the best idea yet to fight climate change? youtube.com</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-02-03">2022-02-03</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://daverupert.com">daverupert.com</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Vibe Check №13</span>
-                    <span class="article-reading-time">5 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/02/vibe-check-13/">
-                  <div class="article-summary-box-inner media-object">
-                    <span class="media-object__text">Buckle up. This month turned out to be a big one. Writing it all out feels like an entire year went by, so I’ll start with the bad that happened at the beginning of the month and move towards the good.
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;362799"
+                        open
+                      >
+                        <summary class="article-expander__title">A Deep Introduction to WordPress Block Themes</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://css-tricks.com/wp-json/social-image-generator/v1/image/362799" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
+A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;21
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-03 datetime="2022-02-03T00:57:00.000Z">2022-02-03</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-03 datetime="2022-02-03T00:57:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >daverupert.com</button>
+                  <a class="source-heading__link" href="https://daverupert.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://daverupert.com/2022/02/vibe-check-13/"
+                        open
+                      >
+                        <summary class="article-expander__title">Vibe Check №13</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/02/vibe-check-13/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Buckle up. This month turned out to be a big one. Writing it all out feels like an entire year went by, so I’ll start with the bad that happened at the beginning of the month and move towards the good.
 Got COVID
 When I posted my Vibe Check №12 and End of 2021 posts, I noticed they were a bit emo as I felt “exhausted”. Well, there was a reason for that: I had COVID. Those posts might need a giant asterisks applied to them. I still stand by that exhausted vibe because I was basically sick from December 17th to January 5th or so.
 Thankfully ours was a “mild” case and it did run thru the entire family. A lot of aches and sinus issues. We’re better now and resuming life. I’m like ~8% worried I have some mild form of Long COVID, but it’s allergy and mold season here in Austin so it’s hard to tel…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-31">2022-01-31</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://daverupert.com">daverupert.com</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>Five Hundred ShopTalks</span>
-                    <span class="article-reading-time">3 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/01/five-hundred-shoptalks/">
-                  <div class="article-summary-box-inner media-object">
-                    <img src="http://daverupert.com/images/opengraph/500.png" loading="lazy" class="media-object__media article-image"/>
-                    <span class="media-object__text">Today Chris and I released the 500th episode of ShopTalk. That translates to 10 years of weekly episodes (taking off holiday breaks and that one time one of us had a kid). That’s a lot of showing up and doing the work. And when I say weekly, boy howdy, I mean weekly. Peeling back the curtain a bit, I think the most Chris and I have ever been ahead is two episodes. Every week at 11:00 AM Texas time Chris and I hop on a call, sometimes with some guests, sometimes without.
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-31 datetime="2022-01-31T21:31:00.000Z">2022-01-31</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-31 datetime="2022-01-31T21:31:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >daverupert.com</button>
+                  <a class="source-heading__link" href="https://daverupert.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://daverupert.com/2022/01/five-hundred-shoptalks/"
+                        open
+                      >
+                        <summary class="article-expander__title">Five Hundred ShopTalks</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/01/five-hundred-shoptalks/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://daverupert.com/images/opengraph/500.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Today Chris and I released the 500th episode of ShopTalk. That translates to 10 years of weekly episodes (taking off holiday breaks and that one time one of us had a kid). That’s a lot of showing up and doing the work. And when I say weekly, boy howdy, I mean weekly. Peeling back the curtain a bit, I think the most Chris and I have ever been ahead is two episodes. Every week at 11:00 AM Texas time Chris and I hop on a call, sometimes with some guests, sometimes without.
 It’s interesting to have a first-hand chronicle to our industry’s ebbs and flows. When we started ShopTalk “front-end developer” wasn’t even a job title, WordPress was super cool, React didn’t exist, and people were starting to dip their toes into Sass. I switched operating systems and switched back. We delved into a handfu…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-29">2022-01-29</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://daverupert.com">daverupert.com</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>The Vacation</span>
-                    <span class="article-reading-time">1 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/01/the-vacation/">
-                  <div class="article-summary-box-inner media-object">
-                    <span class="media-object__text">I situated myself in the premium white leather chair, lowered the rollercoaster-like safety harness over my torso, and carefully weighed options on the console in front of me.
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-29 datetime="2022-01-29T01:25:00.000Z">2022-01-29</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-29 datetime="2022-01-29T01:25:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >daverupert.com</button>
+                  <a class="source-heading__link" href="https://daverupert.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://daverupert.com/2022/01/the-vacation/"
+                        open
+                      >
+                        <summary class="article-expander__title">The Vacation</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/01/the-vacation/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>I situated myself in the premium white leather chair, lowered the rollercoaster-like safety harness over my torso, and carefully weighed options on the console in front of me.
 &gt; Evening . . . . . . . . 20/person
 &gt; Overnight . . . . . . . 100/person
 &gt; Weekend . . . . . . . . 250/person
@@ -695,63 +1067,105 @@ I sensed my wife’s mind-reading. I sensed her fear I would succumb to my inner
 “Oh, alright. Here we go,” I groaned and grimaced as I tapped the screen.
 “You selected One Week” chimed the female voice of the console. Our chairs tilted slightly back, I felt the credits debit from my account, we were off. Finally.
 The hiss of the pneumatic syringes, the sting on the spinal column, the cool and heavy breeze of the sedatives, the warm cocktail of endorphins and dopamine to stimulate our deepest dreams and desires, the chairs and harnesses catching our weight as we drifted away from consciousness. The lights in the room slowly dimmed. We would be back in a week.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-26">2022-01-26</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://daverupert.com">daverupert.com</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>The Hexagons and the Hexa-nots</span>
-                    <span class="article-reading-time">1 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/01/hexagons/">
-                  <div class="article-summary-box-inner media-object">
-                    <span class="media-object__text">It’s a secret to everyone! This post is for RSS subscribers only.
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-26 datetime="2022-01-26T16:31:00.000Z">2022-01-26</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-26 datetime="2022-01-26T16:31:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >daverupert.com</button>
+                  <a class="source-heading__link" href="https://daverupert.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://daverupert.com/2022/01/hexagons/"
+                        open
+                      >
+                        <summary class="article-expander__title">The Hexagons and the Hexa-nots</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/01/hexagons/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>It’s a secret to everyone! This post is for RSS subscribers only.
 Read more about RSS Club.
 
 Twitter released a feature that allows you to connect your crypto wallet to your Twitter account. Once you connect your wallet, you can set your profile picture to an NFT that you own.
 I mean… setting your profile picture (”pfp”) wasn’t a hard problem before. Right click &gt; Save As, right? But this feature eliminates your phone’s camera roll as a middleman and instead inserts your wallet and the OpenSeas API as two third-party middlemen instead. If you’re wealthy enough to own enough NFTs that you have a hard time managing them all as profile pics, I suppose this is useful.
 Ok. Whatever. Then Twitter’s implementation took it a step further and when you add your NFT as a pfp (which you could do befor…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content js-toggle-accordions-scope">
-    <h2 class="daily-heading">
-      <button class="daily-heading__toggle" data-action="toggle-accordions"><time datetime="2022-01-25">2022-01-25</time></button>
-    </h2>
-    <ul class="sources">
-      <li class="source card">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://daverupert.com">daverupert.com</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander" open>
-                <summary class="article-expander__title">
-                    <span>The man playing the ukulele at the doctor’s office.</span>
-                    <span class="article-reading-time">1 min</span>
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/01/the-man-playing-the-ukulele-at-the-doctor-s-office/">
-                  <div class="article-summary-box-inner media-object">
-                    <span class="media-object__text">I was leaving a doctor’s appointment and as I rounded the corner to the waiting room I could hear the dulcet tones of a ukulele, but it sounded close.
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-25 datetime="2022-01-25T20:51:00.000Z">2022-01-25</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-25 datetime="2022-01-25T20:51:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >daverupert.com</button>
+                  <a class="source-heading__link" href="https://daverupert.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://daverupert.com/2022/01/the-man-playing-the-ukulele-at-the-doctor-s-office/"
+                        open
+                      >
+                        <summary class="article-expander__title">The man playing the ukulele at the doctor’s office.</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://daverupert.com/2022/01/the-man-playing-the-ukulele-at-the-doctor-s-office/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>I was leaving a doctor’s appointment and as I rounded the corner to the waiting room I could hear the dulcet tones of a ukulele, but it sounded close.
 My first reaction was “What in the fuck is going on?” as I scanned the ceiling for the speaker where the Muzak was coming from. Then in the waiting room I saw an older white man with a ponytail and a Hawaiian shirt calmly strumming his ukulele.
 Again, I reacted, “What the fuck is going on?”
 Then I caught myself. This… is… weird.
@@ -759,21 +1173,27 @@ Why was he playing it in the doctors office? Was he a minstrel? Was he calming t
 I think this moment struck me like a ton of bricks because it’s been awhile since I’ve encountered weird due to the pandemic. Angry? Oh, I’ve encountered plenty of angry. Hot-headed assholes losing their shit in a Chic-fil-A drive thru, yeah I’ve seen that, but been awhile since I’ve seen weird.
 The world could use a little more weird.
 I miss weird. I miss old Austin.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
 
-  <footer>
-    <time id="build-timestamp" datetime="2022-02-13T05:31:44.178Z">2022-02-13T05:31:44.178Z</time>
-    <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.13.0</a></span>
-  </footer>
-  <script src="index.js"></script>
-  <!-- %before-body-end.html% -->
-</body>
+    <footer>
+      <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed-examples/actions/runs/1839334006">
+        <time id="build-timestamp" datetime="2022-02-14T05:30:00.896Z">2022-02-14T05:30:00.896Z</time>
+      </a>
+      <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.1</a>
+    </footer>
+    <script src="index.js"></script>
+    <!-- %before-body-end.html% -->
+  </body>
 
 </html>

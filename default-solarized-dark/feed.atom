@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-13T05:31:44.056Z</id>
+    <id>urn:2022-02-14T05:30:01.719Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-13T05:31:44.056Z</updated>
-    <generator>osmosfeed 1.13.0</generator>
+    <updated>2022-02-14T05:30:01.719Z</updated>
+    <generator>osmosfeed 1.14.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Your CSS reset needs text-size-adjust (probably)]]></title>

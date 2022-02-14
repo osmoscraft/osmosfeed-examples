@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-13T05:31:45.438Z</id>
+    <id>urn:2022-02-14T05:30:02.063Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-13T05:31:45.438Z</updated>
-    <generator>osmosfeed 1.13.0</generator>
+    <updated>2022-02-14T05:30:02.063Z</updated>
+    <generator>osmosfeed 1.14.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Our Valentines 2022]]></title>
@@ -384,16 +384,6 @@ Scott's Instagram
  Make sure to include @SyntaxFM in your tweets]]></summary>
         <author>
             <name>Syntax - Tasty Web Development Treats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The rapid testing show]]></title>
-        <id>448f08d3-6d76-4107-b0d9-1578bae99823</id>
-        <link href="https://www.npr.org/2022/01/14/1073227859/the-rapid-testing-show"/>
-        <updated>2022-01-15T02:38:35.000Z</updated>
-        <summary type="html"><![CDATA[The Planet Money team fans out across the nation with one goal: to get a Covid test in 24 hours. It is easier said than done. | Subscribe to our weekly newsletter here.]]></summary>
-        <author>
-            <name>Planet Money</name>
         </author>
     </entry>
 </feed>
